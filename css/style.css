@@ -87,7 +87,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 52, E:/161 Real estate/161_Real_state_html/sass/_common.scss */
 a {
-  color: #14303a;
+  color: #208eb5;
   font-family: "Poppins", sans-serif;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -556,7 +556,7 @@ ul {
   width: 50%;
   height: 100%;
   /*background-image: url(../img/banner_overlay.png);*/
-  background-image: url(https://lh3.googleusercontent.com/-qnnjOds1S5g/XN__0m3NwII/AAAAAAAAAFk/LI1xKPOuq-Qcjj5NMxGHeH-ANhPHlleIACK8BGAs/s0/2019-05-18.png);
+  background-image: url(../img/custom/home-banner-img.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -1262,6 +1262,7 @@ ul {
   font-size: 42px;
   color: #fff;
   display: inline-block;
+  vertical-align: middle;
 }
 
 /* line 73, E:/161 Real estate/161_Real_state_html/sass/_passion.scss */
@@ -1524,7 +1525,7 @@ ul {
 /* line 109, E:/161 Real estate/161_Real_state_html/sass/_apartment.scss */
 .apartment_part .single_appartment_content .list-unstyled li {
   display: inline-block;
-  margin-right: 22px;
+  margin-right: 10px;
   font-size: 16px;
   font-weight: 400;
   color: #797979;

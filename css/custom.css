@@ -1,0 +1,19 @@
+.p-readable p{
+	line-height: 1.929;
+    margin-bottom: 30px;
+}
+.list-readable ul li{
+	display: inline-block;
+    margin-bottom: 15px;
+    font-size: 14px;
+    font-family: "Open Sans",sans-serif;
+    color: #7f7f7f;
+    padding-left: 33px;
+}
+.list-readable ul li span{
+	margin-right: 17px;
+    color: #970e76;
+    font-size: 20px;
+    position: absolute;
+    left: 14px;
+}

@@ -3527,7 +3527,7 @@ h6 {
   display: block;
   width: 100%;
   line-height: 40px;
-  border: none;
+  border: 1px solid #983176;
   outline: none;
   background: #f9f9ff;
   padding: 0 20px;
@@ -3568,7 +3568,7 @@ h6 {
   width: 100%;
   line-height: 40px;
   border: none;
-  outline: none;
+  border: 1px solid #983176;
   background: #f9f9ff;
   padding: 0 20px;
   height: 100px;

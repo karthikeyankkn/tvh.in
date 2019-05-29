@@ -1,10 +1,16 @@
 select{
 	display: block;
     width: 100%;
-    border: none;
+    border: 1px solid #983176;
     outline: none;
     background: #f9f9ff;
     height: 40px;
+}
+textarea{
+	border: 1px solid #983176;
+}
+input[type="file"]{
+	border: 0;
 }
 .p-readable p{
 	line-height: 1.929;
@@ -24,4 +30,15 @@ select{
     font-size: 20px;
     position: absolute;
     left: 14px;
+}
+.completed-projects-details{
+	padding: 10px;
+    background: #983176;
+}
+.completed-projects-details h3{
+	color: #fff;
+}
+.completed-projects-details label{
+	display: block;
+    color: #fff;
 }

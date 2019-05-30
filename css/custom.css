@@ -12,6 +12,10 @@ textarea{
 input[type="file"]{
 	border: 0;
 }
+hr{
+	background: #bf3a74;
+    border-width: 2px;
+}
 .p-readable p{
 	line-height: 1.929;
     margin-bottom: 30px;

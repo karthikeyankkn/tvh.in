@@ -1,0 +1,129 @@
+/*
+ * Header Styles
+ */
+
+.site-header{
+	position: relative;
+	min-height: 760px;
+	background-size: cover;
+	margin-bottom: 100px;
+	@include clearfix;
+	@media screen and (max-width: 990px){
+		position: relative;
+		padding-top: 300px;
+	}
+
+	// .container{
+	// 	position: relative;
+	// }
+}
+.branding{
+	background: $secondary-color;
+	color: white;
+	display: block;
+	position: absolute;
+	left: 15px;
+	padding: 40px;
+	text-align: center;
+	top: 0;
+
+
+	.site-title{
+		@include em(20);
+		margin: 10px 0 5px;
+		font-weight: 400;
+	}
+	.site-description{
+		@include em(13);
+		color: #9d9997;
+	}
+}
+
+.banner{
+	position: absolute;
+	width: 100%;
+	left:0;
+	background: #1b1918;
+	bottom: 0;
+	padding:20px;
+	.container{position:relative}
+
+	@media screen and (max-width: 990px){
+		position: relative;
+		padding: 20px 0;
+	}
+	
+	.cta{
+		padding-right: 40%;
+		@media screen and (max-width: 990px){
+			padding-right: 30px;
+		}
+	}
+
+	a{
+		color: #9d9997;
+	}
+	h2{
+		@include em(30);
+		color: white;
+		font-weight: 300;
+		margin: 0 0 10px
+	}
+	small{@include em(14)}
+	.arrow-button{
+		width: 50px;
+		height: 50px;
+		border: 2px solid $accent-color;
+		color: $accent-color;
+		border-radius: 50%;
+		display: block;
+		text-align: center;
+		@include em(25);
+		float: right;
+		padding-top: 5px;
+		position: relative;
+		margin-top: 15px;
+
+	}
+}
+
+.subscribe-form{
+	position: absolute;
+	right:0;
+	bottom:-35px;
+	background: $secondary-color;
+	width: 30%;
+	padding: 30px;
+
+	@media screen and (max-width:990px){
+		width: 100%;
+		position: relative;
+		left:0;
+	}
+
+	.form-subtitle{
+		@include em(18);
+		color: white;
+	}
+	.form-title{
+		@include em(36);
+		color: white;
+		font-weight: 300;
+	}
+
+	p{
+		color: #9d9997;
+		margin: 30px 0;
+	}
+	input{
+		.fa{transition: .3s ease;}
+		&:hover, &:focus{
+			+.fa{color: $accent-color}
+		}
+	}
+	input[type="submit"]{
+		width: 100%;
+		@include em(18);
+		padding: 15px 20px;
+	}
+}

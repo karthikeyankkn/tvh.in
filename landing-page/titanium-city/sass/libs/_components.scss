@@ -1,0 +1,18 @@
+/*
+ * Reusable Components Style
+ */
+
+.button{
+	background-color: $accent-color;
+	background-image: linear-gradient(#e8cf99,#b79e69);
+	border: none;
+	border-radius: 0;
+	padding: 10px 20px;
+	transition: .3s ease;
+	color: #54492f;
+	display: inline-block;
+	
+	&:hover{
+		background: lighten($accent-color, 10%);
+	}
+}

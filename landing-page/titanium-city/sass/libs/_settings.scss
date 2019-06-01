@@ -1,0 +1,16 @@
+// Font family
+$primary-font      : "Roboto", "Open Sans", sans-serif;
+$secondary-font    : "Roboto Slab", "Raleway", "Open Sans", serif;
+
+
+// Color Variables
+$accent-color      : #b79e69;
+$primary-color     : $accent-color;
+$secondary-color   : #262322;
+
+$strong-color      : #54504e;
+$body-color        : #7b7674;
+
+// Grid system
+$grid-columns      : 12 !default;
+$grid-gutter-width : 30px !default;

@@ -1,0 +1,409 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Real_state || Tvh-Taus</title>
+    <link rel="icon" href="img/favicon.png">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!-- animate CSS -->
+    <link rel="stylesheet" href="css/animate.css">
+    <!-- owl carousel CSS -->
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <!-- themify CSS -->
+    <link rel="stylesheet" href="css/themify-icons.css">
+    <!-- flaticon CSS -->
+    <link rel="stylesheet" href="css/flaticon.css">
+    <!-- font awesome CSS -->
+    <link rel="stylesheet" href="fontawesome/css/all.min.css">
+    <!-- style CSS -->
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/custom.css">
+
+    <style>
+* {box-sizing: border-box}
+body {font-family: Verdana, sans-serif; margin:0}
+.mySlides {display: none}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
+</style>
+  </head>
+  <body>
+    <!--::menu part start::-->
+    <header class="main_menu">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+            <nav class="navbar navbar-expand-lg navbar-light">
+              <a class="navbar-brand" href="/"> <img src="img/custom/tvh.23-years-logo.jpg" alt="tvh-logo"> </a>
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse main-menu-item" id="navbarNav">
+                <ul class="navbar-nav">
+                  <li class="nav-item active">
+                    <a class="nav-link" href="index.html">Home<span class="sr-only">(current)</span></a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="about.html">about us</a>
+                  </li>
+                          <li class="nav-item dropdown">
+                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Residential
+                             </a>
+                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" href="single-blog.html">Tvh Quadrant</a>
+                                <a class="dropdown-item" href="elements.html">Tvh Titanium City</a>
+                                <a class="dropdown-item" href="elements.html">Tvh Avaranya Bay</a>
+                                <a class="dropdown-item" href="elements.html">Tvh Taus</a>
+                                <a class="dropdown-item" href="elements.html">Tvh Lumbini Square</a>
+                                <a class="dropdown-item" href="elements.html">Tvh Crossway</a>
+                             </div>
+                          </li>
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                      data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      Commercial
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                      <a class="dropdown-item" href="single-blog.html">Tvh Agnitiopark</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="contact.html">Contact us</a>
+                  </li>
+                          <li class="nav-item">
+                             <a class="nav-link" href="csr.html">csr</a>
+                          </li>
+                </ul>
+              </div>
+              <!-- <div class="btn_1 d-none d-lg-block">
+                <a href="#" class="float-right">Submit property</a>
+              </div> -->
+            </nav>
+          </div>
+        </div>
+      </div>
+    </header>
+    <!--::menu part end::-->
+    <!-- ================  breadcrumb part start ================  -->
+    <section class="breadcrumb blog_bg">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="breadcrumb_iner">
+              <div class="breadcrumb_iner_item">
+                <h2>TVH-TAUS</h2>
+                <p>Home<span class="ti-angle-double-right"></span>TVH-TAUS</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- ================ breadcrumb part start ================ -->
+    <!-- ================ contact section start ================= -->
+    <section class="contact-section area-padding">
+      <div class="container">
+        <!-- slider office -->
+          <div class="row">
+            <div class="col-md-6">
+              
+            </div>
+            <div class="col-md-6 p-readable">
+              <h2>Project overview</h2>
+              <hr>
+              <h4>You get to live clean and so does our planet</h4>
+              <p>It’s about time we woke up to the concept of green living. TVH being a real estate pioneer has introduced TVH Taus on OMR in Chennai. From wide open spaces filled with greenery to planet-conscious materials, everything that goes into Taus home is eco-friendly and also holds the promise of giving you and your family the luxury that you deserve.</p>
+
+              <h4>Specifications</h4>
+              <ul class="unordered-list">
+                <li>517 – 3,800 sq. ft</li>
+                <li>403 apartments, 3 apartments per floor with no common walls</li>
+                <li>Constructed on 25% of overall area with 75% green space</li>
+                <li>Large Green courtyard</li>
+                <li>Before Siruseri IT Park</li>
+                <li>IGBC Green Home Standard Compliant</li>
+              </ul>
+            </div>
+          </div>
+          <!-- slider end -->
+        <div class="mb-5 pb-4">
+          <h2 class="mb-20">2) TVH – Projects I</h2>
+          <hr>
+          <div class="row">
+            <div class="col-md-12 p-readable">
+              <h4>Address:</h4>
+              <p>Lumbini Square Little Children – Day Care Centre <br> Purasawalkam, Chennai 600 007.</p>
+            </div>
+            <div class="col-md-4 p-readable">
+              <h4>Vision</h4>
+              <h6>Objectives:</h6>
+              <ul class="unordered-list">
+                <li>Health awareness</li>
+                <li>Activity based learning</li>
+                <li>Personality Development</li>
+                <li>Environmental awareness</li>
+                <li>Spread awareness of the complexities that cause children to be physically exploited and vulnerable.</li>
+              </ul>
+            </div>
+            <div class="col-md-8 p-readable">
+              <h4>The Project</h4>
+              <p>The students were enrolled by the end of October after many orientation sessions with their parents. The project began on November 5, 2007. The school building was inaugurated by Mr. Ravichandran, Chairman TVH. Regular classes for students are conducted in English. Various techniques like activity base learning using charts, spell board, building blocks, counting beads, drawing, craft works, rhymes, games and drill are conducted.</p>
+              <p>Periodical medical check-ups are conducted for the students,and medicines are provided for their ailments.National days and festivals are also celebrated in the school. The Parents Teacher’s healthy relationship is also helping to improve the quality of students.teachers also aid the mothers who share their problems with them.</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="mb-5 pb-4">
+          <h2 class="mb-20">TVH – Projects II</h2>
+          <hr>
+          <div class="row">
+            <div class="col-md-12 p-readable">
+              <h4>Address:</h4>
+              <p>Medical Camp at Alamathi village, <br>Ponneri Taluk in Thiruvallur District on 5th January 2008</p>
+
+              <h4>Vision:</h4>
+              <p>To provide medical assistance to prenatal and postnatal mothers, and children through regular medical checkups.  Ensure nutritional needs for prenatal and postnatal mothers by providing them nutritional packages.</p>
+              <p>To educate pregnant mothers through regular workshops on aspects to be followed during pregnancy.  Educate mothers to understand the special nutritional needs of new born, notably the value of breastfeeding and the importance of introducing suitable complementary foods at the right age.</p>
+              <p>Protecting children from infection, by such measures as immunization against common childhood diseases and provision of safe water and sanitation.  Ensuring that children receive quality care when they fall ill.</p>
+
+              <h4>Reason for Working in the Village:</h4>
+              <p>Malnutrition is prevalent in the village among women and children. The major factors contributing to it are their food patterns, lack of nutritional awareness, lack of awareness of the facilities available around them, and their accessibility towards them and occupational pattern. Anemia is also largely present among women.</p>
+
+              <h4>Services:</h4>
+              <p>Medical Check-ups: Through the project, a general medical check-up assessing weight, BP, Hemoglobin, diabetics, malnutrition and deficiency will be organized.</p>
+
+              <h4>Feedback:</h4>
+              <ul class="unordered-list">
+                <li>Through the four months intervention in the village the following outcomes were received.</li>
+                <li>A good rapport has been established in the village</li>
+                <li>The nutrition packages have increased the health status of the beneficiaries</li>
+                <li>The beneficiaries awareness of various health aspects has increased</li>
+                <li>The participation level of the beneficiaries has increased.</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div class="mb-5 pb-4">
+          <h2 class="mb-20">Promotional Activities</h2>
+          <hr>
+          <div class="row">
+            <div class="col-md-12 p-readable">
+              <p>Give Life Chennai Marathon organized by Tamil Maiyam and Goodwill Communications Ltd. was co-sponsored by True Value Homes India Private Limited. The Marathon was successfully organized on September 27, 2009. As a part of promotional activity, T-shirts bearing Company’s brand and logo was distributed to the public and the participants of the event.</p>
+              <p>TVH sponsored the FIBA ASIA Women Basket Ball Championship ’09 held at Jawaharlal Nehru Stadium from 17th – 24th September ’09.  TVH felicitated 9 Indian International Players participation in State Level Volley Ball Tournament organized at Chennai from 26th September – 1st November ’09.</p>
+              <p>TVH participated in the Mega Job Mela, 2008, on August 09, 2008. organised by Ms. Kanimozhi Karunanidhi, Member of Parliament and Goodwill Communication. Many new recruits were hired into the organization including physically handicapped.</p>
+              <p>TVH participated in the Kalaignar 86 Job fair that held in Cuddalore from 6th – 8th November ’09.</p>
+
+              <h4>Social Activities in Coimbatore:</h4>
+              <p>Educational scholarships are offered to the deserving students who excel in academics and sports in the Rajalakshmi Mills High School, Coimbatore. The fund was distributed to build basket ball courts and hygienic rest rooms.</p>
+
+              <h4>TVH – Coimbatore Marathon:</h4>
+              <p>TVH Coimbatore Marathon is a sports event where the surge of athletism and physical fitness, combined with the human urge of compassion, aimed to inspire the city of Coimbatore. Rotary Club of Coimbatore Texcity and CRPF joined hand to conduct the TVH Coimbatore Marathon, an event to create awareness about the importance of educating the Girl child. It was coordinated through students of the BSMED – Bharathiar University and held on November 22, 2009.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- ================ contact section end ================= -->
+    <!--::footer_part start::-->
+    <footer class="footer_part">
+      <div class="container">
+         <div class="row">
+            <div class="col-sm-6 col-lg-3">
+               <div class="single_footer_part">
+                  <h4>Registered Office</h4>
+                  <p>Address :TVH - Triveni, No: 21, C V Raman Raod, Alwarpet, Chennai - 600018.</p>
+                  <a href="index.html" class="footer_logo"> <img src="http://www.tvh.in/wp-content/uploads/2019/04/23-years-1.jpg" alt="#"> </a>
+               </div>
+            </div>
+            <div class="col-sm-6 col-lg-3">
+               <div class="single_footer_part">
+                  <h4>Get In Touch – Chennai</h4>
+                  <p>Address :No: 16/17, 3rd Cross Street, R.A.Puram, Chennai India- 600028.</p>
+                  <p>Phone : <a href="tel:04471227122">044 7122 7122</a></p>
+                  <p>Email : <a href="mailto:sales@tvh.in">sales@tvh.in</a></p>
+               </div>
+               <div class="single_footer_part mt-30">
+                  <h4>Coimbatore</h4>
+                  <p>Address :TVH Aurora, 1126 - Trichy Road, Singanallur Post, Coimbatore, India - 641005.</p>
+                  <p>Phone : <a href="tel:+914224346666">+91 422 434 6666</a></p>
+                  <p>Email : <a href="mailto:cmbsales@tvh.in">cmbsales@tvh.in</a></p>
+               </div>
+            </div>
+            <div class="col-sm-6 col-lg-3">
+               <div class="single_footer_part">
+                  <h4>Important Link</h4> 
+                  <ul class="list-unstyled">
+                     <li><a href="">My TVH</a></li>
+                     <li><a href="">Completed Projects</a></li>
+                     <li><a href="">Blog</a></li>
+                     <li><a href="">Gallery</a></li>
+                     <li><a href="">CSR</a></li>
+                     <li><a href="">Privacy Policy</a></li>
+                     <li><a href="">Cancellation Policy</a></li>
+                     <li><a href="">Disclaimer</a></li>
+                     <li><a href="">RERA Disclaimer</a></li>
+                  </ul>
+               </div>
+            </div>
+            <div class="col-sm-6 col-lg-3">
+               <div class="single_footer_part">
+                  <h4>Newsletter</h4>
+                  <p>Heaven fruitful doesn't over lesser in days. Appear creeping seasons deve behold bearing days open
+                  </p>
+                  <div class="mail_part">
+                     <input type="text" placeholder="Email Address" class="placeholder hide-on-focus">
+                     <a href="" class="email_icon"><i class="far fa-paper-plane"></i></a>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <hr>
+         <div class="row">
+            <div class="col-sm-6 col-lg-6">
+               <div class="copyright_text">
+                  <P><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> True Value Homes All rights reserved 
+<!-- | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="#" target="_blank">KKN</a> -->
+               </div>
+            </div>
+            <div class="col-sm-6 col-lg-6">
+               <div class="footer_icon">
+                  <ul class="list-unstyled">
+                     <li><a href="https://www.facebook.com/TVHIndia" class="single_social_icon"><i class="fab fa-facebook-f"></i></a></li>
+                     <li><a href="https://www.twitter.com/TVHIndia" class="single_social_icon"><i class="fab fa-twitter"></i></a></li>
+                     <li><a href="https://www.linkedin.com/company/true-value-homes" class="single_social_icon"><i class="ti-linkedin"></i></a></li>
+                     <li><a href="https://plus.google.com/108601123437267711356/posts" class="single_social_icon"><i class="ti-google"></i></a></li>
+                     <li><a href="https://www.flickr.com/photos/tvhindia/albums"><i class="ti-flickr-alt"></i></a></li>
+                  </ul>
+               </div>
+            </div>
+         </div>
+      </div>
+    </footer>
+    <!--::footer_part end::-->
+    <!-- ==================jquery plugins here ===================== -->
+    <!-- jquery -->
+    <script src="js/jquery-1.12.1.min.js"></script>
+    <!-- popper js -->
+    <script src="js/popper.min.js"></script>
+    <!-- bootstrap js -->
+    <script src="js/bootstrap.min.js"></script>
+    <!-- easing js -->
+    <script src="js/jquery.easing.min.js"></script>
+    <!-- particles js -->
+    <script src="js/contact.js"></script>
+    <!-- carousel js -->
+    <script src="js/gmaps.min.js"></script>
+    <!-- easing js -->
+    <script src="js/jquery.ajaxchimp.min.js"></script>
+    <!-- particles js -->
+    <script src="js/jquery.form.js"></script>
+    <!-- magnific-popup js -->
+    <script src="js/jquery.magnific-popup.js"></script>
+    <!-- particles js -->
+    <script src="js/jquery.validate.min.js"></script>
+    <!-- carousel js -->
+    <script src="js/mail-script.js"></script>
+    <!-- custom js -->
+    <script src="js/custom.js"></script>
+  </body>
+</html>

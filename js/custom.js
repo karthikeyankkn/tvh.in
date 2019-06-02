@@ -2,8 +2,8 @@
   "use strict";
 
   $(function(){
-    $("#header").load("../header.html"); 
-    $("#footer").load("../footer.html"); 
+    $("#header").load("header.html"); 
+    $("#footer").load("footer.html"); 
   });
 
   var review = $('.review_part_text');

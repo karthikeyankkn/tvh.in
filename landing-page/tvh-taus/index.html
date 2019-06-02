@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Theme Made By www.w3schools.com - No Copyright -->
+  <title>Bootstrap Theme The Band</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  <style>
+  body {
+    font: 400 15px/1.8 Lato, sans-serif;
+    color: #777;
+  }
+  h3, h4 {
+    margin: 10px 0 30px 0;
+    letter-spacing: 10px;      
+    font-size: 20px;
+    color: #111;
+  }
+  .container {
+    padding: 80px 120px;
+  }
+  .person {
+    border: 10px solid transparent;
+    margin-bottom: 25px;
+    width: 80%;
+    height: 80%;
+    opacity: 0.7;
+  }
+  .person:hover {
+    border-color: #f1f1f1;
+  }
+  .carousel-inner img {
+    -webkit-filter: grayscale(90%);
+    filter: grayscale(90%); /* make all photos black and white */ 
+    width: 100%; /* Set width to 100% */
+    margin: auto;
+  }
+  .carousel-caption h3 {
+    color: #fff !important;
+  }
+  @media (max-width: 600px) {
+    .carousel-caption {
+      display: none; /* Hide the carousel text when the screen is less than 600 pixels wide */
+    }
+  }
+  .bg-1 {
+    background: #2d2d30;
+    color: #bdbdbd;
+  }
+  .bg-1 h3 {color: #fff;}
+  .bg-1 p {font-style: italic;}
+  .list-group-item:first-child {
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+  }
+  .list-group-item:last-child {
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+  .thumbnail {
+    /*padding: 0 0 15px 0;*/
+    border: none;
+    border-radius: 0;
+  }
+  .thumbnail a img{
+    height: 300px;
+  }
+  .thumbnail p {
+    margin-top: 15px;
+    color: #555;
+  }
+  .btn {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #f1f1f1;
+    border-radius: 0;
+    transition: .2s;
+  }
+  .btn:hover, .btn:focus {
+    border: 1px solid #333;
+    background-color: #fff;
+    color: #000;
+  }
+  .modal-header, h4, .close {
+    background-color: #333;
+    color: #fff !important;
+    text-align: center;
+    font-size: 30px;
+  }
+  .modal-header, .modal-body {
+    padding: 40px 50px;
+  }
+  .nav-tabs li a {
+    color: #777;
+  }
+  #googleMap {
+    width: 100%;
+    height: 400px;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+  }  
+  .navbar {
+    font-family: Montserrat, sans-serif;
+    margin-bottom: 0;
+    background-color: #2d2d30;
+    border: 0;
+    font-size: 11px !important;
+    letter-spacing: 4px;
+    opacity: 0.9;
+  }
+  .navbar li a, .navbar .navbar-brand { 
+    color: #d5d5d5 !important;
+  }
+  .navbar-nav li a:hover {
+    color: #fff !important;
+  }
+  .navbar-nav li.active a {
+    color: #fff !important;
+    background-color: #29292c !important;
+  }
+  .navbar-default .navbar-toggle {
+    border-color: transparent;
+  }
+  .open .dropdown-toggle {
+    color: #fff;
+    background-color: #555 !important;
+  }
+  .dropdown-menu li a {
+    color: #000 !important;
+  }
+  .dropdown-menu li a:hover {
+    background-color: red !important;
+  }
+  footer {
+    background-color: #2d2d30;
+    color: #f5f5f5;
+    padding: 32px;
+  }
+  footer a {
+    color: #f5f5f5;
+  }
+  footer a:hover {
+    color: #777;
+    text-decoration: none;
+  }  
+  .form-control {
+    border-radius: 0;
+  }
+  textarea {
+    resize: none;
+  }
+  ul li i{
+    padding-right: 15px;
+  }
+  </style>
+</head>
+<body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="50">
+
+<nav class="navbar navbar-default navbar-fixed-top">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="#myPage">TVH TAUS</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#myPage">HOME</a></li>
+        <li><a href="#project-overview">PROJECT OVERVIEW</a></li>
+        <li><a href="#gallery">GALLERY</a></li>
+        <li><a href="#contact">CONTACT</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
+      <li data-target="#myCarousel" data-slide-to="2"></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner" role="listbox">
+      <div class="item active">
+        <img src="../../img/custom/tvh-taus-1.jpg" alt="New York" width="1200" height="600">
+        <div class="carousel-caption">
+          <!-- <h3>New York</h3> -->
+          <!-- <p>The atmosphere in New York is lorem ipsum.</p> -->
+        </div>      
+      </div>
+
+      <div class="item">
+        <img src="../../img/custom/tvh-taus-2.jpg" alt="Chicago" width="1200" height="600">
+        <div class="carousel-caption">
+          <!-- <h3>Chicago</h3> -->
+          <!-- <p>Thank you, Chicago - A night we won't forget.</p> -->
+        </div>      
+      </div>
+    
+      <div class="item">
+        <img src="../../img/custom/tvh-taus-3.jpg" alt="Los Angeles" width="1200" height="600">
+        <div class="carousel-caption">
+          <!-- <h3>LA</h3> -->
+          <!-- <p>Even though the traffic was a mess, we had the best time playing at Venice Beach!</p> -->
+        </div>      
+      </div>
+    </div>
+
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+</div>
+
+<!-- Container (The Band Section) -->
+<div id="project-overview" class="container">
+  <div class="row">
+    <div class="row">
+      <div class="col-md-6">
+        <h3>Project overview</h3>
+        <p><em>You get to live clean and so does our planet</em></p>
+        <p>It’s about time we woke up to the concept of green living. TVH being a real estate pioneer has introduced TVH Taus on OMR in Chennai. From wide open spaces filled with greenery to planet-conscious materials, everything that goes into Taus home is eco-friendly and also holds the promise of giving you and your family the luxury that you deserve.</p>
+      </div>
+      <div class="col-md-6">
+        <h3>Amenities</h3>
+        <ul style="list-style: none; padding: 0">
+          <li><i class="glyphicon glyphicon-tree-deciduous"></i>  Open air theatre</li>
+          <li><i class="glyphicon glyphicon-tree-deciduous"></i>  State of the art gym</li>
+          <li><i class="glyphicon glyphicon-tree-deciduous"></i>  100% rain water harvesting</li>
+          <li><i class="glyphicon glyphicon-tree-deciduous"></i>  Terrace garden</li>
+          <li><i class="glyphicon glyphicon-tree-deciduous"></i>  Swimming pool</li>
+          <li><i class="glyphicon glyphicon-tree-deciduous"></i>  Fitness centre</li>
+          <li><i class="glyphicon glyphicon-tree-deciduous"></i>  Badminton court</li>
+        </ul>
+      </div>
+    </div>
+    <hr>
+    <div class="row">
+      <div class="col-md-6">
+        <h3>Specifications</h3>
+        <ul style="list-style: none; padding: 0">
+          <li>
+            <div class="col-md-6">Size</div><div class="col-md-6">517 – 3,800 sq. ft</div>
+          </li>
+          <li>
+            <div class="col-md-6">Apartments</div><div class="col-md-6">403 apartments, 3 apartments per floor with no common walls</div>
+          </li>
+          <li>
+            <div class="col-md-6">Foundation</div><div class="col-md-6">Constructed on 25% of overall area with 75% green space</div>
+          </li>
+          <li>
+            <div class="col-md-6">Environment</div><div class="col-md-6">Large Green courtyard</div>
+          </li>
+          <li>
+            <div class="col-md-6">Location</div><div class="col-md-6">Before Siruseri IT Park</div>
+          </li>
+          <li>
+            <div class="col-md-6">Quality</div><div class="col-md-6">IGBC Green Home Standard Compliant</div>
+          </li>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <h3>Location</h3>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3890.072818236181!2d80.22374191489078!3d12.838570990943222!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525a5bd2b4103b%3A0xdceddd285a9f1593!2sTVH+Taus!5e0!3m2!1sen!2sin!4v1556965747366!5m2!1sen!2sin" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+      </div>
+    </div>
+  </div> 
+</div>
+
+<!-- Container (gallery Section) -->
+<div id="gallery" class="bg-1 row">
+  <div class="container">
+    <h2 class="text-center">Gallery</h2>
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="../../img/custom/tvh-taus-status-image-3.png">
+          <img src="../../img/custom/tvh-taus-status-image-3.png" alt="tvh-taus-status" style="width:100%">
+        </a>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="../../img/custom/tvh-taus-status-image-1.png">
+          <img src="../../img/custom/tvh-taus-status-image-1.png" alt="tvh-taus-status" style="width:100%">
+        </a>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="../../img/custom/tvh-taus-status-image-2.jpg">
+          <img src="../../img/custom/tvh-taus-status-image-2.jpg" alt="tvh-taus-status" style="width:100%">
+        </a>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="../../img/custom/tvh-taus-status-image-1.jpg">
+          <img src="../../img/custom/tvh-taus-status-image-1.jpg" alt="tvh-taus-status" style="width:100%">
+        </a>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="../../img/custom/tvh-taus-status-image-5.jpg">
+          <img src="../../img/custom/tvh-taus-status-image-5.jpg" alt="tvh-taus-status" style="width:100%">
+        </a>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="../../img/custom/tvh-taus-status-image-3.jpg">
+          <img src="../../img/custom/tvh-taus-status-image-3.jpg" alt="tvh-taus-status" style="width:100%">
+        </a>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="../../img/custom/tvh-taus-status-image-4.jpg">
+          <img src="../../img/custom/tvh-taus-status-image-4.jpg" alt="tvh-taus-status" style="width:100%">
+        </a>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="../../img/custom/tvh-taus-status-image-6.jpg">
+          <img src="../../img/custom/tvh-taus-status-image-6.jpg" alt="tvh-taus-status" style="width:100%">
+        </a>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <a href="../../img/custom/tvh-taus-status-image-1.jpg">
+          <img src="../../img/custom/tvh-taus-status-image-1.jpg" alt="tvh-taus-status" style="width:100%">
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Container (Contact Section) -->
+<div id="contact" class="container">
+  <h3 class="text-center">Contact</h3>
+  <div class="row">
+    <div class="col-md-12">
+      <form method="POST" action="https://formspree.io/kknmalar2@gmail.com">
+        <div class="row">
+          <div class="col-sm-6 form-group">
+            <input class="form-control" id="name" name="name" placeholder="Name" type="text" required>
+          </div>
+          <div class="col-sm-6 form-group">
+            <input class="form-control" id="email" name="email" placeholder="Email" type="email" required>
+          </div>
+          <div class="col-sm-6 form-group">
+            <input class="form-control" id="Pnone-number" name="Pnone-number" placeholder="Pnone number" type="number" required>
+          </div>
+          <div class="col-sm-6 form-group">
+            <select data-required="true" class="form-control" name="Convenient Time To Call">
+               <option selected disabled>Convenient Time To Call You:</option>
+               <option value="8am to 9am">8am To 9am</option>
+               <option value="9am to 10am">9am To 10am</option>
+               <option value="10am to 11am">10am To 11am</option>
+               <option value="11am to 12pm">11am To 12pm</option>
+               <option value="12pm to 1pm">12pm To 1pm</option>
+               <option value="1pm to 2pm">1pm To 2pm</option>
+               <option value="2pm to 3pm">2pm To 3pm</option>
+               <option value="3pm to 4pm">3pm To 4pm</option>
+               <option value="4pm to 5pm">4pm To 5pm</option>
+               <option value="5pm to 6pm">5pm To 6pm</option>
+               <option value="6pm to 7pm">6pm To 7pm</option>
+               <option value="7pm to 8pm">7pm To 8pm</option>
+            </select>
+          </div>
+        </div>
+        <textarea class="form-control" id="comments" name="comments" placeholder="Comment" rows="5"></textarea>
+        <input type="hidden" name="_next" value="/contact-us/"> <input type="hidden" name="_cc" value="anand@tvh.in"> <input type="hidden" name="_subject" value="TVH-taus-form">
+        <br>
+        <div class="row">
+          <div class="col-md-12 form-group text-center">
+            <button class="btn" type="submit">Send</button>
+          </div>
+        </div>
+      </form>  
+    </div>
+  </div>
+</div>
+  
+<!-- Footer -->
+<footer class="text-center">
+  <a class="up-arrow" href="#myPage" data-toggle="tooltip" title="TO TOP">
+    <span class="glyphicon glyphicon-chevron-up"></span>
+  </a><br><br>
+  <p>© 2019 - True Value Homes. All rights reserved.</p> 
+</footer>
+
+<script>
+$(document).ready(function(){
+  // Initialize Tooltip
+  $('[data-toggle="tooltip"]').tooltip(); 
+  
+  // Add smooth scrolling to all links in navbar + footer link
+  $(".navbar a, footer a[href='#myPage']").on('click', function(event) {
+
+    // Make sure this.hash has a value before overriding default behavior
+    if (this.hash !== "") {
+
+      // Prevent default anchor click behavior
+      event.preventDefault();
+
+      // Store hash
+      var hash = this.hash;
+
+      // Using jQuery's animate() method to add smooth page scroll
+      // The optional number (900) specifies the number of milliseconds it takes to scroll to the specified area
+      $('html, body').animate({
+        scrollTop: $(hash).offset().top
+      }, 900, function(){
+   
+        // Add hash (#) to URL when done scrolling (default click behavior)
+        window.location.hash = hash;
+      });
+    } // End if
+  });
+})
+</script>
+
+</body>
+</html>

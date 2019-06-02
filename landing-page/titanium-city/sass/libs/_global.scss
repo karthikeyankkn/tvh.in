@@ -1,0 +1,74 @@
+/*
+ * Global Styles
+ */
+
+$browser-context: 14; // Default
+
+body {
+	color       : $body-color;
+	font-family : $primary-font;
+	font-size   : #{$browser-context}px;
+	font-weight : 300;
+	line-height : 1.5;
+
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-weight : 700;
+	margin      : 0 0 20px;
+	line-height: normal;
+}
+
+hr{ 
+	border: none;
+	border-bottom: 1px solid #777;
+}
+
+ul, ol {
+	margin: 0;
+	padding-left: 0;
+}
+
+a { 
+	text-decoration: none;
+	color: $accent-color;
+}
+
+address { font-style: normal }
+
+p{ margin-top: 0 }
+
+form{
+	.control{
+		position: relative;
+		margin-bottom: 20px;
+
+		.fa{
+			position: absolute;
+			left:15px;
+			top:15px;
+		}
+		input{
+			padding: 15px;
+			padding-left: 40px;
+			width: 100%;
+		}
+	}
+	input,textarea,select{
+		outline: none;
+		padding: 10px;
+		border: none;
+	}
+	select{
+		-webkit-appearance: none;
+		-moz-appearance: none;
+		appearance: none;
+	}
+	textarea{
+		resize: vertical;
+	}
+	input[type="submit"],button, input[type="reset"]{
+		@extend .button;
+	}
+
+}

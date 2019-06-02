@@ -1610,7 +1610,9 @@ ul {
   box-shadow: 0px 0px 0px 0px rgba(20, 48, 58, 0.1);
   color: #fff;
 }
-
+.single_appartment_part{
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+} 
 @media (max-width: 576px) {
   /* line 169, E:/161 Real estate/161_Real_state_html/sass/_apartment.scss */
   .apartment_part .single_appartment_part {

@@ -1,0 +1,738 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=yes">
+      <title>TVH VISTA | Life living in Largest Life style Township </title>
+      <meta name="description" content="T">
+      <meta name="keywords" content="">
+      <!-- <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico"> -->
+      <link rel="shortcut icon" href="http://www.tvh.in/wp-content/uploads/2019/04/tvh_logo.png" />
+	  <meta name="viewport" content="width=device-width, initial-scale=1">
+	  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	  <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	  <link rel="stylesheet" type="text/css" href="main-index-assets/css/style3.css">
+	  <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="main-index-assets/css/jquery.fancybox.css">
+	  <script type="text/javascript" src="main-index-assets/js/script1.js"></script>
+	  <!-- <script src="https://use.fontawesome.com/a398167dda.js"></script> -->
+	  <script src="https://kit.fontawesome.com/93eb3393c7.js"></script>
+	
+	<script>
+  		window.dataLayer = window.dataLayer || [];
+  		function gtag(){dataLayer.push(arguments);}
+  		gtag('js', new Date());
+
+  		gtag('config', 'UA-112018181-1');
+	</script>
+
+	<!-- countrycode -->
+	<link rel="stylesheet" href="main-index-assets/multi_country_code/build/css/intlTelInput.css">
+	<script src="main-index-assets/multi_country_code/build/js/intlTelInput.js"></script>
+</head>
+<body>
+
+<style>
+	.fab {
+    font-family: "Font Awesome 5 Brands";
+    font-size: 20px;
+    padding: 5px;
+    color: #fff;
+}
+	.btn-danger {
+    color: #fff;
+    background-color: #990f6f;
+    border-color: #990f6f;
+}
+.btn-danger:hover {
+    color: #990f6f;
+    background-color:#fff ;
+    border-color: #990f6f;
+}
+	.fa, .fas{
+	font-weight: 900;
+    font-size: 29px;
+     padding: 10px; 
+    color: #990f6f;	
+	}
+
+.popup-model{
+	background: #fff;
+	padding: 10px;
+	border-radius: 5px;
+	display: none;
+	position: absolute;
+    z-index: 100;
+    top: 25%;
+    left: 0;
+    right: 0;
+    width: 60%;
+    margin: auto;
+}
+.bg-overlay{
+	background: #000000b3;
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	z-index: 99;
+	display: none;
+}
+.popup-model img{
+	width: 100%;
+}
+.popup-model i{
+	position: absolute;
+    right: -3%;
+    top: -3%;
+    padding: 10px 15px;
+    border-radius: 50%;
+    background: #fff;
+    color: #000;
+    cursor: pointer;
+    font-weight: bold;
+}
+.location-map{
+	position: relative;
+}
+.bg-about{
+	background-color: #fff !important;
+	color: #000 !important;
+	padding-bottom: 2px;
+	padding-top: 30px;
+}
+section{
+	background-color: #fff !important;
+	color: #000 !important;
+}
+.fb-content{
+	padding: 50px;
+}
+.bg-about h2 {
+	padding: 20px;
+	margin: auto;
+	text-align: center;
+}
+.bg-about ul li {
+    list-style: none;
+    padding: 14px;
+    font-size: 16px;
+    display: inline-block;
+}
+.Basic-Infrastructure .fa{
+	font-size: 40px;
+	margin-right: 15px;
+}
+.Plot-Infrastructure .fa{
+	font-size: 40px;
+	margin-right: 15px;
+}
+.Plot-Infrastructure ul p{
+	font-size: 14px;
+}
+.Plot-Infrastructure ul li{
+	list-style: none;
+	padding: 6px;
+	font-size: 16px;
+}
+.Basic-Infrastructure-btn{
+	background-color:  #939393;
+	margin-top: 5px;
+	color: #fff;
+	padding: 7px;
+	outline: none;
+	font-size: 16px;
+	border-color: transparent;
+}
+.form-type  input{
+	display: block;
+    padding-left: 20px;
+    width: 96%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #990f6f00;
+    border: 2px solid #fff;
+    color: #fff;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+select {
+	background: #f4ad33;
+    height: 44px;
+    width: 98%;
+    border: 2px solid #fff;
+    margin-top: 10px;
+    color: #fff;
+    font-weight: 100;
+
+}
+.form-type{
+	/*padding: 50px;*/
+	background-color: #0000007a;
+	/*margin-top: -300px;*/
+	margin-top: 100px;
+	margin-bottom: 100px;
+	width: 85%;
+	padding-top: 2px;
+}
+.form-submit{
+	border: 2px solid #fff;
+    color: #000;
+    background-color: #fff;
+    padding: 10px 60px;
+    font-size: 20px;
+    margin: auto;
+    display: block;
+    margin-top: 10px;
+}
+
+::placeholder {
+    color: #fff;
+    opacity: 1; /* Firefox */
+}
+.card{
+	padding-bottom: 10px;
+}
+.nav-tabs {
+    border-bottom: none;
+}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+    color: #f4ad33;
+    cursor: default;
+    background-color: #fff;
+    border: 1px solid #f4ad33;
+    border-bottom-color: transparent;
+}
+.call-us{
+	display: none;
+}
+.enquire-now{
+	display: none;
+}
+.typeform-share{
+	display: none;
+}
+.centered {
+    position: absolute;
+    top: 51%;
+    left: 38%;
+    transform: translate(-50%, -50%);
+    font-size: 40px;
+    color: #fff;
+    font-weight: bold;
+}
+.fb-content ul li {
+	font-weight: bold;
+    font-size: 23px;
+}
+.carousel-control {
+    color: transparent;
+}
+.tab-pane p{
+	text-align: justify;
+	font-size: 15px;
+}
+.loc-map img:hover {
+    box-shadow: 2px 2px 2px 2px #37373742;
+    cursor: pointer;
+    transform: translate(0, -3px);
+}
+@media screen and (max-width: 1200px) {
+    .form-type {
+    /*padding: 50px;*/
+    background-color: #0000007a;
+    /*margin-top: -200px;*/
+    width: 85%;
+    padding-top: 2px;
+}
+.centered {
+    position: absolute;
+    top: 51%;
+    left: 38%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    color: #fff;
+    font-weight: bold;
+}
+.campaign-rera {
+    position: absolute;
+    top: 15%;
+    left: 0%;
+    z-index: 1;   
+    height: 60px;
+}
+.Built-Up {
+    color: #fff;
+    text-align: center;
+    background-color: #990f6f;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 0px;
+    font-size: 18px !important;
+}
+}
+
+@media screen and (max-width: 480px) {
+    .form-type{
+	/*padding: 50px;*/
+	background-color: #0000007a;
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
+	width: 100%;
+	padding-top: 2px;
+}
+.villa-content{
+	font-size: 25px !important;
+	color: #990f6f;
+    background-color: #ffffff52;
+    margin: 10px;
+    padding: 10px;
+}
+.centered {
+    position: absolute;
+    top: 51%;
+    left: 38%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    color: #fff;
+    font-weight: bold;
+}
+.fb-content ul li {
+	font-weight: bold;
+    font-size: 18px;
+}
+.h-logo img{
+	height: 50px;
+	width: 100px;
+	margin: 10px;
+}
+.h-logo  {
+    position: absolute;
+    top: 0% !important;
+    left: 0% !important;
+    z-index: 1;  
+}
+.bg-about ul li {
+    
+    padding: 10px;
+    font-size: 16px;
+    display: block;
+}
+.Plot-Infrastructure{
+	color: #000 !important;
+	background-color: #fff !important;
+}
+.Plot-Infrastructure .fa {
+    font-size: 30px;
+    margin-right: 15px;
+}
+.Plot-Infrastructure h2 {
+	font-size: 22px;
+	margin-top: 10px;
+}
+.Plot-Infrastructure{
+	border: none !important;
+}
+.campaign-rera {
+    position: absolute;
+    top: 9% !important;
+    left: 0%;
+    z-index: 1;   
+    height: 40px !important;
+    width: 40px !important;
+}
+.campaign-willow {
+    position: absolute;
+    top: 1% !important;
+    right: 5%;
+    z-index: 1;  
+     height: 58px !important;
+     width: 133px !important;
+}
+.popup-model{
+	background: #fff;
+	padding: 10px;
+	border-radius: 5px;
+	display: none;
+	position: fixed;
+    z-index: 100;
+    top: 25%;
+    left: 0;
+    right: 0;
+    width: 90%;
+    margin: auto;
+}
+/*.modern-civic{
+	margin-top: 0px !important ;
+    background-color: #fff !important ;
+}*/
+.Built-Up{
+	color: #fff;text-align: center;background-color: #990f6f;padding-top: 20px;padding-bottom: 20px;margin-top: 0px;font-size: 18px !important;
+}
+}
+@media screen and (max-width: 768px) {
+    .form-type {
+    /*padding: 50px;*/
+    background-color: #0000007a;
+    /*margin-top: -145px;*/
+    width: 100%;
+    padding-top: 2px;
+}
+/*.modern-civic{
+	margin-top: -150px ;
+    background-color: #ffffff61 ;
+}*/
+.centered {
+    position: absolute;
+    top: 51%;
+    left: 38%;
+    transform: translate(-50%, -50%);
+    font-size: 16px;
+    color: #fff;
+    font-weight: bold;
+}
+.banner {
+    margin-top: 5px;
+}
+.bg-about ul li {
+    
+    padding: 10px;
+    font-size: 16px;
+    /*display: block;*/
+}
+.Plot-Infrastructure .fa {
+    font-size: 30px;
+    margin-right: 15px;
+}
+.Plot-Infrastructure h2 {
+	font-size: 20px;
+	margin-top: 10px;
+}
+.campaign-rera {
+    position: absolute;
+    top: 15%;
+    left: 0%;
+    z-index: 1;   
+    height: 40px;
+}
+.Built-Up {
+    color: #fff;
+    text-align: center;
+    background-color: #990f6f;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 0px;
+    font-size: 15px !important;
+}
+}
+</style>
+
+
+
+<!-- <section class="header-section">
+  
+</section> -->
+
+<style type="text/css">
+	.h-logo {
+    position: absolute;
+    top: 3%;
+    left: 5%;
+    z-index: 1;   
+}
+.campaign-rera {
+    position: absolute;
+    top: 26%;
+    left: 5%;
+    z-index: 1; 
+    height: 150px;
+    width: 200px;  
+}
+.campaign-willow {
+    position: absolute;
+    top: 3%;
+    left: 10%;
+    z-index: 1;  
+
+}
+/*.modern-civic{
+	margin-top: -200px ;
+    background-color: #ffffff61 ;
+}*/
+input[disabled] {
+    cursor: no-drop !important;
+}
+.iti-flag{
+	margin-left: 5px !important;
+}
+.villa-content{
+	font-size: 30px;
+    color: #990f6f;
+    background-color: #ffffff52;
+    margin: 10px;
+    padding: 10px;
+}
+.Built-Up{
+	color: #fff;text-align: center;background-color: #990f6f;padding-top: 20px;padding-bottom: 20px;margin-top: 0px;font-size: 22px;
+}
+</style>
+<!-- <section>
+	<div class="container">
+		<nav class="navbar navbar-default">
+		  <a href="https://www.hiranandaniparks.com/"><img src="http://cdn.getspini.com/hira-img/logo/opt/hparks-logo2.png" alt="Hira-Parks-logo" height="100" width="200"></a>
+		</nav>
+	</div>
+</section> -->
+
+<!-- <a class="h-logo" href="https://www.hiranandaniparks.com/"><img src="http://cdn.getspini.com/hira-img/logo/opt/hparks-logo2.png" alt="Hira-Parks-logo" height="100" width="200"></a> -->
+
+<!-- <img class="campaign-rera" src="https://s3-ap-southeast-1.amazonaws.com/cdn.getspini.com/hira-img/villa/dtcp.PNG" alt="rera-logo"> -->
+<a href="http://www.tvh.in/"><img class="campaign-willow" src="img/Logo_TTL.png" alt="tvh-vista" ></a>
+
+
+
+<section class="form-section" style="background-image: url(img/vista-heights-elevation-.jpeg);background-size: cover;">
+	<div class="container ">
+		<div class="row">
+			<div class="col-md-7 col-sm-7" style="margin-top: 19%;">
+				<div><h1 class="villa-content">Experience the <strong>‘’Life living in Largest Life style Township’’</strong>-Trichy Road a new Luxury Landmark of Cotton City-Manchester of south India </h1> 
+			    </div>
+			 </div>
+			<div class="col-md-5 col-sm-5">
+				<div class="form-type">
+					<a style="color: #fff" href="tel: +9104224246565"><p class="text-center"> +91 0422 4246565</p></a>
+					<h3 class="Built-Up" >For Details Contact</h3>
+					<form  action="https://formspree.io/joshuasimon94@gmail.com" method="POST">
+						<input type="text" placeholder="Name" name="name" required>
+						<input type="email" placeholder="Email" name="email" required>
+						<input style="margin-left: 10px;" type="tel" placeholder="Mobile" name="phonenum" required class="mcc" value="+91" id="txtChar" onkeypress="return isNumberKey(event)" onpaste="return false">
+						<!-- <select style="width: 99%" class="form-control"   name="plotsize" id="plotsize" required >
+						  <option  value="" selected>Select Villa Size</option>
+						  <option value="600 sq.ft - Rs.15L">600 sq.ft - Rs.15L</option>
+						  <option value="Built-Up Area Starting From 951 Sq.ft.">Built-Up Area Starting From 951 Sq.ft.</option>
+						  <option value="Land Area Starts from 640 Sqft.">Land Area Starts from 640 Sqft.</option>
+						  <option value="1500 sq.ft - Rs.37.5L">1500 sq.ft - Rs.37.5L</option>
+						  <option value="1800 sq.ft - Rs.45L">1800 sq.ft - Rs.45L</option>
+						  <option value="2100 sq.ft - Rs.52.5L">2100 sq.ft - Rs.52.5L</option>
+						  <option value="2400 sq.ft - Rs.60L">2400 sq.ft - Rs.60L</option>		  
+						</select> -->
+						<input style="padding-bottom: 70px;" type="text" placeholder="Queries" name="queries"  >
+						<input type="hidden" name="_subject" value="Lead From TVH VISTA" />
+									<input type="hidden" name="_cc" value="anand@tvh.in,tvhleads@gmail.com">
+									
+						<input style="background-color: #fff;color: #000;width: 50%;padding: 10px;margin-top: 10px !important;margin: auto;" type="submit" value="CONTACT" />
+						<!-- <button type="submit" class="form-submit">Submit</button> -->
+						<b><p style="margin-bottom: 1px;margin: 10px;color: #fff;">Premium Apartments</p></b>
+						<p style="font-size: 12px;margin-bottom: 1px;margin: 10px;padding-bottom: 5px;color: #fff;">Lifestyle Township</p>
+						<p style="font-size: 12px;margin-bottom: 1px;margin: 10px;padding-bottom: 5px;color: #fff;">Trichy Road, Coimbatore</p>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<h2 style="color: #990f6f" class="text-center">Project Overview</h2>
+				<p>The new luxury landmark of Coimbatore! Aurora Township – A path breaking residential project from TVH,  Located on Trichy Road, which is in heart of Coimbatore and close proximity to Railway Station, Airport, Educational Institutions, Hospital ,Star Hotels & Tidal Park – IT hubs & Industries which form the future development in Coimbatore. This project sets a whole new standard for premium living in the area with new technology Maivan used for first time in Coimbatore having 15 floors high-rise Lake view Towers.</p>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section style="background-color: #fff">
+	<div class="container text-center">
+		<div class="row">
+
+			<div class="col-md-6 loc-map">
+				<h3 style="color: #990f6f" class="text-center">Types of Flats</h3>
+				<p>Basement + Stilt +15 floors</p>
+				<p>Total No of Towers 12</p>
+				<p>Total Land Extend- 19 Acres.</p>
+			</div>
+
+			<div class="col-md-6 loc-map">
+				<h3 style="color: #990f6f" class="text-center">Present Availability</h3>
+				<p>3 BHK starting From 1561 Sq.ft.* To 2014 Sq.ft.</p>
+				<p>2 BHK- 1099 Sq.ft Only 2 Flats Available</p>
+				
+			</div>	
+		</div>
+	</div>
+</section>
+
+<br><br>
+<section>
+	<div class="container text-center">
+		<div class="row">
+			<div class="col-md-6 loc-map">
+				
+				<img src="img/vista-heights-living-area.jpeg" width="100%" alt="tvh-vista">
+			</div>
+
+			<div class="col-md-6 loc-map">
+
+				<h3 style="color: #990f6f" class="text-center">Phase 1</h3>
+				<p>T1 to T6 Already Handed Over. Flat Areas From 1099 Sq.ft to 2014 Sq.ft</p>
+				<p>T 6- 3 BHK- 2014  Sq. ft - Tower 6 (Ready To occupy ) 2 Flats Available</p>
+
+				<h3 style="color: #990f6f" class="text-center">Phase 2 </h3>
+				<p>Tower 8 – 2 BHK – 1099 Sq.ft ( Hand over going on)</p>
+				<p>Tower 9 – 2.5 BHK – 1335 Sq.ft ( Hand over going on)</p>
+				<p>Tower 10 – 2 BHK – 1099 Sq.ft ( Hand over going on)</p>
+				<p>3 BHK- 1561  Sq. ft - Tower 11 Under Construction</p>
+				<p>3 BHK- 1852  Sq. ft - Tower 12 (Under Construction)</p>
+				2 BHK and 2. 5 BHK - 1249 Sq.ft* Onwards  – Tower 7 (Yet to launch)
+			</div>
+
+			
+		</div>
+	</div>
+</section>
+<br><br>
+<section class="bg-about " >
+	<div class="container">
+		
+		<div class="row">
+			<div class="col-md-6  col-sm-6 Plot-Infrastructure modern-civic"  >
+	      		<h3>Additional Benefits That Suits you to Experience the comfort living in Largest Town ship:-</h3>
+
+	      		<ul >
+	      			<h4> Largest podium level garden Spread Across 8 acres</h4>
+
+	      			<li><i class="fas fa-bacon"></i>Wide walkers path</li><br>
+
+	      			<li><i class="fas fa-tree"></i>70% open  Garden area</li><br>
+
+	      			<li><i class="fas fa-road"></i>Easy accessibility to all parts of city</li><br>
+
+	      			<li><i class="fas fa-car-battery"></i>Power backup</li><br>
+
+	      			<li><i class="fas fa-tint"></i>RO water</li><br>
+
+	      			<li><i class="fas fa-clipboard-check"></i>24/7  Security services</li><br>
+
+	      			<li><i class="fas fa-building"></i>Complete RCC Structured Building.</li><br>
+
+	      			<li><i class="fas fa-hotel"></i>Commercial Complex-Shopping Complex inside the Township</li><br>
+	      		</ul>
+	      		<p>Our projects are approved by all leading financial institution & Major Banks.</p>
+	      	</div>	
+
+	      	<div class="col-md-6 col-sm-6">
+	      		<img src="img/vista-heights-elevation-1.jpeg" width="100%" alt="tvh-vista">
+	      	</div>
+
+	      	
+		</div>	  
+	</div>
+</section>
+
+<br>
+<section>
+	<div class="container ">
+		<div class="row">
+			<div class="col-md-6 col-sm-6">
+	      		<img src="img/vista-heights-elevation-2.jpeg" width="100%" alt="tvh-vista">
+	      	</div>
+
+			<div class="col-md-6 col-sm-6  Basic-Infrastructure" >
+				<h2>Amenities at a Glance</h2>
+			  	<ul style="list-style: none;">			  		
+			  		<li><i class="fas fa-house-damage"></i> Largest Club house in a community living</li><br>
+
+					<li><i class="fas fa-swimming-pool"></i> Swimming pools</li><br>
+
+					<li><i class="fas fa-dumbbell"></i> Gym/ Spa</li><br>
+
+					<li><i class="fas fa-road"></i> Jogger’s track</li><br>
+
+					<li><i class="fas fa-balance-scale-left"></i> Landscaping</li><br>
+
+					<li><i class="fas fa-tree"></i> Modern park</li><br>
+
+					<li><i class="fas fa-utensils"></i> Restaurant / Food Court / Super Market</li>	
+
+					<li><i class="fas fa-basketball-ball"></i>  Basket ball and Tennis Court</li>
+			  	</ul>
+      	
+			</div>
+		</div>
+	</div>
+</section>
+
+<br>
+<section>
+	<div class="location-map text-center">
+		<div class="popup-model">
+			<i>X</i>
+			<img src="" />
+		</div>
+		<div class="container">
+			
+					<h2>Tvh Vista Height Brochure</h2>
+					
+			
+			<br>
+			<div class="row" style="padding-top: 10px;">
+				
+				<div class="col-md-4 col-sm-4 loc-map">
+					<a ><img src="img/pdf-img1.png" height="217px"  width="100%" largeimg=""></a>
+					<h4>Vista Floor Plans</h4>
+					<div class="btn-group">
+					    <!-- <button type="button" class="btn btn-warning viewimg">View</button> -->
+					    
+					    <a target="_blank" href="pdf/TVH- VISTA HEIGHTS PPT.pdf"> <button type="button" class="btn btn-danger ">Download</button></a>
+					</div>
+				</div>
+
+				<div class="col-md-4 col-sm-4 loc-map">
+					<a ><img src="img/pdf-img2.png" height="217px" alt="" width="100%" largeimg="img/pdf-img2.png"></a>
+					<h4>Vista Layout </h4>
+					<div class="btn-group">
+					    <!-- <button type="button" class="btn btn-warning viewimg">View</button> -->
+					    <a target="_blank" href="pdf/Vista-layout.pdf"><button type="button" class="btn btn-danger ">Download</button></a>
+					</div>
+				</div>
+
+				<div class="col-md-4 col-sm-4 loc-map">
+					<a ><img src="img/pdf-img3.png" height="217px" alt="" width="100%" largeimg="img/pdf-img3.png"></a>
+					<h4>Tvs Vista Heights </h4>
+					<div class="btn-group">
+					    <!-- <button type="button" class="btn btn-warning viewimg">View</button> -->
+					   <a target="_blank" href="pdf/Vista-Floor-Plans.pdf"><button type="button" class="btn btn-danger ">Download</button></a>
+					</div>
+				</div>
+
+			</div>	
+			
+			</div>
+			
+		</div>
+	</div>
+</section>
+
+<footer style="padding: 12px;background-color: #990f6f;margin-top: 10px;color: #fff;">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6">
+				<p>© 2019 - True Value Homes. All rights reserved.</p>
+			</div>
+		
+			<div class="col-md-6" style="float: right;">
+				<a href="https://www.facebook.com/TVHIndia"><i class="fab fa-facebook-f"></i></a> <a href="https://www.linkedin.com/company/true-value-homes"><i class="fab fa-linkedin-in"></i></a> <a href="https://www.flickr.com/photos/tvhindia/albums"><i class="fab fa-flickr"></i></a> <a href="https://www.twitter.com/TVHIndia"><i class="fab fa-twitter"></i></a> <a href="https://plus.google.com/108601123437267711356/posts"><i class="fab fa-google-plus-g"></i></a>
+			</div>
+		</div>
+	</div>
+</footer>
+
+
+<div class="bg-overlay"></div>
+</body>
+</html>

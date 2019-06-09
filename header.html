@@ -15,41 +15,60 @@
 						<li class="nav-item">
 							<a class="nav-link" href="about.html">about us</a>
 						</li>
-                <li class="nav-item dropdown">
-                   <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
-                      data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                      Residential
-                   </a>
-                   <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                      <a class="dropdown-item" href="landing-page/quadrant/">Tvh Quadrant</a>
-                      <a class="dropdown-item" href="landing-page/titanium-city/">Tvh Titanium City</a>
-                      <a class="dropdown-item" href="landing-page/ouranya-bay/">Tvh Ovaranya Bay</a>
-                      <a class="dropdown-item" href="landing-page/tvh-taus/">Tvh Taus</a>
-                      <a class="dropdown-item" href="landing-page/tvh-lumbini-square/">Tvh Lumbini Square</a>
-                      <a class="dropdown-item" href="http://www.tvh.in/landing-page/crossway/">Tvh Crossway</a>
-                   </div>
-                </li>
+		                <li class="nav-item dropdown">
+		                   <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+		                      data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+		                      Residential
+		                   </a>
+		                   <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+		                      <a class="dropdown-item secondary-dropdown" href="#">Chennai &nbsp&nbsp&nbsp <b class="fa fa-plus-circle float-right"></b> </a>
+		                      <span>
+		                      	<div>
+			                      <a class="dropdown-item" href="landing-page/quadrant/">Tvh Quadrant</a>
+			                      <a class="dropdown-item" href="landing-page/titanium-city/">Tvh Titanium City</a>
+			                      <a class="dropdown-item" href="landing-page/ouranya-bay/">Tvh Ovaranya Bay</a>
+			                      <a class="dropdown-item" href="landing-page/tvh-taus/">Tvh Taus</a>
+			                      <a class="dropdown-item" href="landing-page/tvh-lumbini-square/">Tvh Lumbini Square</a>
+			                      <a class="dropdown-item" href="landing-page/crossway/">Tvh Crossway</a>
+			                   </div>
+		                      </span>
+		                      <a class="dropdown-item secondary-dropdown" href="#">Coimbatore &nbsp&nbsp&nbsp <b class="fa fa-plus-circle float-right"></b></a>
+		                      <span>
+		                      	<div>
+			                      <a class="dropdown-item" href="landing-page/tvh-vista-heights">Tvh Vista Heights</a>
+			                   </div>
+		                      </span>
+		                   </div>
+		                </li>
 						<li class="nav-item dropdown">
 							<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
 								data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 								Commercial
 							</a>
 							<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-								<a class="dropdown-item" href="http://www.tvh.in/properties/tvh-agnitiopark/">Tvh Agnitiopark</a>
+								<a class="dropdown-item" href="landing-page/agnitiopark/">Tvh Agnitiopark</a>
 							</div>
 						</li>
 						<li class="nav-item">
 							<a class="nav-link" href="contact.html">Contact us</a>
 						</li>
-                <li class="nav-item">
-                   <a class="nav-link" href="careers.html">Careers</a>
-                </li>
+		    			<li class="nav-item">
+							<a href="tel:04471227122" class="tvh-home-call-button"><i class="fa fa-phone-square" aria-hidden="true"></i>044 7122 7122</a>
+						</li>
+						<li class="nav-item">
+							<a href="https://api.whatsapp.com/send?phone=919884551321"><img src="img/custom/whatsapp_icon.png" alt="whatsapp_icon" width="30" class="animated pulse infinite" /></a>
+						</li>
 					</ul>
 				</div>
-				<!-- <div class="btn_1 d-none d-lg-block">
-					<a href="#" class="float-right">Submit property</a>
-				</div> -->
 			</nav>
 		</div>
 	</div>
 </div>
+
+<script type="text/javascript">
+	// secondary menu script
+  $(".secondary-dropdown").click(function(){
+    $(this).next("span").slideToggle();
+    $(this).children("b").toggleClass("fa-minus-circle").toggleClass("fa-plus-circle");
+  });
+</script>

@@ -1,0 +1,2327 @@
+{
+	"cards":[
+		{
+		"id":"",
+		"a_href":"",
+		"card_title":"",
+		"card_img": "",
+		"card_description":"",
+		"card_area":"",
+		"card_city": ""
+		},
+		{
+		"id":"259",
+		"a_href":"house-of-hiranandani-upscale.html",
+		"card_title":"HOUSE OF HIRANANDANI UPSCALE",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/house-of-hiranadani.jpg",
+		"card_description":"Egattur, OMR is an endeavour towards building a good life.",
+		"card_area":"Egattur",
+		"card_city": "chennai"
+		},
+		{
+		"id":"258",
+		"a_href":"lancor-srihari.html",
+		"card_title":"LANCOR SRIHARI",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/lancor_srihari.jpg",
+		"card_description":"Live the fine life in Anna Nagar at Lancor’s",
+		"card_area":"anna nagar",
+		"card_city": "chennai"
+		},
+		{
+		"id":"257",
+		"a_href":"mahindra-world-city-aqualily.html",
+		"card_title":"MAHINDRA WORLD CITY AQUALILY",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Aqualily1.jpg",
+		"card_description":"Aqualily is an unmatched blend of modernity",
+		"card_area":"chengelpattu",
+		"card_city": "chennai"
+		},
+		{
+		"id":"256",
+		"a_href":"mahindra-lifespaces-happynest.html",
+		"card_title":"MAHINDRA LIFESPACES HAPPYNEST",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/happynest1.jpg",
+		"card_description":"Feel the beauty of relaxed countryside lifestyle",
+		"card_area":"Avadi",
+		"card_city": "chennai"
+		},
+		{
+		"id":"250",
+		"a_href":"mahindra-world-city.html",
+		"card_title":"MAHINDRA WORLD CITY",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/mahindra-city.jpg",
+		"card_description":"Mahindra World City is a prominent residentialcumcommercial",
+		"card_area":"Maraimalai Nagar",
+		"card_city": "chennai"
+		},
+		{
+		"id":"249",
+		"a_href":"mahindra.html",
+		"card_title":"MAHINDRA",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/mahindra-avadi.jpg",
+		"card_description":"The project offers Apartment with perfect combination",
+		"card_area":"Avadi",
+		"card_city": "chennai"
+		},
+		{
+		"id":"248",
+		"a_href":"shree-shelters.html",
+		"card_title":"SHREE SHELTERS",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/shree-shelter.jpg",
+		"card_description":"Mass Housing Shree Shelters Apartments of Mass Housing",
+		"card_area":"Gerugambakkam",
+		"card_city": "chennai"
+		},
+		{
+		"id":"247",
+		"a_href":"casagrand-castle.html",
+		"card_title":"CASAGRAND CASTLE",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/casagrand-castle1.jpg",
+		"card_description":"Casagrand’s Castle is the perfect home",
+		"card_area":"Manapakkam",
+		"card_city": "chennai"
+		},
+		{
+		"id":"246",
+		"a_href":"casagrand-sereno.html",
+		"card_title":"CASAGRAND SERENO",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/casagrand-sereno.jpg",
+		"card_description":"This is precisely what Casagrand Sereno ",
+		"card_area":"Ottiyambakkam",
+		"card_city": "chennai"
+		},
+		{
+		"id":"245",
+		"a_href":"casagrand-amethyst.html",
+		"card_title":"CASAGRAND AMETHYST",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/casagrand-amethyst1.jpeg",
+		"card_description":"These Residential Apartments in Chennai flaunts a resort like",
+		"card_area":"Sholinganallur",
+		"card_city": "chennai"
+		},
+		{
+		"id":"244",
+		"a_href":"casagrand-savoye.html",
+		"card_title":"CASAGRAND SAVOYE",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/casagrand-savoye1.jpg",
+		"card_description":"Casagrand Savoye, is where life, in all its glory",
+		"card_area":"Karapakkam",
+		"card_city": "chennai"
+		},
+		{
+		"id":"243",
+		"a_href":"urban-tree-atrium.html",
+		"card_title":"URBAN TREE ATRIUM",
+		"card_img": "http://cdn.getspini.com.s3.amazonaws.com/landing/urban-tree-atrium.jpg",
+		"card_description":"Urban Tree Atrium, located in Chennai",
+		"card_area":"Perungudi",
+		"card_city": "chennai"
+		},
+		{
+		"id":"242",
+		"a_href":"urban-tree-awesome.html",
+		"card_title":"URBAN TREE AWESOME",
+		"card_img": "http://cdn.getspini.com.s3.amazonaws.com/landing/urban-tree-awesome.jpeg",
+		"card_description":"Urban Tree Awesome in Thiruvanmiyur, Chennai ",
+		"card_area":"Thiruvanmiyur",
+		"card_city": "chennai"
+		},
+		{
+		"id":"241",
+		"a_href":"urban-tree-fantastic.html",
+		"card_title":"URBAN TREE FANTASTIC",
+		"card_img": "http://cdn.getspini.com.s3.amazonaws.com/landing/urban-tree-fantastic.jpeg",
+		"card_description":"Urban Tree Fantastic is one of the residential developments",
+		"card_area":"Vanagaram",
+		"card_city": "chennai"
+		},
+		{
+		"id":"239",
+		"a_href":"lancor-kiruba-cirrus.html",
+		"card_title":"LANCOR KIRUBA CIRRUS",
+		"card_img": "http://cdn.getspini.com.s3.amazonaws.com/landing/lancor-cirrus-.jpg",
+		"card_description":"Lancor Kiruba Cirrus in Alwarthirunagar",
+		"card_area":"Valasaravakkam",
+		"card_city": "chennai"
+		},
+		{
+		"id":"237",
+		"a_href":"alliance-villa-belvedere-plots.html",
+		"card_title":"ALLIANCE - VILLA ",
+		"card_img": "http://cdn.getspini.com.s3.amazonaws.com/landing/alliance-villa.jpg",
+		"card_description":"Alliance Villa Belvedere in Oragadam, Chennai",
+		"card_area":"oragadam",
+		"card_city": "chennai"
+		},
+		{
+		"id":"236",
+		"a_href":"urbanrise-jubilee-residences.html",
+		"card_title":"URBANRISE - JUBILEE ",
+		"card_img": "http://cdn.getspini.com.s3.amazonaws.com/landing/urbanrise-jubilee.jpg",
+		"card_description":"Urbanrise Jubilee Residences in Guduvancheri,",
+		"card_area":"Guduvanchery",
+		"card_city": "chennai"
+		},
+		{
+		"id":"235",
+		"a_href":"alliance-bougainvillea.html",
+		"card_title":"ALLIANCE BOUGAINVILLEA",
+		"card_img": "http://cdn.getspini.com.s3.amazonaws.com/landing/alliance-bougainvillea.jpg",
+		"card_description":"Alliance Bougainvillea in Iyyappanthangal, Chennai",
+		"card_area":"Porur",
+		"card_city": "chennai"
+		},
+		{
+		"id":"234",
+		"a_href":"alliance-orchid-springs.html",
+		"card_title":"ALLIANCE ORCHID SPRINGS",
+		"card_img": "http://cdn.getspini.com.s3.amazonaws.com/landing/alliance-orchid.jpg",
+		"card_description":"Alliance Orchid Springss is a residential development of Alliance Group.",
+		"card_area":"Anna Nagar",
+		"card_city": "chennai"
+		},
+		{
+		"id":"233",
+		"a_href":"casagrand-westend.html",
+		"card_title":"CASAGRAND WESTEND",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/cg-westend.jpg",
+		"card_description":"Launching Casagrand Westend Premium Villa Plots",
+		"card_area":"Kuthambakkam",
+		"card_city": "chennai"
+		},
+		{
+		"id":"232",
+		"a_href":"casagrand-woodside.html",
+		"card_title":"CASAGRAND WOODSIDE",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/CG-Woodside.jpeg",
+		"card_description":"The ideal home only the select few deserve.",
+		"card_area":"Manapakkam",
+		"card_city": "chennai"
+		},
+		{
+		"id":"231",
+		"a_href":"casagrand-primera.html",
+		"card_title":"CASAGRAND PRIMERA",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/CG-Primera.gif",
+		"card_description":"We all dreamt of owning a home in the city. DREAM COMES TRUE!",
+		"card_area":"Manapakkam",
+		"card_city": "chennai"
+		},
+		{
+		"id":"230",
+		"a_href":"casagrand-northern-star.html",
+		"card_title":"CASAGRAND NORTHERN STAR",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/CG-Northern-Star.jpg",
+		"card_description":"Casagrand Northern Star, Luxury 2, 3 & 4 BHK apartments. ",
+		"card_area":"Madhavaram",
+		"card_city": "chennai"
+		},
+		{
+		"id":"229",
+		"a_href":"casagrand-miro.html",
+		"card_title":"CASAGRAND MIRO",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/cg-miro-1.jpg",
+		"card_description":"Casagrand Miro, Lifestyle Apartments at Mannivakkam.",
+		"card_area":"Mannivakkam",
+		"card_city": "chennai"
+		},
+		{
+		"id":"228",
+		"a_href":"casagrand-smart-town.html",
+		"card_title":"CASAGRAND SMART TOWN",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/CASAGRAND-SMART-TOWN.gif",
+		"card_description":"Smart home. Smart location. Smart price. Smart amenities.",
+		"card_area":"Thalambur",
+		"card_city": "chennai"
+		},
+		{
+		"id":"227",
+		"a_href":"casagrand-asta.html",
+		"card_title":"CASAGRAND ASTA",
+		"card_img": "http://cdn.getspini.com.s3.amazonaws.com/landing/cg-asta.jpg",
+		"card_description":"Closer to your Budget! Close to Anna Nagar!",
+		"card_area":"Korattur",
+		"card_city": "chennai"
+		},
+		{
+		"id":"225",
+		"a_href":"casagrand-olympus.html",
+		"card_title":"CASAGRAND OLYMPUS",
+		"card_img": "http://cdn.getspini.com.s3.amazonaws.com/landing/casagrand-olympus.jpg",
+		"card_description":"Casagrand Olympus at Mandaveli. It is not just centrally located.",
+		"card_area":"Mandavelli",
+		"card_city": "chennai"
+		},
+		{
+		"id":"224",
+		"a_href":"casagrand-arena-villa.html",
+		"card_title":"CASAGRAND ARENA VILLA",
+		"card_img": "http://cdn.getspini.com.s3.amazonaws.com/landing/cg-arena-villa.jpg",
+		"card_description":"Casagrand Arena Phase II – Sports Villas at Oragadam.",
+		"card_area":"Oragadam",
+		"card_city": "chennai"
+		},
+		{
+		"id":"223",
+		"a_href":"casagrand-Pallagio.html",
+		"card_title":"CASAGRAND PALLAGIO",
+		"card_img": "http://cdn.getspini.com.s3.amazonaws.com/landing/cg-pallagio11.jpg",
+		"card_description":"Casagrand Pallagio is a splendid gated community",
+		"card_area":"Thoraipakkam",
+		"card_city": "chennai"
+		},
+		{
+		"id":"222",
+		"a_href":"velan-villase.html",
+		"card_title":"VELAN VILLASE",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/velan-villase.jpg",
+		"card_description":"Independent house and areas",
+		"card_area":"Sulur",
+		"card_city": "coimbatore"
+		},
+		{
+		   "id": "213",
+		   "a_href": "jcs-swathy-park.html",
+		   "card_title": "JC'S-SWATHY PARK",
+		   "card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/jcs1.jpg",
+		   "card_description": "The property is located is located near Anna Nagar",
+		   "card_area": "Villivakkam",
+		   "card_city": "chennai"
+		 },
+		 {
+		   "id": "214",
+		   "a_href": "Jananis-shri-nilayam.html",
+		   "card_title": "JANANI'S SHRI NILAYAM",
+		   "card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/janani1.jpg",
+		   "card_description": "Located at Just 100 mts from OMR",
+		   "card_area": "Semmanchery",
+		   "card_city": "chennai"
+		 },
+		 {
+		   "id": "215",
+		   "a_href": "space-vision-group.html",
+		   "card_title": "SPACE VISION GROUP",
+		   "card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/space2.jpg",
+		   "card_description": "Ambience is an 800 acre fenced and guarded community",
+		   "card_area": "Shadnagar",
+		   "card_city": "hyderabad"
+		 },
+		 {
+		   "id": "216",
+		   "a_href": "keerthi-onella-hive.html",
+		   "card_title": "KEERTHI ONELLA HIVE",
+		   "card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/keerthi1.jpg",
+		   "card_description": "property sited in on road",
+		   "card_area": "Perumbakkam",
+		   "card_city": "chennai"
+		 },
+		 {
+		   "id": "217",
+		   "a_href": "etr-akshaya-town.html",
+		   "card_title": "ETR AKSHAYA TOWN",
+		   "card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/etr2.jpg",
+		   "card_description": "The Site is Near Molachur Bus Stop",
+		   "card_area": "Sunguvarchatram",
+		   "card_city": "chennai"
+		 },
+		 {
+		   "id": "218",
+		   "a_href": "swathi-nagar-pannur.html",
+		   "card_title": "SWATHI NAGAR PANNUR",
+		   "card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/swathi-nagar1.jpg",
+		   "card_description": "SWATHI NAGAR –  (DTCP Approved plots)",
+		   "card_area": "Pannur",
+		   "card_city": "chennai"
+		 },
+		 {
+		   "id": "219",
+		   "a_href": "residential-apartment-madipakkam.html",
+		   "card_title": "RESIDENTIAL APARTMENT",
+		   "card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/residential-apartment.jpg",
+		   "card_description": "CMDA Approved ready to move 2 and 3 bHK, apartments ",
+		   "card_area": "Madipakkam",
+		   "card_city": "chennai"
+		 },
+		 {
+		   "id": "220",
+		   "a_href": "modi-builders-hyderabad.html",
+		   "card_title": "MODI BUILDERS",
+		   "card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/modi-builder1.jpg",
+		   "card_description": "one of the leading property developers in Hyderabad",
+		   "card_area": "Yapral",
+		   "card_city": "hyderabad"
+		 },
+		 {
+		   "id": "221",
+		   "a_href": "vayupuri-society-hyderabad",
+		   "card_title": "VAYUPURI SOCIETY",
+		   "card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/vayapuri2.JPG",
+		   "card_description": "Vayupuri society hyderabad sainikpuri plot 750 syards for sale",
+		   "card_area": "hyderabad",
+		   "card_city": "hyderabad"
+		 },
+		{
+		"id":"212",
+		"a_href":"amarprakash-the-royal-castle.html",
+		"card_title":"AMARPRAKASH THE ROYAL CASTLE",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Amarprakash-The-Royal-Castle.jpg",
+		"card_description":"The Royal Castle is a place where you could experience Stress Free living.",
+		"card_area":"Pammal",
+		"card_city": "chennai"
+		},
+		{
+		"id":"211",
+		"a_href":"alliance-group-alliance-garden-front.html",
+		"card_title":"ALLIANCE GARDEN FRONT",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Alliance-group-alliance-garden-front.jpg",
+		"card_description":"Alliance Garden Front, Gated Community Apartments in OMR is exceptionally designed apartment units",
+		"card_area":"OMR",
+		"card_city": "chennai"
+		},
+		{
+		"id":"210",
+		"a_href":"bhoomi-and-building-pvt-ltd-one-rutland-gate.html",
+		"card_title":" ONE RUTLAND",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Bhoomi-and-Building-pvt-ltd-One-Rutland-Gate.jpg",
+		"card_description":"A Treasured Living The most exciting new development to arrive on RutlandGate.",
+		"card_area":"Nungambakkam",
+		"card_city": "chennai"
+		},
+		{
+		"id":"209",
+		"a_href":"landmark-housing-vertica.html",
+		"card_title":"LANDMARK HOUSING - VERTICA  ",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Landmark-housing-vertica.jpg",
+		"card_description":"The Vertica redefines the standards of lifestyle living for the residents of Chennai.",
+		"card_area":"Gopalapuram",
+		"card_city": "chennai"
+		},
+		{
+		"id":"208",
+		"a_href":"vijay-shanthi-builders-the-art.html",
+		"card_title":"VIJAY SHANTHI BUILDERS - THE ART",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Vijay-Shanthi-builders-The-Art.jpg",
+		"card_description":"Making a statement of luxury in impeccable style, Vijay Shanthi presents 'The Art'- Chennai's",
+		"card_area":"Nungambakkam",
+		"card_city": "chennai"
+		},
+		{
+		"id":"207",
+		"a_href":"the-chennai-homes.html",
+		"card_title":"THE CHENNAI HOMES",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/The-Chennai-homes.jpg",
+		"card_description":"The project is developed in one of the high realty happening area",
+		"card_area":"ECR",
+		"card_city": "chennai"
+		},
+		{
+		"id":"206",
+		"a_href":"spr-construction-osian-chlorophyll.html",
+		"card_title":"SPR CONSTRUCTION - OSIAN CHLOROPHYLL",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/spr_osian_chlorophyll.jpg",
+		"card_description":"SPR Osian Chlorophyll by SPRRG is located in Porur, Chennai.",
+		"card_area":"Porur",
+		"card_city": "chennai"
+		},
+		{
+		"id":"205",
+		"a_href":"ozone-group-metrozone.html",
+		"card_title":"OZONE GROUP - METROZONE",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Ozone-group-Metrozone.jpeg",
+		"card_description":"Living easy at The Metrozone – A mixed-use development designed ",
+		"card_area":"Anna Nagar",
+		"card_city": "chennai"
+		},
+		{
+		"id":"204",
+		"a_href":"nest-elite.html",
+		"card_title":"Nest Elite",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/nest-elite.jpeg",
+		"card_description":"Nest Elite, a residential development by Nest Homes Builders is located in Sholinganallur, Chennai South.",
+		"card_area":"Sholinganallur",
+		"card_city": "chennai"
+		},
+		{
+		"id":"203",
+		"a_href":"sidharth-pearl.html",
+		"card_title":"SIDHARTH PEARL",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/SIDHARTH-PEARL.png",
+		"card_description":"Sidharth Pearl has 3 BHK villa style apartments with picturesque views",
+		"card_area":"Mogappair",
+		"card_city": "chennai"
+		},
+		{
+		"id":"202",
+		"a_href":"vnr-milford.html",
+		"card_title":"VNR MILFORD",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/VNR-MILFORD.jpg",
+		"card_description":"VNR Milford presents premium ready to move apartments with life style amenities and indoor sports facilities.",
+		"card_area":"Mogappair",
+		"card_city": "chennai"
+		},
+		{
+		"id":"201",
+		"a_href":"vgn-aster.html",
+		"card_title":"VGN ASTER",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/VGN-Aster.jpg",
+		"card_description":"VGN Aster is Just 4in 1 units provides a limited and peaceful neighbourhood with good ventilation",
+		"card_area":"Mogappair",
+		"card_city": "chennai"
+		},
+		{
+		"id":"200",
+		"a_href":"nova-lifespace-sprint.html",
+		"card_title":"NOVA LIFESPACE - SPRINT",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/novalifespace-sprint_img.jpg",
+		"card_description":"Nova Sprint, an ongoing residential development by Nova Lifespace is located in Nolambur",
+		"card_area":"Mogappair",
+		"card_city": "chennai"
+		},
+		{
+		"id":"199",
+		"a_href":"sp-essense.html",
+		"card_title":"S & P ESSENSE",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/SP-Essense.png",
+		"card_description":"S & P Essense is a beautiful structure that encompasses with all the necessary amenities for a better standards of living.",
+		"card_area":"Mogappair",
+		"card_city": "chennai"
+		},
+		{
+		"id":"198",
+		"a_href":"maxis-pavithram.html",
+		"card_title":"MAXIS PAVITHRAM",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Maxis-Pavithram.jpg",
+		"card_description":"Maxis Pavithram with luxurious apartments is located at Nolambur ",
+		"card_area":"Nolambur",
+		"card_city": "chennai"
+		},
+		{
+		"id":"197",
+		"a_href":"shri-hari-foundation-sukrit-serene.html",
+		"card_title":"SHRI HARI FOUNDATION - SUKRIT SERENE",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/ShriHari-Foundation-Sukrit-Serene.jpg",
+		"card_description":"A just few meters from the Mogappair East Bus Depot.",
+		"card_area":"Mogappair",
+		"card_city": "chennai"
+		},
+		{
+		"id":"196",
+		"a_href":"vinoth-builders-vinoth-vamsi.html",
+		"card_title":"VINOTH BUILDERS - VINOTH VAMSI",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/vinothbuilders-Vinoth-Vamsi.jpg",
+		"card_description":"Vinoth Vamsi unheralds great convenience clubbed with elegant design.",
+		"card_area":"Mogappair",
+		"card_city": "chennai"
+		},
+		{
+		"id":"195",
+		"a_href":"casagrand-crescendo.html",
+		"card_title":"CASAGRAND CRESCENDO",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Casagrand-Crescendo.jpg",
+		"card_description":"Casagrand Crescendo, Ultra Luxurious Apartments Bang on the Main Road at Nolambur",
+		"card_area":"Mogappair",
+		"card_city": "chennai"
+		},
+		{
+		"id":"194",
+		"a_href":"colorhome-creek.html",
+		"card_title":"COLORHOMES CREEK",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Colorhomes-Creek.jpg",
+		"card_description":"Color Homes Colorhomes Creek by Color Homes situated in Mogappair, Chennai.",
+		"card_area":"Mogappair West",
+		"card_city": "chennai"
+		},
+		{
+		"id":"193",
+		"a_href":"jain-housing-jains-sukriti.html",
+		"card_title":"JAIN HOUSING - JAINS SUKRITI",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Jain-Housing-Jains-Sukriti.jpg",
+		"card_description":"Jain Housing presents a promising opportunity to own an amenities rich premium home with guaranteed manifold investment returns",
+		"card_area":"Mogappair",
+		"card_city": "chennai"
+		},
+		{
+		"id":"192",
+		"a_href":"grid-advaita.html",
+		"card_title":"GRID ADVAITA",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Grid-advaita.jpg",
+		"card_description":"Grid Foundation Presents The Opportunity To Own An Apartment In Prime Location At Heart Of Mogappair",
+		"card_area":"Mogappair",
+		"card_city": "chennai"
+		},
+		{
+		"id":"191",
+		"a_href":"svvd-green-housing.html",
+		"card_title":"SVVD GREEN HOUSING",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/SVVD-GREEN-HOUSING.jpg",
+		"card_description":"SVVD Aspen is one of the residential developments SVVD Green Housing.",
+		"card_area":"Mogappair",
+		"card_city": "chennai"
+		},
+		{
+		"id":"190",
+		"a_href":"adithi-homes.html",
+		"card_title":"ADITHI HOMES",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/adithi_homes_in_maduravoyal.jpg",
+		"card_description":"Adithi Homes is an exclusive project with modern designed elegant life style residential flats strategically located in West Mogapair",
+		"card_area":"Mogappair West",
+		"card_city": "chennai"
+		},
+		{
+		"id":"189",
+		"a_href":"bbcl-vajra.html",
+		"card_title":"BBCL VAJRA",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/BBCL-VAJRA.jpg",
+		"card_description":"BBCL Vajra is located in Mogappair West which is the fastest growing micro-market and is just 5 km from Anna Nagar",
+		"card_area":"Mogappair",
+		"card_city": "chennai"
+		},
+		{
+		"id":"188",
+		"a_href":"vgn-habitat.html",
+		"card_title":"VGN HABITAT",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/VGN-Habitat.gif",
+		"card_description":"Surrounded by Open Space and set Amidst Thousands of Trees and Shrubs in VGN harmony at Mogappair",
+		"card_area":"Mogappair",
+		"card_city": "chennai"
+		},
+		{
+		"id":"187",
+		"a_href":"vgn-monte-carlo.html",
+		"card_title":"VGN MONTE CARLO",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/VGN-Monte-Carlo.jpg",
+		"card_description":"VGN Monte Carlo is one of the residential developments of VGN Property Developers.",
+		"card_area":"Mogappair",
+		"card_city": "chennai"
+		},
+		{
+		"id":"186",
+		"a_href":"ashok-nandavanam.html",
+		"card_title":"ASHOK NANDAVANAM",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/ashok_nandavanam_thirumazhisai_phase_iii_in_thirumazhisai.jpg",
+		"card_description":"Ashok Nandavanam Consists of Plots measuring 646 - 2400 Sq ft at Thirumazhisai.",
+		"card_area":"Thirumazhisai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"185",
+		"a_href":"sprint-jupiter-avenue.html",
+		"card_title":"SPRINT JUPITER AVENUE",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Sprint-Jupiter-Avenue.jpg",
+		"card_description":"Sprint is a new age Real Estate Company, formed to develop futuristic projects with innovation and freshness.",
+		"card_area":"Thirumazhisai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"184",
+		"a_href":"fomra-ragas.html",
+		"card_title":"FOMRA RAGAS",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Fomra-Ragas.jpg",
+		"card_description":"Ragas is a secure, CMDA approved Gated Community plot located at Mangadu",
+		"card_area":"Mangadu",
+		"card_city": "chennai"
+		},
+		{
+		"id":"183",
+		"a_href":"accord-housing-cosmo-city.html",
+		"card_title":"ACCORD HOUSING COSMO CITY",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/accord_cosmo_city_south_in_sriperumbudur.jpg",
+		"card_description":"Adopted, developed and sustained by a Global MNC, civic infrastructure is of the highest importance",
+		"card_area":"Poonamallee",
+		"card_city": "chennai"
+		},
+		{
+		"id":"182",
+		"a_href":"hi5builders-oviyam-flats.html",
+		"card_title":"OVIYAM FLATS",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/oviyam.jpg",
+		"card_description":"The site is located amidst developed Residential area, which ensures your Convenience / Comfort",
+		"card_area":"Puzhal",
+		"card_city": "chennai"
+		},
+		{
+		"id":"181",
+		"a_href":"prince-highlands.html",
+		"card_title":"PRINCE HIGHLANDS",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Prince-Highlands.jpg",
+		"card_description":"Prince Highlands is a premium residential project spread over 6 towers",
+		"card_area":"Iyyappanthangal",
+		"card_city": "chennai"
+		},
+		{
+		"id":"180",
+		"a_href":"jkb-housing.html",
+		"card_title":"JKB HOUSING",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/jkb.jpg",
+		"card_description":"JKB Serenity is our ongoing project situated @ Sendurpuram, Kattupakkam in the primary residential zone.",
+		"card_area":"Kattupakkam",
+		"card_city": "chennai"
+		},
+		{
+		"id":"179",
+		"a_href":"ks-harmony-orchid.html",
+		"card_title":"K S HARMONY & ORCHID",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/KS-Harmony-Orchid.jpg",
+		"card_description":"Harmony apartments is our new brain child that has come as a fitting solution",
+		"card_area":"Iyyappanthangal",
+		"card_city": "chennai"
+		},
+		{
+		"id":"178",
+		"a_href":"golden-prosperous-shine.html",
+		"card_title":"GOLDEN PROSPEROUS SHINE",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Golden-Prosperous-Shine.jpg",
+		"card_description":"Golden Prosperous Property Developer is a big name in the Chennai realty market.",
+		"card_area":"Poonamallee",
+		"card_city": "chennai"
+		},
+		{
+		"id":"177",
+		"a_href":"manju-havisha-homes.html",
+		"card_title":"MANJU HAVISHA HOMES",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Manju-Havisha-Homes.jpg",
+		"card_description":"Havisha Homes is a lavish residential project spread across a sprawling manicured landscape.",
+		"card_area":"Poonamallee",
+		"card_city": "chennai"
+		},
+		{
+		"id":"176",
+		"a_href":"vijay-raja-ideal-homes.html",
+		"card_title":"VIJAY RAJA IDEAL HOMES",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Vijay-Raja-Ideal-Homes.jpg",
+		"card_description":"Vijay Raja Ideal Homes, take in stunning vistas and beyond, as the flawless apartment structure of IDEAL HOMES",
+		"card_area":"Poonamallee",
+		"card_city": "chennai"
+		},
+		{
+		"id":"175",
+		"a_href":"godrej-palm-grove.html",
+		"card_title":"GODREJ PALM GROVE",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Godrej-Palm-Grove.jpeg",
+		"card_description":"Godrej Palm Grove is a perfect blend of luxury and space.",
+		"card_area":"Poonamallee",
+		"card_city": "chennai"
+		},
+		{
+		"id":"174",
+		"a_href":"sai-ram-homes.html",
+		"card_title":"SAI RAM HOMES",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Sai-Ram-Homes.jpg",
+		"card_description":"Sri Ram Homes the company has a controlled working, environment that helps us take huge leaps in construction industry.",
+		"card_area":"Mangadu",
+		"card_city": "chennai"
+		},
+		{
+		"id":"173",
+		"a_href":"arunexcello-manjari.html",
+		"card_title":"ARUNEXCELLO MANJARI",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/arun_excello_manjari.jpg",
+		"card_description":"This project “Manjari” is located in Irungattukottai, close to several MNCs on NH 4 (Bengaluru Highway), Reputed Hospitals",
+		"card_area":"Poonamallee",
+		"card_city": "chennai"
+		},
+		{
+		"id":"172",
+		"a_href":"rajhousing.html",
+		"card_title":"RAJHOUSING",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/raj_heritage_iyyappanthangal_chennai_raj_housing_development.jpg",
+		"card_description":"Raj Housing Mangadu is a majestic residential enclave ",
+		"card_area":"Mangadu",
+		"card_city": "chennai"
+		},
+		{
+		"id":"171",
+		"a_href":"baashyaam-le-chalet.html",
+		"card_title":"BAASHYAAM LE CHALET",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Baashyaam-Le-Chalet.jpg",
+		"card_description":"Le Chalet, is a beautiful residential project consisting of well",
+		"card_area":"Poonamallee",
+		"card_city": "chennai"
+		},
+		{
+		"id":"170",
+		"a_href":"ms-gardens-eco-friendly.html",
+		"card_title":"MS GARDENS ECO FRIENDLY",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/ms_green_valley_villa_normal.jpg",
+		"card_description":"All the wonderful and inimitable aspects of the MS Garden Phase II project",
+		"card_area":"Poonamallee",
+		"card_city": "chennai"
+		},
+		{
+		"id":"169",
+		"a_href":"romaa-paradise.html",
+		"card_title":"ROMAA PARADISE",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/romaa_parradise.png",
+		"card_description":"Romaa Parradise is a remarkable constellation of 275 luxurious apartments",
+		"card_area":"Poonamallee",
+		"card_city": "chennai"
+		},
+		{
+		"id":"168",
+		"a_href":"golden-opulence.html",
+		"card_title":"GOLDEN OPULENCE",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/golden-opulence.jpg",
+		"card_description":"Golden Opulence is especially for you- a progressive human being who is continuously",
+		"card_area":"Poonamallee",
+		"card_city": "chennai"
+		},
+		{
+		"id":"167",
+		"a_href":"nest-delight.html",
+		"card_title":"Nest Delight",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Nest-delight.jpeg",
+		"card_description":"The Nest Delight, located in Chennai, is a residential development of The Nest Builders",
+		"card_area":"Sholinganallur",
+		"card_city": "chennai"
+		},
+		{
+		"id":"166",
+		"a_href":"nest-glow.html",
+		"card_title":" NEST GLOW",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Nest-glow.jpeg",
+		"card_description":"Nest Glow is one of the residential development of The Nest.",
+		"card_area":"Sholinganallur",
+		"card_city": "chennai"
+		},
+		{
+		"id":"165",
+		"a_href":"nest-aspire.html",
+		"card_title":"NEST ASPIRE",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/nest_aspire_in_sholinganallur.jpg",
+		"card_description":"Nest Aspire is a residential apartment near Sholinganallur",
+		"card_area":"Sholinganallur",
+		"card_city": "chennai"
+		},
+		{
+		"id":"164",
+		"a_href":"shriram-properties-shreshta.html",
+		"card_title":"SHRIRAM PROPERTIES",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Shriram_Shreshta.jpeg",
+		"card_description":"Shriram Shreshta With 400 exquisite villas and 102 elite apartments",
+		"card_area":"Madukkarai",
+		"card_city": "coimbatore"
+		},
+		{
+		"id":"163",
+		"a_href":"swathika-shelters-constructions.html",
+		"card_title":"SWATHIKA SHELTERS",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/swathika_constructions.jpg",
+		"card_description":"SWATHIKA SHELTERS & CONSTRUCTIONS Pvt.ltd. is a company promoted and managed by professionals",
+		"card_area":"Chinnamettupalayam",
+		"card_city": "coimbatore"
+		},
+		{
+		"id":"162",
+		"a_href":"vevin-homes.html",
+		"card_title":"VEVIN HOMES",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/vevin.PNG",
+		"card_description":"Presenting under construction Individual 2 and 3 bhk Villa from Vevin Homes",
+		"card_area":"Narasimhanaickenpalayam",
+		"card_city": "coimbatore"
+		},
+		{
+		"id":"161",
+		"a_href":"easypropertydevelopers.html",
+		"card_title":"Easy Property Developers",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/easyproperty.jpg",
+		"card_description":"Bharathi Nagar is one of the residential developments of Easy Property Developers.",
+		"card_area":"Periyanaickenpalayam",
+		"card_city": "coimbatore"
+		},
+		{
+		"id":"160",
+		"a_href":"aarudhra-enclave-coimbatore.html",
+		"card_title":"AARUDHRA ENCLAVE",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/aarudha.jpg",
+		"card_description":"AARUDHRAS DEVELOPERS as a distinct realty brand which is nonpareil in the annals of history",
+		"card_area":"Saravanampatti",
+		"card_city": "coimbatore"
+		},
+		{
+		"id":"159",
+		"a_href":"sri-vigneshwara-property-smg-gardens.html",
+		"card_title":"Sri Vigneshwara Property ",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/smg-garden.jpg",
+		"card_description":"Selling DTCP approved open plots and Individual house ",
+		"card_area":"Sokkampalayam",
+		"card_city": "coimbatore"
+		},
+		{
+		"id":"158",
+		"a_href":"sri-vigneshwara-property-sree-dharmambigai-nagar.html",
+		"card_title":"Sri Vigneshwara Property Promoters ",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Dharmambigai.jpg",
+		"card_description":"Selling DTCP approved open plots and Individual house  ",
+		"card_area":"Coimbatore Junction",
+		"card_city": "coimbatore"
+		},
+		{
+		"id":"157",
+		"a_href":"sri-vigneshwara-property-ishwariya-nagar.html",
+		"card_title":"Sri Vigneshwara Property ",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Ishwariya.jpg",
+		"card_description":"Selling DTCP approved open plots and Individual house ",
+		"card_area":"Pogalur",
+		"card_city": "coimbatore"
+		},
+		{
+		"id":"156",
+		"a_href":"ksquare-constructions.html",
+		"card_title":"KSQUARE CONSTRUCTIONS",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/ksquare.jpg",
+		"card_description":"K Square- Presenting 2 bhk under construction flats with G+7 floor building ",
+		"card_area":"Thudiyalur",
+		"card_city": "coimbatore"
+		},
+		{
+		"id":"155",
+		"a_href":"arjunan-constructions.html",
+		"card_title":"ARJUNAN CONSTRUCTIONS",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/arjunan.jpg",
+		"card_description":"Presenting 1 and 2 bhk ready to move flats without lift facility at Nanmangalam Chennai",
+		"card_area":"Nanmangalam",
+		"card_city": "chennai"
+		},
+		{
+		"id":"154",
+		"a_href":"gk-properties-gajanand.html",
+		"card_title":"GK PROPERTIES GAJANAND",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/bheemeswar_gardens_tambaram_chennai_gk_properties.jpg",
+		"card_description":"Gajanand Located at Padasalai Street, Chrompet, Chennai, Behind SSM School.",
+		"card_area":"Chrompet",
+		"card_city": "chennai"
+		},
+		{
+		"id":"153",
+		"a_href":"cosmos-construction.html",
+		"card_title":"COSMOS CONSTRUCTION",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/cosmos_constructions_sriperumbudur_kanchipuram.jpg",
+		"card_description":"Cosmos Constructions in Sriperumbudur, Kanchipuram is a top player in the category Builders in the Kanchipuram.",
+		"card_area":"Sriperumbudur",
+		"card_city": "chennai"
+		},
+		{
+		"id":"152",
+		"a_href":"lotus-valley.html",
+		"card_title":"LOTUS VALLEY",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/p2.jpg",
+		"card_description":"We are working on the design and build of some extraordinary structures in the City.",
+		"card_area":"Surapet",
+		"card_city": "chennai"
+		},
+		{
+		"id":"151",
+		"a_href":"phoenix-city.html",
+		"card_title":"PHOENIX CITY",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/phoenix_city_the_crest_elevation.jpeg",
+		"card_description":"The Crest is Located at Velachery, Chennai, Tamil Nadu, INDIA.",
+		"card_area":"Velechery",
+		"card_city": "chennai"
+		},
+		{
+		"id":"150",
+		"a_href":"spehene-shivalaya-thoraipakkam.html",
+		"card_title":"Spehene Shivalaya",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/shivthoraipakkam.jpg",
+		"card_description":"Sphene Shivalaya is residential development of Brownstone Foundations.",
+		"card_area":"Thoraipakkam",
+		"card_city": "chennai"
+		},
+		{
+		"id":"149",
+		"a_href":"ramaniyam-mandhangini.html",
+		"card_title":"Ramaniyam Mandhangini",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/MANDHAGINI_VIEW.jpg",
+		"card_description":"Mandhangini. Comfortable enclosures with well planned amenities on the IT enclosures",
+		"card_area":"Thoraipakkam",
+		"card_city": "chennai"
+		},
+		{
+		"id":"148",
+		"a_href":"color-home.html",
+		"card_title":"COLOR HOME DEVELOPERS",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/color_avenue_view_3.jpeg",
+		"card_description":"Color Home Developers Pvt Ltd is luxuriously spread at OMR in Chennai.",
+		"card_area":"Sholinganallur",
+		"card_city": "chennai"
+		},
+		{
+		"id":"147",
+		"a_href":"royalsplendour-akshara.html",
+		"card_title":"Royalsplendour AKSHARA",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/royal_splendour_akshara.jpg",
+		"card_description":"Splendour Akshara is a pre-launch property in Navallur, Chennai. ",
+		"card_area":"Semmenchery",
+		"card_city": "chennai"
+		},
+		{
+		"id":"146",
+		"a_href":"plaza-elite-acres.html",
+		"card_title":"Plaza Elite Acres",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/plaza-elite.jpg",
+		"card_description":"Elite Acres, is a premium housing project located at Thalambur in Chennai.",
+		"card_area":"Thalambur",
+		"card_city": "chennai"
+		},
+		{
+		"id":"145",
+		"a_href":"malles-aashira.html",
+		"card_title":"Malles Aashira",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/malles_aashira_in_perumbakkam.jpg",
+		"card_description":"Malles Aashira redefines luxury and urban lifestyle.",
+		"card_area":"Perumbakkam",
+		"card_city": "chennai"
+		},
+		{
+		"id":"144",
+		"a_href":"vermillion-renuka-sangamam-villas.html",
+		"card_title":"Vermillion Renuka Sangamam",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/vermillion.jpeg",
+		"card_description":"Presenting, Renuka Sangamam Villas - an address that is an oasis of calm, peace and magnificence in the hustle-bustle of the city, Chennai.",
+		"card_area":"Sholinganallur",
+		"card_city": "chennai"
+		},
+		{
+		"id":"143",
+		"a_href":"ps-srijan-developers-llp.html",
+		"card_title":"PS Nexterra",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/ps.jpeg",
+		"card_description":"PS Nexterra, A consistent amalgamation of extravagance, solace, and style mix to give away really modern outlook towards life.",
+		"card_area":"Sholinganallur",
+		"card_city": "chennai"
+		},
+		{
+		"id":"142",
+		"a_href":"baashyaam-pinnacle-crest.html",
+		"card_title":"Baashyaam Pinnacle Crest",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/baashyaam.jpeg",
+		"card_description":"Baashyaam Pinnacle Crest - an address that is an oasis of calm, peace and magnificence in the hustle-bustle of the city, Chennai.",
+		"card_area":"Sholinganallur",
+		"card_city": "chennai"
+		},
+		{
+		"id":"141",
+		"a_href":"sreenivashousing-mantra-enclave.html",
+		"card_title":"Mantra Enclave",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/mantra.jpg",
+		"card_description":"Sreenivas Housing has the experience of engaging in the promotion of Residential",
+		"card_area":"Sholinganallur",
+		"card_city": "chennai"
+		},
+		{
+		"id":"140",
+		"a_href":"ozone-greens-phase-2.html",
+		"card_title":"Ozone Greens Phase 2 ",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Ozone_greens.jpg",
+		"card_description":"Greens is a modern and elegantly designed residential community created to offer an internationally crafted lifestyle.",
+		"card_area":"perumbakkam",
+		"card_city": "chennai"
+		},
+		{
+		"id":"139",
+		"a_href":"casagrand-supremus.html",
+		"card_title":"Casagrand Supremus",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/casagrand_supremus_in_thalambur_elevation_photo_1wgt.jpg",
+		"card_description":"Casagrand Supremus is a residential cum commercial project by Casagrand Builder.",
+		"card_area":"Thalambur",
+		"card_city": "chennai"
+		},
+		{
+		"id":"138",
+		"a_href":"mantri-group-solitude.html",
+		"card_title":"Mantri Group Solitude",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/im.jpg",
+		"card_description":"Mantri Group Solitude Chennai is a residential project",
+		"card_area":" Injambakkam",
+		"card_city": "chennai"
+		},
+		{
+		"id":"137",
+		"a_href":"Pacifica-Aurum.html",
+		"card_title":"PACIFICA AURUM",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/cam4_area6.jpg",
+		"card_description":"Pacifica Aurum is a well-rounded and well planned gated community with 140 acres of land and 11 phases with a proposed club over 1 lac sq ft.",
+		"card_area":" padur",
+		"card_city": "chennai"
+		},
+		{
+		"id":"136",
+		"a_href":"navins-starwood-towers-2.html",
+		"card_title":"Navins Starwood Towers 2 ",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/navin_s_starwood_towers.jpg",
+		"card_description":"Navin’s Starwood Towers 2.0 is designed by Navin Housing and Properties to offer extreme happiness and joy to residents.",
+		"card_area":" Vengaivaasal",
+		"card_city": "chennai"
+		},
+		{
+		"id":"135",
+		"a_href":"akshaya-homes-tango.html",
+		"card_title":"Akshaya homes Tango ",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/akshaya_tango_elevation_1135462.jpeg",
+		"card_description":"Akshaya Tango an elegantly designed project of 2 BHK, 2 BHK Smart, 3 BHK Smart, 3 BHK, 4 BHK Smart and 4 BHK apartments in Thoraipakkam, Chennai.",
+		"card_area":" Thoraipakkam",
+		"card_city": "chennai"
+		},
+		{
+		"id":"134",
+		"a_href":"appaswamy-splendour.html",
+		"card_title":"Appaswamy Splendour ",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Splendour_Elevation.jpg",
+		"card_description":"Splendour is a magnificent project by Appaswamy Real Estates situated in Semmacheri, Chennai.",
+		"card_area":" Semmenchery",
+		"card_city": "chennai"
+		},
+		{
+		"id":"133",
+		"a_href":"doshi-wellspring.html",
+		"card_title":"Doshi Wellspring ",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/doshi_trinity_park_in_vengaivasal_elevation_photo_m57.jpg",
+		"card_description":"Wellspring is minutes away from Tambaram, OMR & Velachery.",
+		"card_area":" Vengaivasal",
+		"card_city": "chennai"
+		},
+		{
+		"id":"132",
+		"a_href":"prestige-courtyards.html",
+		"card_title":"Prestige Courtyards ",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Prestige_Courtyards_Pool_Side_View.jpg",
+		"card_description":"Prestige Courtyards located in Shollinganallur on the Old Mahabalipuram Road",
+		"card_area":" Sholinganallur",
+		"card_city": "chennai"
+		},
+		{
+		"id":"131",
+		"a_href":"bbcl-midland.html",
+		"card_title":"BBCL Midland ",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/bbcl.jpg",
+		"card_description":"BBCL Midland is meticulously planned and crafted for those who are always on the move generation.",
+		"card_area":" Sholinganallur",
+		"card_city": "chennai"
+		},
+		{
+		"id":"130",
+		"a_href":"singai-prakash-nagar.html",
+		"card_title":"Singai Prakash Nagar",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/prakash2.jpg",
+		"card_description":"villa @ 22 lakhs CMDA Approved near houses,near peter international school and madha engineering college.",
+		"card_area":" nandhambakkam",
+		"card_city": "chennai"
+		},
+		{
+		"id":"129",
+		"a_href":"independent-villa.html",
+		"card_title":"Independent Villa",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/id-villa1.jpg",
+		"card_description":"Duplex villa available with 1900 Sq.ft of buildup area in 1200 Sq.ft land area, The luxurious villa is located on the VOC Nagar, velachery.",
+		"card_area":" Velachery",
+		"card_city": "chennai"
+		},
+		{
+		"id":"128",
+		"a_href":"mayfair-villas.html",
+		"card_title":"Mayfair Villas",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/MY_FAIR_CAR_PARKING.jpg",
+		"card_description":"May Fair Villas located at Tellapur near Gachibowli,Spread across 27 acres with 208 villas,G+2 Floors,310 sqyrds 4000 sft,EAST & WEST Facings,Ready to Move in.",
+		"card_area":" Tellapur",
+		"card_city": "hyderabad"
+		},
+		{
+		"id":"127",
+		"a_href":"NR-pearl.html",
+		"card_title":"N R PEARL",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/nrpearl1.jpg",
+		"card_description":"NR Pearl is one of the residential projects of NR Builders, located in Bangalore. .",
+		"card_area":" JP Nagar",
+		"card_city": "bangalore"
+		},
+		{
+		"id":"124",
+		"a_href":"Nashville-Duplex-row-house.html",
+		"card_title":"Nashville Duplex row house",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/nashville1.jpg",
+		"card_description":"Nashville 66 elegantly designed duplex row houses with premium amenities designed for all generation of people.",
+		"card_area":" Chandapura",
+		"card_city": "bangalore"
+		},
+		{
+		"id":"123",
+		"a_href":"Lifestyle-Lakshya.html",
+		"card_title":"Lifestyle Lakshya",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/lakshaya2.jpg",
+		"card_description":"Lifestyle Lakshya is the signature project of Kovai lifestyle.",
+		"card_area":" Koundampalayam",
+		"card_city": "coimbatore"
+		},
+		{
+		"id":"122",
+		"a_href":"Skyline-Apartments.html",
+		"card_title":"Skyline Apartments",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/skyline-apartments-1.jpg",
+		"card_description":"It is a beautiful 2bhk which is situated in Kodungaiyur and has various retail stores and Hospitals and theaters nearby and is available at a affordable rate of 43lakhs.",
+		"card_area":" Kodungaiyur",
+		"card_city": "chennai"
+		},
+		{
+		"id":"121",
+		"a_href":"divya-nagar.html",
+		"card_title":"Divya Nagar",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/divya-nagar-1.jpg",
+		"card_description":"AG Foundation proudly presents, “Divya Nagar” Kanchipuram. DTCP approved plots.",
+		"card_area":" Kanchipuram",
+		"card_city": "chennai"
+		},
+		{
+		"id":"120",
+		"a_href":"sri-raja-garuda-avenue.html",
+		"card_title":"SRI RAJA GARUDA AVENUE",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/garuda-2.jpg",
+		"card_description":"AG Foundation proudly presents, 'SRI RAJA GARUDA AVENUE' walajabad plots and villas.",
+		"card_area":"Walajabad, Kanchipuram",
+		"card_city": "chennai"
+		},
+		{
+		"id":"119",
+		"a_href":"vivant-eleganz.html",
+		"card_title":"VIVANT ELEGANZ",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/vivant-eleganz.jpg",
+		"card_description":"This is a individual villa community with 30 units of 2 and 3 BHK.",
+		"card_area":"Coimbatore",
+		"card_city": "coimbatore"
+		},
+		{
+		"id":"118",
+		"a_href":"sri-krishna-avenue.html",
+		"card_title":"SRI KRISHNA AVENUE",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/sri-krishna-avenue2.jpg",
+		"card_description":"SRI KRISHNA AVEUNUE DTCP approved plots.",
+		"card_area":"Sriperumbudur, Kanchipuram",
+		"card_city": "chennai"
+		},
+		{
+		"id":"117",
+		"a_href":"sri-akshaya-garden.html",
+		"card_title":"SRI AKSHAYA GARDEN",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/akshaya-garden2.jpg",
+		"card_description":"SRI AKSHAYA GARDEN – Walajabad (DTCP Approved plots)Individual villas ",
+		"card_area":"Sriperumbudur, Kanchipuram",
+		"card_city": "chennai"
+		},
+		{
+		"id":"116",
+		"a_href":"eta-star-saar-city.html",
+		"card_title":"ETA STAR SAAR CITY",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/eta2.jpg",
+		"card_description":"Individual plots-Gated Community.",
+		"card_area":"Sriperumbudur, Kanchipuram",
+		"card_city": "chennai"
+		},
+		{
+		"id":"115",
+		"a_href":"narures-vally.html",
+		"card_title":"nature's vally",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/nature-valley.jpg",
+		"card_description":"A plot is available for sale in Ibrahimpatnam, Hyderabad. It has an area of 2700 sqft.",
+		"card_area":"Aghapally Village ,  Hyderabad",
+		"card_city": "hyderabad"
+		},
+		{
+		"id":"114",
+		"a_href":"legend-square.html",
+		"card_title":"legend square",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/legend-card.jpg",
+		"card_description":"Somus Legend Square by somus properties at Gandhipuram Coimbatore has been making headlines in the new project launches updates for Coimbatore for the various meticulously residential options it provides.",
+		"card_area":"Gandhipuram, Coimbatore",
+		"card_city": "coimbatore"
+		},
+		{
+		"id":"113",
+		"a_href":"uniidus-acropolis.html",
+		"card_title":"uniidus acropolis",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/acropolis1.png",
+		"card_description":"TUniidus Acropolis is a Spacious Apartment in Budget Prices, totally 64 flats of G+3 Apartment, 16 Flats in Each floor.",
+		"card_area":"Garudacharpalya, Bangalore",
+		"card_city": "bangalore"
+		},
+		{
+		"id":"112",
+		"a_href":"aliens-space-station.html",
+		"card_title":"aliens space station",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/alien-space1.jpeg",
+		"card_description":"This is the first project which came with different in hyderabad.Each and every room covered with 3 side wall and one side glass wall.Our project is constructed in 20 acres.Out of 100% open area is 80% and construction area is 20%.We came with s structure for ventilation purpose only.",
+		"card_area":"gachibowli, Hyderabad",
+		"card_city": "hyderabad"
+		},
+		{
+		"id":"111",
+		"a_href":"happy-homes-signature-town.html",
+		"card_title":"Happy Homes signature Town",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/happy-homes1.jpg",
+		"card_description":"Happy Home Signature Towers comes up with luxurious apartments with covered car parking, lift, excellent interiors, spacious rooms and with world class fittings.",
+		"card_area":"Vijaya Dairya, Hyderabad",
+		"card_city": "hyderabad"
+		},
+		{
+		"id":"110",
+		"a_href":"Luxuria-boutique-apartments.html",
+		"card_title":"Luxuria Apartments",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Luxuria-Card.jpg",
+		"card_description":"CMDA APPROVED FULLY FURNISHED WITH CCP LIFT LED LIGHTS FALSE CEILINGS WALL ELEVATIONS MODULAR KITCHENS COMPLETE.",
+		"card_area":"Mudichur, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"109",
+		"a_href":"Subhiksha-flats.html",
+		"card_title":"SUBHIKSHA FLATS",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/subhiksha.jpg",
+		"card_description":"3bhk 5yrs old GF flat with total interiors in Thoraippakkam very very close to OMR.",
+		"card_area":"OMR, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"108",
+		"a_href":"sukanya-homes.html",
+		"card_title":"SUKANYA HOMES",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/opt/Sukanya-Card.jpg",
+		"card_description":"Sukanya Homes comes under surya associates this company specializes in realty innovation and gives world class amenities which is worth a money for investment this property were built with professional spirit and expertise in best class housing.",
+		"card_area":"Navalur, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"107",
+		"a_href":"Swarnabhoomi.html",
+		"card_title":"SWARNABHOOMI",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/opt/swarnaboomi.jpg",
+		"card_description":"Located on one of the most lucrative areas in Sembakkam this project boast the best in all the departments.",
+		"card_area":"Sembakkam, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"106",
+		"a_href":"Garden-City-Extn.html",
+		"card_title":"GARDEN CITY EXTN",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/opt/Garden-City.jpg",
+		"card_description":"Garden City” is a exceptionally unique villa project in Near Tambaram – Chennai. ",
+		"card_area":"Tambaram West, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"105",
+		"a_href":"Advaita-Blossom.html",
+		"card_title":"ADVAITA BLOSSOM",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/opt/Advaita-Blossom.jpg",
+		"card_description":"Advaita Blossom is a residential project by Advaita Homes, located in Kelambakkam, Chennai.",
+		"card_area":"Kelambakkam, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"104",
+		"a_href":"Urban-Tree-Superb.html",
+		"card_title":"URBAN TREE SUPERB",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/opt/Urban-Tree-Superb.jpg",
+		"card_description":"Urban Tree Superb, build on 6 acres of land is a High-rise residential development project near upcoming Gold Chowk Mall.Urban Tree Superb by Urban Tree Infrastructures has been nested in Urapakkam in Chennai.",
+		"card_area":"Urapakkam, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"103",
+		"a_href":"Aashika.html",
+		"card_title":"AASHIKA",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/opt/Aashika.jpg",
+		"card_description":"Aashika is a residential project that feature all the modern facilities and located in the heart of the city Chennai, Maduravoyal.",
+		"card_area":"Maduravoyal, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"102",
+		"a_href":"Anugraha.html",
+		"card_title":"ANUGRAHA",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/opt/Anugraha.jpg",
+		"card_description":"SREE GURU ANUGRAHA located at Plot No.C-24, Kanagambaram Street, Vivekanada Nagar, Ambattur, Chennai -600 053.",
+		"card_area":"Thirumullaivoyal, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"101",
+		"a_href":"Rajkham-Emerald.html",
+		"card_title":"RAJKHAM EMERALD",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/opt/Rajkham-Emerald.jpg",
+		"card_description":"Emerald, the symbol of love, opens the heart, soothes the mind and energizes the bonds in life to bring freshness and vitality to the spirit. ",
+		"card_area":"Porur, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"100",
+		"a_href":"Orchid.html",
+		"card_title":"ORCHID",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/opt/Orchid.jpg",
+		"card_description":"Orchid is a popular residential development by Karuppasamy Builders in Porur, Chennai.",
+		"card_area":"Porur, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"99",
+		"a_href":"VGN-Royale.html",
+		"card_title":"VGN ROYALE",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/opt/VGN-Royale.jpg",
+		"card_description":"",
+		"card_area":"Avadi, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"98",
+		"a_href":"Salims-Skylight-Enclave.html",
+		"card_title":"SALIMS SKYLIGHT ENCLAVE",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/opt/Salims-Skylight-Enclave1.jpg",
+		"card_description":"Salims Skylight Enclave is a skilfully planned residential project located in Porur, Chennai by the quite experienced Civil Engineering Enterprises offering aesthetically crafted 1 BHK, 2 BHK and 3 BHK apartments.",
+		"card_area":"Porur, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"97",
+		"a_href":"Green-Rajguru.html",
+		"card_title":"GREEN RAJGURU",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/opt/Green-Rajguru.jpg",
+		"card_description":"Green Valleys Shelters Rajguru at Medavakkam, is situated at the epicenter of the growing Chennai Metropolis, a quintessential project right at the crossroads of a bustling locality.",
+		"card_area":"Medavakkam, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"96",
+		"a_href":"Radiance-Royale.html",
+		"card_title":"RADIANCE ROYALE",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/opt/Radiance-Royale.jpg",
+		"card_description":"Radiance Royale is a project by Radiance Realty Developers India Limited located in Porur Chennai. It is build on an area of 3 Acre encompassing 247 units across 2 towers.",
+		"card_area":"Porur, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"95",
+		"a_href":"Thiruvengadam-Enclave.html",
+		"card_title":"THIRUVENGADAM ENCLAVE",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/opt/Thiruvengadam-Enclave.jpg",
+		"card_description":"Thiruvengadam Enclave is a meticulously planned residential project located in Porur, Chennai by RTV Builders.",
+		"card_area":"Porur, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"94",
+		"a_href":"Rajkham-Silver-Crest.html",
+		"card_title":"RAJKHAM SILVER CREST",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/opt/Rajkham-Silver-Crest.jpg",
+		"card_description":"Silver Crest is a truly an attractive, one-of-a-kind residential development in Chennai at Madurapakkam.",
+		"card_area":"Medavakkam, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"92",
+		"a_href":"Urban-Tree-Infinity.html",
+		"card_title":"URBAN TREE INFINITY",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/opt/Urban-Tree-Infinity.jpg",
+		"card_description":"Presenting a new destination of unlimited happiness, amazing comfort and magnificence. Welcome to splendid apartments for sale at Urban Tree Infinity in Porur.",
+		"card_area":"Porur, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"91",
+		"a_href":"Urban-Tree-WOW.html",
+		"card_title":"URBAN TREE WOW",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/opt/Urban-Tree-WOW.jpg",
+		"card_description":"Presenting a new destination of unlimited happiness, amazing comfort and magnificence.",
+		"card_area":"Medavakkam, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"90",
+		"a_href":"LML-Atita.html",
+		"card_title":"LML ATITA",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/opt/LML-Atita.jpg",
+		"card_description":"LML Atita is an aesthetically designed residential project by LML Homes situated in the locality of Perungudi, Chennai offering 3 BHK lavish apartments. ",
+		"card_area":"Perungudi, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"89",
+		"a_href":"Sarvam.html",
+		"card_title":"SARVAM",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/opt/SS-Sarvam.jpg",
+		"card_description":"Sarvam, lifestyle homes that embody every aspect of exquisite living is all set to redefine the standards of apartment living in the metropolis.",
+		"card_area":"Pallavaram-Thoraipakkam, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"88",
+		"a_href":"Appaswamy-Cerus.html",
+		"card_title":"APPASWAMY CERUS",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/appaswamy-cerus.jpg",
+		"card_description":"Appaswamy Cerus is a project by Appaswamy Real Estate located in Virugambakkam Chennai. It is build on an area of 2 Acre encompassing 166 units across 3 towers.",
+		"card_area":"Virugambakkam, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"87",
+		"a_href":"TCP-LAKE-FRONT.html",
+		"card_title":"TCP LAKE FRONT",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/TCP.jpg",
+		"card_description":"TCP Lake Front in Sholinganallur, Chennai is one of the supreme projects developed by Lancor Holdings Limited. This strategically located residential project presents 136 Units of 3-bedroom apartments that are spread across 8 towers.",
+		"card_area":"Sholinganallur, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"86",
+		"a_href":"Casagrand-Vivant.html",
+		"card_title":"CASAGRAND VIVANT",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Vivant.jpg",
+		"card_description":"The modern, well- maintained and well- ventilated flats in Casagrand Vivant are smartly planned and are skillfully designed to utilize maximum space and to offer proper sunlight and cross ventilation, which is important for a healthy life.",
+		"card_area":"Kolapakkam, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"85",
+		"a_href":"Casa-Grand-Masseys.html",
+		"card_title":"CASA GRAND MASSEYS",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Casa-Grande-Masseys.jpg",
+		"card_description":"Casa Grand Masseys is a project by Casagrand Builder Pvt. Ltd. located in Royapuram, Chennai offering aesthetic and skilfully crafted 2 BHK and 3 BHK lavish apartments.",
+		"card_area":"Royapuram, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"84",
+		"a_href":"Vedanshi.html",
+		"card_title":"VEDANSHI",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Vedanshi.jpg",
+		"card_description":"Shrusti Vedanshi is one of the popular residential developments in Velachery, neighborhood of Chennai.",
+		"card_area":"Velachery, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"82",
+		"a_href":"Adroit-House-of-Ambal.html",
+		"card_title":"ADROIT HOUSE OF AMBAL",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/House-of-Ambal.jpg",
+		"card_description":"Adroit House of Ambal is an exquisite project currently under construction by Adroit Urban Developers Pvt. Ltd.",
+		"card_area":"Anna Salai, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"81",
+		"a_href":"The-Courtyard.html",
+		"card_title":"THE COURTYARD",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Courtyard.jpg",
+		"card_description":"The Courtyard is a project by Raunaq Foundations located in Manapakkam, Chennai offering elegant and luxuriously designed 2 BHK and 3 BHK spacious apartments.",
+		"card_area":"Manapakkam, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"80",
+		"a_href":"Felicia.html",
+		"card_title":"FELICIA",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Felicia.jpg",
+		"card_description":"Welcome to Felicia - 12 independent fully furnished villas spread over in 10.5 grounds, crafted for people who like only the best. Felicia with the promise of quality villa with car park & landscape garden complimented by fully fitted wardrobe, modular kitchen with hob and chimney, Air conditioners in all bed rooms and living rooms, light, fans and automatic lift with an aesthetic elevation.",
+		"card_area":"Neelankarai, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"79",
+		"a_href":"Casagrand-Uptown.html",
+		"card_title":"CASAGRAND UPTOWN",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Uptown.jpg",
+		"card_description":"An integrated township of Plots, Casagrand Uptown is set on a 30 acre expanse. The project is located at Thandalam, Poonamallee - an upcoming locality with outstanding connectivity and rapid land value appreciation.",
+		"card_area":"Thandalam, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"78",
+		"a_href":"Sumeru-Conclave.html",
+		"card_title":"SUMERU CONCLAVE",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Conclave.jpg",
+		"card_description":"Sumeru Conclave is an ongoing residential project by Sumeru Housing Co being based in Selaiyur, Chennai offering thoughtfully crafted residential plots. It consists of 12 units spanned over 5 towers. Sumeru Conclave price rate starts from Rs. 31.2 Lac onward.",
+		"card_area":"Selaiyur, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"77",
+		"a_href":"KG-Signature-City.html",
+		"card_title":"KG SIGNATURE CITY",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Signature-City.jpg",
+		"card_description":"KG Signature City in Mogappair, Chennai offers a combination of 1, 2 and 3BHK flats at a starting rate of Rs.4400 per sqft. The apartments are ready to occupy and are available in the area size of 610 sqft and 1400 sqft.",
+		"card_area":"Mogappair, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"76",
+		"a_href":"Arham-Harmony.html",
+		"card_title":"ARHAM HARMONY",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Harmony.jpg",
+		"card_description":"Arham Harmony is a luxurious residential project located in Iyyappanthangal, Chennai and developed by Arham Builders; offering thoughtfully crafted and aesthetically designed 2 BHK and 3 BHK villas.",
+		"card_area":"Iyyappanthangal, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"75",
+		"a_href":"Olympia-Opaline-Sequel.html",
+		"card_title":"OLYMPIA OPALINE SEQUEL",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Opaline.jpg",
+		"card_description":"Olympia Opaline Sequel in Navalur, Chennai is designed by the renowned Olympia Group. The residential project in Chennai offers 608 units comprising of 2BHK, 3BHK, 4BHK apartments across 4 towers that have been developed to ensure comfortable living for its residents.",
+		"card_area":"Navalur, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"74",
+		"a_href":"Aashritha.html",
+		"card_title":"AASHRITHA",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/aashritha.jpg",
+		"card_description":"",
+		"card_area":"Perumbakkam, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"73",
+		"a_href":"Casagrand-Bellissimo.html",
+		"card_title":"CASAGRAND BELLISSIMO",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/bellissimo.jpg",
+		"card_description":"Casagrand Bellissimo is a project by Casagrand Builder Pvt. Ltd. located strategically in Alandur, Chennai offering spaciously crafted luxurious 2 BHK, 3 BHK and 4 BHK apartments.",
+		"card_area":"Alandur, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"72",
+		"a_href":"Khurinjis-Zinnia.html",
+		"card_title":"KHURINJIS ZINNIA",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Zinnia.jpg",
+		"card_description":"Khurinji is Zinnia is an ongoing Project by Khurinji Homes. Zinnia is a premium residential community that houses a conclave of 126 elegantly built dwellings spread across 4 separate units namely ZINNIA CITREA, ELEGANS, GOLD and NITRA.",
+		"card_area":"Tambaram, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"71",
+		"a_href":"Arihant-Chetna.html",
+		"card_title":"ARIHANT CHETNA",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Chetna.jpg",
+		"card_description":"Chetna is our newest residential offering in a stunningly peaceful and picturesque 50 acre setting in Perambur.",
+		"card_area":"Perambur, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"70",
+		"a_href":"Casagrand-ECR14.html",
+		"card_title":"CASAGRAND ECR 14",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/ecr-14.jpg",
+		"card_description":"Casagrand ECR 14 is a currently under construction project by Casagrand Builder Pvt. Ltd. ",
+		"card_area":"ECR, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"69",
+		"a_href":"anika.html",
+		"card_title":"ANIKA",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Anika.jpg",
+		"card_description":"Anika is a project consisting 47 units of luxurious and spaciously designed 2 BHK and 3 BHK apartments over a span of 1 tower. ",
+		"card_area":"Siruseri, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"68",
+		"a_href":"Elegants-Pinnacle.html",
+		"card_title":"ELEGANTS PINNACLE",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Pinnacle.jpg",
+		"card_description":"Elegant’s Pinnacle in Semmanchery is located in a very calm and prominent location, just before Sathyabama Engineering College in OMR.",
+		"card_area":"Semmancheri, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"66",
+		"a_href":"Marutham-Prestige.html",
+		"card_title":"MARUTHAM PRESTIGE",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/marutham-prestige.jpg",
+		"card_description":"The Marutham Prestige is a luxurious residential property that is equipped with many spacious and well- ventilated flats, which are constructed to complement or update your modern lifestyle.",
+		"card_area":"Tambaram West, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"64",
+		"a_href":"RS-Luminous.html",
+		"card_title":"RS LUMINOUS",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/luminous.jpg",
+		"card_description":"RS Luminous is a residential project consisting of 12 units spanned over 2 towers and offering luxurious and thoughtfully designed 3 BHK apartments.",
+		"card_area":"OMR, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"63",
+		"a_href":"Palmera-Garden-Phase-II.html",
+		"card_title":"PALMERA GARDEN PHASE II",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Palmera.jpg",
+		"card_description":"Palmera Garden Phase II is a project by Elegant Constructions skilfully crafted in Thoraipakkam, Chennai offering lavish and elegantly designed 2 BHK and 3 BHK apartments.",
+		"card_area":"Thoraipakkam, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"62",
+		"a_href":"Aanandham.html",
+		"card_title":"AANANDHAM",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Anandham.jpg",
+		"card_description":"Aanandham, a picture perfect amalgamation of luxury, comfort and style is developed by one of the renowned developers named M and N Builders.",
+		"card_area":"Porur, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"61",
+		"a_href":"Marutham-Breeze.html",
+		"card_title":"MARUTHAM BREEZE",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Marutham-Breeze.jpg",
+		"card_description":"Marutham Breeze is located in a serene green atmosphere, away from the puzzling city noise and dust pollution on the state highway road near Manimangalam in the Tambaram locality. ",
+		"card_area":"Tambaram West, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"60",
+		"a_href":"Green-Home-Villa-Green-Vista.html",
+		"card_title":"GREEN HOME VILLA GREEN VISTA",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Green-Home-villa1.jpg",
+		"card_description":"Villa Green Vista is a project by Green Home located in Kelambakkam, Chennai offering 3 BHK and 4 BHK villas. It is currently under construction and consists of 850 units.",
+		"card_area":"Kelambakkam, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"59",
+		"a_href":"Adroit-Artistica.html",
+		"card_title":"ADROIT ARTISTICA",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Adroit.jpg",
+		"card_description":"Adroit Artistica is a project by Adroit Urban Developers Pvt. Ltd., located in Sholinganallur, Chennai, offering elegantly designed currently under construction 3 BHK and 4 BHK apartments and penthouses.",
+		"card_area":"Sholinganallur, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"57",
+		"a_href":"Lakeside-ll.html",
+		"card_title":"LAKESIDE 2",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/lakeside-2.jpg",
+		"card_description":"An Enchanting Community An Enriching Lifestyle Sugal and Damani has successful completed LakeSide , a prestigious residential gated community at Puzhal in Chennai. ",
+		"card_area":"Puzhal, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"56",
+		"a_href":"KG-Earth-Homes.html",
+		"card_title":"KG EARTH HOMES",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/earth.jpg",
+		"card_description":"Designed for those who dare to care for our planet, with Earth-Friendly Apartments built into the very fabric of its creation, KG Earth Homes will change your lifestyle forever.",
+		"card_area":"Siruseri, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"55",
+		"a_href":"KG-Centre-Point.html",
+		"card_title":"KG CENTRE POINT",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/centre-point.jpg",
+		"card_description":"Away from the maddening crowd, yet within easy reach of all the benefits of city life, our luxury home project in Poonamallee will set a new standard in the area.",
+		"card_area":"Poonamalle, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"54",
+		"a_href":"Express-Exclusive.html",
+		"card_title":"EXPRESS EXCLUSIVE",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Express.jpg",
+		"card_description":"A lavish 5 acre spread with 70% landscaped garden with no common walls and Panaromic view of Bay of Bengal Located at heart of the city, Mount Road.",
+		"card_area":"Mount Road, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"53",
+		"a_href":"Avigna-Eminence.html",
+		"card_title":"AVIGNA EMINENCE",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Avigna-Eminence.jpg",
+		"card_description":"Avigna Eminence is one of the popular residential developments in GST Road, neighborhood of Chennai. It is among the completed projects of its Builder.",
+		"card_area":"Mahindra World City, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"52",
+		"a_href":"Casagrand-Ferns.html",
+		"card_title":"CASAGRAND FERNS",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/ferns.jpg",
+		"card_description":"Built in a very popular area of Tamilnadu, Casagrand Ferns from Casagrand Private Limited offers affordably priced 2BHK and 3BHK residential apartments spread across an area of 4.31 acres.",
+		"card_area":"Tambaram, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"51",
+		"a_href":"Ideal-Homes.html",
+		"card_title":"IDEAL HOMES",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Ideal-Homes.jpg",
+		"card_description":"Ideal Homes from the well known Vijay Raja Group has developed a low price yet premium quality residential project featuring 224 residences in the combination of 1BHK",
+		"card_area":"Thirumazhisai, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"50",
+		"a_href":"Pooja-Diamond-Villas.html",
+		"card_title":"POOJA DIAMOND VILLAS",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/diamond-villas.jpg",
+		"card_description":"Diamond Villas is a residential project that fulfills all your desires of owning the dream house.",
+		"card_area":"Porur, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"49",
+		"a_href":"Brigade-Xanadu.html",
+		"card_title":"BRIGADE XANADU",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Brigade.jpg",
+		"card_description":"RERA certified, Brigade Xanadu located in Mogappair West, Chennai is an excellent 33-acre residential township by the award-winning developer Brigade Group.",
+		"card_area":"Mogappair West, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"48",
+		"a_href":"Lokaa-M-One.html",
+		"card_title":"LOKAA M ONE",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/m-one.jpg",
+		"card_description":"M One is a residential project by Lokaa Developer Pvt. Ltd. located in Madhavaram, Chennai offering thoughtfully planned and elegantly designed 2 BHK and 3 BHK apartments.",
+		"card_area":"Madhavaram, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"47",
+		"a_href":"Caspia.html",
+		"card_title":"CASPIA",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/caspia.jpg",
+		"card_description":"Caspia is a fabulous residential project where you can savor the joys of modern living.",
+		"card_area":"Korattur, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"46",
+		"a_href":"KG-Good-Fortune.html",
+		"card_title":"KG GOOD FORTUNE",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/good-fortune.jpg",
+		"card_description":"KG Good Fortune presents a beautiful range of 1bhk, 2bhk and 3bhk residential apartments that you will surely consider to buy once you see and know the benefits that are offered with this residential project.",
+		"card_area":"Perumbakkam, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"45",
+		"a_href":"KG-Chandra-Vista.html",
+		"card_title":"KG CHANDRA VISTA",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Chandraa.jpg",
+		"card_description":"KG Chandra vista is a multistory residential building, which is located in the temple city of south India, Chennai. The building stands in old Mhabalipuram road, Chennai.",
+		"card_area":"Sholinganallur, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"44",
+		"a_href":"Doshi-Risington.html",
+		"card_title":"DOSHI RISINGTON",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/risington.jpg",
+		"card_description":"Doshi Risington by Doshi Housing in Karapakkam, Chennai is a beautifully designed project featuring a combination of 1, 2, 3 and 4BHK",
+		"card_area":"Karapakkam, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"43",
+		"a_href":"Perfect-Pedestal.html",
+		"card_title":"PERFECT PEDESTAL",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/pedestal1.jpeg",
+		"card_description":"Perfect Pedestal is a well crafted project by Perfect Builders thoughtfully based in Kovilambakkam, Chennai and offering lavish and aesthetically designed 1 BHK and 2 BHK apartments.",
+		"card_area":"Kovilambakkam, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"42",
+		"a_href":"Pearl-Iris.html",
+		"card_title":"PEARL IRIS",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Iris.jpg",
+		"card_description":"Pearl Iris is a project by G. P. Homes located in Ayappakkam, Chennai offering spaciously crafted 1 BHK, 2 BHK and 3 BHK apartments. ",
+		"card_area":"Ayappakkam, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"41",
+		"a_href":"CasaGrand-Monte-Carlo.html",
+		"card_title":"CASAGRAND MONTE CARLO",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/monte-carlo.jpg",
+		"card_description":"Casagrand Monte Carlo is a ravishing project by Casagrand Builder Pvt. Ltd. located in Saidapet, Chennai offering luxurious and high quality designed 2 BHK, 3 BHK and 4 BHK apartments.",
+		"card_area":"Saidapet, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"40",
+		"a_href":"RS-Elegance.html",
+		"card_title":"R S ELEGANCE",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Elegance.jpg",
+		"card_description":"RS Elegance, Phase II has 30 apartments Ranging From 1040 sq.ft, to 1600 sq.ft, which are located in Vadakupattu, 1 Km from Kovilambakkam, for those who prefer to be in a serene and picture perfect atmosphere. ",
+		"card_area":"Medavakkam, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"39",
+		"a_href":"Pine-Ridge.html",
+		"card_title":"PINE RIDGE",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Ridge1.jpg",
+		"card_description":"SALMA is a reputed construction company named for its quality and perfection from Chennai, fully dedicated to establish ever standing landmarks in Chennai's city scape.",
+		"card_area":"Velachery, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"38",
+		"a_href":"Casagrand-Irene.html",
+		"card_title":"CASAGRAND IRENE",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/irene.jpg",
+		"card_description":"Casagrand Irene is a project by Casagrand Builder Pvt. Ltd. located in Manapakkam.",
+		"card_area":"Manapakkam, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"37",
+		"a_href":"Rajparis-Crystal-Spring.html",
+		"card_title":"RAJPARIS CRYSTAL SPRING",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/crystal.jpg",
+		"card_description":"Rajparis Crystal Spring is a project by Rajparis Civil Construction Ltd. located in Medavakkam Chennai.",
+		"card_area":"Medavakkam, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"36",
+		"a_href":"Radiance-Mercury.html",
+		"card_title":"RADIANCE MERCURY",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/mercury.jpg",
+		"card_description":"Developed by Radiance Realty Developers India Ltd., Radiance Mercury is one of the upcoming residential development with possession by June 2018 located in Perumbakkam, Chennai.",
+		"card_area":"Perumbakkam, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"35",
+		"a_href":"Nahar-Jaishree.html",
+		"card_title":"NAHAR JAISHREE",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/jaishree.jpg",
+		"card_description":"Nahar Jaishree is a strategically located residential project currently under construction. ",
+		"card_area":"Pallikaranai, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"33",
+		"a_href":"White-field-Mudra.html",
+		"card_title":"WHITE FIELD MUDRA",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/mudra.jpg",
+		"card_description":"White field Mudra Phase 3 have come up with 2 and 3 BHK flats in Chennai, developed by the prestigious Shirdi Shelters, Medavakkam – Chennai. The total number of 119 units divided into 7 huge towers are still under construction with an estimated time of possession in June 2019.",
+		"card_area":"Medavakkam, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"32",
+		"a_href":"Adroit-Urban-District.html",
+		"card_title":"ADROIT URBAN DISTRICT",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/urban.jpg",
+		"card_description":"A 100% vastu compliant gated community, the Adroit Urban District S in Thalambur, Chennai provides spacious, modern and well- ventilated flats that are efficiently designed with smart floor plan, latest architecture, high- quality raw material and modern interiors.",
+		"card_area":"Thalambur, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"31",
+		"a_href":"rkc-subrabath.html",
+		"card_title":"RKC SUBRABATH",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/rkc.jpg",
+		"card_description":"RKC Subrabath is a project currently undergoing construction in Vadapalani, Chennai offering 2 BHK and 3 BHK apartments.",
+		"card_area":"Vadapalani, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"30",
+		"a_href":"lancor-lumina.html",
+		"card_title":"LANCOR LUMINA",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/lumina.jpg",
+		"card_description":"Lumina in Guduvancheri, Chennai is one residential project that features attractive towers, smart floor plan, excellent architecture, latest amenities and modern technology. ",
+		"card_area":"Guduvancheri, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"29",
+		"a_href":"bollineni-hillside-phase.html",
+		"card_title":"BOLLINENI HILLSIDE PHASE",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/bollineni.jpg",
+		"card_description":"Bollineni Hillside Phase II is a project by BSCPL Infrastructure Ltd.",
+		"card_area":"Sholinganallur, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"26",
+		"a_href":"Nexus-Sobha-Pristine-bangalore.html",
+		"card_title":"NEXUS SHOBA PRISTINE",
+		"card_img": "../assets/images/sobha-hrc/SP_20Card.jpg",
+		"card_description":"With three decades of glorious experience, Shoba developers have always strived for benchmark quality, customer centric approach, uncompromising business ethics and transparency in all spheres of business conduct.",
+		"card_area":"Jakkuru, Bangalore",
+		"card_city": "bangalore"
+		},
+		{
+		"id":"25",
+		"a_href":"Uniidus-Breeze-banglore.html",
+		"card_title":"UNIIDUS BREEZE",
+		"card_img": "../assets/images/free-listing/Uniidus-Breeze-card-optimized.jpg",
+		"card_description":"Uniidus Breeze is Boutique Apartment in Budget price, Total 120 Flats of 1, 2 & 3BHK in Munnekolallu Road ( Marathahalli), Next to Vagdevi Vilas School (CBSE Affiliated till 12th class, One of Most Sought After School in the Area).",
+		"card_area":"Marathahalli, Bangalore",
+		"card_city": "bangalore"
+		},
+		{
+		"id":"24",
+		"a_href":"Globuse-Gardens-coimbatore.html",
+		"card_title":"GLOBUSE GARDENS",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/hn-card.jpg",
+		"card_description":"Our project remains as a pollution free environment with green surroundings.",
+		"card_area":"Kalapatti, Coimbatore",
+		"card_city": "coimbatore"
+		},
+		{
+		"id":"23",
+		"a_href":"sathish-ventures-coimbatore.html",
+		"card_title":"SATHISH VENTURES",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/property/SV-Card.jpg",
+		"card_description":"Santhish ventures has been the leading consultants in real estate industry. They expertise in residential apartments and plots in Coimbatore.",
+		"card_area":"Coimbatore",
+		"card_city": "coimbatore"
+		},
+		{
+		"id":"22",
+		"a_href":"Castles-Aadhira-Arcade-coimbatore.html",
+		"card_title":"CASTLES AADHIRA ARCADE",
+		"card_img": "../assets/images/castle-aadhira/Aadhira_20Card.jpg",
+		"card_description":"Castle realty company is one of the top class builders in Coimbatore offering uniquely designed eco-friendly 1 & 2 BHK villa.",
+		"card_area":"Saravanampatti, Coimbatore",
+		"card_city": "coimbatore"
+		},
+		{
+		"id":"21",
+		"a_href":"rrpromoters-coimbatore.html",
+		"card_title":"RR PROMOTERS",
+		"card_img": "../assets/images/rrpromotors/RR_20SP_20Card.jpg",
+		"card_description":"Since 1980, RR promoters has been successfully fulfilling the dreams and aspiration of many home buyers in Coimbatore.",
+		"card_area":"Kavundampalayam, Coimbatore",
+		"card_city": "coimbatore"
+		},
+		{
+		"id":"16",
+		"a_href":"CENTRAL-SQUARE-JANAKIPURAM.html",
+		"card_title":"CENTRAL SQUARE",
+		"card_img": "../assets/images/free-listing/central-square-optimized.jpg",
+		"card_description":"on NH ROAD PROPERTY",
+		"card_area":"MAMANDUR, Kanchipuram",
+		"card_city": "chennai"
+		},
+		{
+		"id":"15",
+		"a_href":"jlv-hall-mark-mannivakkam.html",
+		"card_title":"JLV HALL MARK",
+		"card_img": "../assets/images/free-listing/jlv2-optimized.jpg",
+		"card_description":"mannivakkam junction just 400 meters,. vip location, easy access to sri ram IT COMPANY.",
+		"card_area":"Mannivakam Junction, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"13",
+		"a_href":"Saraswathy-homes-Kattupakkam.html",
+		"card_title":"SARASWATHY HOMES",
+		"card_img": "../assets/images/free-listing/saraswathi-homes-optimized.jpg",
+		"card_description":"Saraswathy homes, Total 1200 sqft,build up 850 sqft",
+		"card_area":"Kattupakkam, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"10",
+		"a_href":"stepstone-prasanas-apartments-Sholinganallur.html",
+		"card_title":"STEPSTONE PRASANNA",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/get-opt/steps_stone_prasanas_sholanganallur-chennai-steps_.jpg",
+		"card_description":"Prasanas by Stepsstone located at Sholinganallur offers premium 2 & 3 BHK apartment at rock bottom price. ",
+		"card_area":"Ottiyambakkam, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"9",
+		"a_href":"stepstone-ananthaya-Urapakkam.html",
+		"card_title":"STEPSTONE ANANTHAYA",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/get-opt/stepsstone_ananthaya.jpg",
+		"card_description":"Stepsstone Urapakkam flats are your very own kingdom of happiness.",
+		"card_area":"Urapakkam, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"8",
+		"a_href":"stepstone-viktaa-in-maduravoyal.html",
+		"card_title":"STEPSTONE VIKTAA",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/get-opt/viktaacard.jpg",
+		"card_description":"Stunning Viktaa apartments designed to international standards",
+		"card_area":"Maduravoyal, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"7",
+		"a_href":"Apartments-in-annanagar.html",
+		"card_title":"SHANTHI COLONY",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/get-opt/14.jpg",
+		"card_description":"Awesome anna nagar apartment equipped for comfortable lifestyle.",
+		"card_area":"Anna Nagar, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"5",
+		"a_href":"akshaya-republic-kovur.html",
+		"card_title":"AKSHAYA REPUBLIC",
+		"card_img": "https://s3-ap-southeast-1.amazonaws.com/getspiniprod/Akshaya-Republic.jpg",
+		"card_description":"Fantastic apartments with world class facilities & comfort.",
+		"card_area":"Kovur, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"3",
+		"a_href":"akshaya-today-OMR-Thaiyur.html",
+		"card_title":"AKSHAYA TODAY",
+		"card_img": "https://s3-ap-southeast-1.amazonaws.com/getspiniprod/Akshaya-Today.jpg",
+		"card_description":"Luxurious apartment with all comforts of best-in-class amenities.",
+		"card_area":"OMR, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"2",
+		"a_href":"adroit-District-s-omr.html",
+		"card_title":"ADROIT DISTRICT",
+		"card_img": "../assets/images/adirot/01-optimized.jpg",
+		"card_description":"Adroit urban developers, one of the leading builders in Chennai have been offering its customers quintessential apartments for years.",
+		"card_area":"Thalambur, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"83",
+		"a_href":"Sai-Niketan.html",
+		"card_title":"SAI NIKETAN",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Sri_Visthara_Sai_Niketan_1.jpg",
+		"card_description":"Sai Niketan a project from Sri Visthara located in an Eco friendly environment with 36 designer dwellings near 300 acres of lake. Great work life balance: live near lake, in ECO friendly environment, at 5 KM from OMR,unique designer dwellings - maximum exposed walls, ensures maximum ventilation and lighting.",
+		"card_area":"Sithalapakkam, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"65",
+		"a_href":"L&T-Eden-Park-Phase-II.html",
+		"card_title":"L&T EDEN PARK PHASE II",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Eden.jpg",
+		"card_description":"Residential development by the renowned L&T Realty, L and T Eden Park Phase II in Siruseri, Chennai is a lavish project comprising of 1288 units of 1BHK, 2BHK & 3BHK apartments spread across 5 towers.",
+		"card_area":"Siruseri, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"28",
+		"a_href":"tata-santorini.html",
+		"card_title":"tata santorini",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/tata-sant-card.jpg",
+		"card_description":"Tata Santorini by Tata Value Homes offers an unbeatable lifestyle at Santorini.The Spanish themed project spread over 18 acres in Poonamallee, Chennai.",
+		"card_area":"Poonamallee",
+		"card_city": "chennai"
+		},
+		{
+		"id":"27",
+		"a_href":"tata-new-haven-ribbon-walk-mambakkam.html",
+		"card_title":"TATA NEW HAVEN",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/tata-nh-card.jpg",
+		"card_description":"New Haven Ribbon Walk at Mambakkam comprises of multi-level courtyards and green spaces connected by a ribbon landscape.",
+		"card_area":"mambakkam",
+		"card_city": "chennai"
+		},
+		{
+		"id":"58",
+		"a_href":"BSR-Balaji-Enclave.html",
+		"card_title":"BSR BALAJI ENCLAVE",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Balaji-Enclave.jpg",
+		"card_description":"BSR Balaji Enclave is a project by BSR Builders being developed in Mogappair West, Chennai offering aesthetically designed and spacious 2 BHK and 3 BHK apartments.",
+		"card_area":"Mogappair West, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"20",
+		"a_href":"gvspl-coimbatore.html",
+		"card_title":"GREEN VALLEYS SHELTERS",
+		"card_img": "../assets/images/gvspl/GVSPL_20Card.jpg",
+		"card_description":"Green Valleys Shelters Pvt Ltd continues its legacy by rendering sophisticated residential and commercial living experience.",
+		"card_area":"Vilankuruchi, Coimbatore",
+		"card_city": "coimbatore"
+		},
+		{
+		"id":"19",
+		"a_href":"nest-fortune-choolaimedu.html",
+		"card_title":"NEST ELEGANT & FORTUNE",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Nest-Fortune-Card.jpg",
+		"card_description":"Nest Elegant and Fortune at Choolaimedu by Nest Builders is yet another addition to luxurious and marvelous residential apartments.",
+		"card_area":"Choolaimedu, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"18",
+		"a_href":"nest-life-thiruvanmiyur.html",
+		"card_title":"NEST LIFE",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Life-Card.jpg",
+		"card_description":"Nest life by Nest Builders at Thiruvanmiyur is designed specially for those who wish to live and have independent feeling in a flat system.",
+		"card_area":"Thiruvanmiyur, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"6",
+		"a_href":"nest-glory-Sholinganallur-apartments.html",
+		"card_title":"NEST GLORY",
+		"card_img": "https://s3-ap-southeast-1.amazonaws.com/getspiniprod/Nest-Glory.jpg",
+		"card_description":"Stunning Nest-Glory flats equipped with world class facilities.",
+		"card_area":"Sholinganallur, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"1",
+		"a_href":"nest-amaze-Sholinganallur.html",
+		"card_title":"nest amaze",
+		"card_img": "https://s3-ap-southeast-1.amazonaws.com/getspiniprod/Nest-Amaze.jpg",
+		"card_description":"Nest Amaze by The Nest Builders located in Sholinganallur offers premium 1, 2 & 3 BHK apartments.",
+		"card_area":"Sholinganallur, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"12",
+		"a_href":"nest-arpana-sholinganallur.html",
+		"card_title":"NEST ARPANA",
+		"card_img": "../assets/images/aparna/Aparna_2001%202.jpg",
+		"card_description":"The Nest Builders offers Nest Arpana at Sholinganallur a uniquely designed apartment with top class amenities and specifications.",
+		"card_area":"Sholinganallur, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"4",
+		"a_href":"nest-njoy-villa-kanathur.html",
+		"card_title":"NEST NJOY VILLAS",
+		"card_img": "https://s3-ap-southeast-1.amazonaws.com/getspiniprod/Nest-Njoy.jpg",
+		"card_description":"The Nest njoy a landmark project in the world of affordable homes.",
+		"card_area":"Kanathur, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"17",
+		"a_href":"nest-suraj-mahalingapuram.html",
+		"card_title":"NEST SURAJ",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/Suraj-Card.jpg",
+		"card_description":"Nest builders next successful apartment edition is Nest Suraj located at the heart of Chennai city Mahalingapuram.",
+		"card_area":"Mahalingapuram, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"252",
+		"a_href":"nest-pride.html",
+		"card_title":"NEST PRIDE ",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/nest-pride.PNG",
+		"card_description":"The Nest Builder presents a housing project located in Choolaimedu",
+		"card_area":"Choolaimedu",
+		"card_city": "chennai"
+		},
+		{
+		"id":"251",
+		"a_href":"mcb-avadi.html",
+		"card_title":"MCB Avadi",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/mcb1.jpg",
+		"card_description":"The project offers Land with perfect combination",
+		"card_area":"Avadi",
+		"card_city": "chennai"
+		},
+		{
+		"id":"238",
+		"a_href":"fomra-hues.html",
+		"card_title":"FOMRA HUES",
+		"card_img": "http://cdn.getspini.com.s3.amazonaws.com/landing/fomra-hues.png",
+		"card_description":"The project encompasses 2 residential blocks and 1 commercial block.",
+		"card_area":"Porur",
+		"card_city": "chennai"
+		},
+		{
+		"id":"240",
+		"a_href":"godrej-azure.html",
+		"card_title":"GODREJ AZURE",
+		"card_img": "http://cdn.getspini.com.s3.amazonaws.com/landing/godrej-azure.jpeg",
+		"card_description":"Godrej Azure is the latest joint residential development",
+		"card_area":"Padur",
+		"card_city": "chennai"
+		},
+		{
+		"id":"125",
+		"a_href":"Lancor-Altura.html",
+		"card_title":"LANCOR ALTURA",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/altura1.jpg",
+		"card_description":"LANCOR TCP Altura an Luxury Apartment Community.",
+		"card_area":" Sholinganallur",
+		"card_city": "chennai"
+		},
+		{
+		"id":"126",
+		"a_href":"alliance-Jasmine-Springs.html",
+		"card_title":"Alliance Jasmine Springs",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/jasmine1.jpg",
+		"card_description":"A home in the IT Capital of Chennai is a possession you can feel .",
+		"card_area":" Kelambakkam",
+		"card_city": "chennai"
+		},
+		{
+		"id":"226",
+		"a_href":"casagrand-esquire.html",
+		"card_title":"CASAGRAND ESQUIRE",
+		"card_img": "http://cdn.getspini.com.s3.amazonaws.com/landing/cg-esquire.gif",
+		"card_description":"Casagrand Esquire at Perungudi defies that logic. ",
+		"card_area":"Perungudi",
+		"card_city": "chennai"
+		},
+		{
+		"id":"255",
+		"a_href":"../alliance-residential-apartments-in-padur.html",
+		"card_title":"URBANRISE INDEPENDENCE",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/allianz-padur/BG-min.jpg",
+		"card_description":"1, 2 & 3 BHK Residential and Studio Apartments",
+		"card_area":"padur",
+		"card_city": "chennai"
+		},
+		{
+		"id":"254",
+		"a_href":"sobha-palacia.html",
+		"card_title":"SOBHA PALACIA",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/sobha_palacia_banner1.jpg",
+		"card_description":"SOBHA Palacia will be one of south Chennai's most exciting addresses",
+		"card_area":"Sholinganallur",
+		"card_city": "chennai"
+		},
+		{
+		"id":"253",
+		"a_href":"../puravankara-somerset-house.html",
+		"card_title":"PURAVANKARA SOMERSET",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/purva-somerset-house/18.jpg",
+		"card_description":"Purva Somerset at Guindy,Chennai",
+		"card_area":"Guindy",
+		"card_city": "chennai"
+		},
+		{
+		"id":"93",
+		"a_href":"Urban-Tree-Oxygen.html",
+		"card_title":"URBAN TREE OXYGEN",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/opt/Urban-Tree-Oxygen.jpg",
+		"card_description":"Oxygen is an outcome of the use of climate responsive design, intelligent technology and the most ideal construction materials to ensure maximum heat reduction, minimum energy consumption, regular cross ventilation and limitless supply of clean air along with copious potable groundwater.",
+		"card_area":"Perumbakkam, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"11",
+		"a_href":"l-and-t-eden-park-siruseri.html",
+		"card_title":"PRAGNYA EDEN PARK",
+		"card_img": "../assets/images/l-and-t/1-optimized.jpg",
+		"card_description":"Eden park is a modern integrated township and gated community apartment by L&T. L&T is a top class builder backed with 75+ years expertise in construction industry.",
+		"card_area":"Siruseri, Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"14",
+		"a_href":"hiranandani-parks-oragadam.html",
+		"card_title":"HIRANANDANI PARKS",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/hira-img/carousel/opt/07.jpg",
+		"card_description":"Hiranandani Parks, Living in Hiranandani Parks is an exceptional experience. This mega township is planned with amenities nestled within open green spaces.",
+		"card_area":"Orgadam, Chennai",
+		"card_city": "chennai"
+		}
+
+
+]}

@@ -1,0 +1,1024 @@
+[
+ {
+   "id": 1,
+   "location": "Kelambakkam",
+   "one_bhk": 12000,
+   "two_bhk": 20000,
+   "three_bhk": 35000
+ },
+ {
+   "id": 2,
+   "location": "Thoraipakkam OMR",
+   "one_bhk": 21000,
+   "two_bhk": 23298,
+   "three_bhk": 50000
+ },
+ {
+   "id": 3,
+   "location": "Chengalpattu",
+   "one_bhk": 6000,
+   "two_bhk": 8000,
+   "three_bhk": 12000
+ },
+ {
+   "id": 4,
+   "location": "Guduvancheri",
+   "one_bhk": 6500,
+   "two_bhk": 9000,
+   "three_bhk": 35000
+ },
+ {
+   "id": 5,
+   "location": "Sholinganallur",
+   "one_bhk": 16453,
+   "two_bhk": 30000,
+   "three_bhk": 78598
+ },
+ {
+   "id": 6,
+   "location": "Padur",
+   "one_bhk": 12000,
+   "two_bhk": 16200,
+   "three_bhk": 25400
+ },
+ {
+   "id": 7,
+   "location": "Singaperumal Koil",
+   "one_bhk": 7000,
+   "two_bhk": 9000,
+   "three_bhk": 24000
+ },
+ {
+   "id": 8,
+   "location": "Muttukadu",
+   "one_bhk": 15000,
+   "two_bhk": 20000,
+   "three_bhk": 52500
+ },
+ {
+   "id": 9,
+   "location": "Medavakkam",
+   "one_bhk": 7500,
+   "two_bhk": 16000,
+   "three_bhk": 17000
+ },
+ {
+   "id": 10,
+   "location": "Urapakkam",
+   "one_bhk": 8500,
+   "two_bhk": 7500,
+   "three_bhk": 15500
+ },
+ {
+   "id": 11,
+   "location": "Ambattur",
+   "one_bhk": 8000,
+   "two_bhk": 18000,
+   "three_bhk": 250000
+ },
+ {
+   "id": 12,
+   "location": "Perungalathur",
+   "one_bhk": 8500,
+   "two_bhk": 10000,
+   "three_bhk": 12500
+ },
+ {
+   "id": 13,
+   "location": "Pallavaram",
+   "one_bhk": 11318,
+   "two_bhk": 14000,
+   "three_bhk": 21166
+ },
+ {
+   "id": 14,
+   "location": "Navallur",
+   "one_bhk": 9500,
+   "two_bhk": 22233,
+   "three_bhk": 30260
+ },
+ {
+   "id": 15,
+   "location": "Kovalam",
+   "one_bhk": 10000,
+   "two_bhk": 15000,
+   "three_bhk": 25000
+ },
+ {
+   "id": 16,
+   "location": "Avadi",
+   "one_bhk": 6000,
+   "two_bhk": 8333,
+   "three_bhk": 15000
+ },
+ {
+   "id": 17,
+   "location": "Oragadam",
+   "one_bhk": 5000,
+   "two_bhk": 12000,
+   "three_bhk": 18000
+ },
+ {
+   "id": 18,
+   "location": "tambaram west",
+   "one_bhk": 8000,
+   "two_bhk": 15000,
+   "three_bhk": 20000
+ },
+ {
+   "id": 19,
+   "location": "Madipakkam",
+   "one_bhk": 10250,
+   "two_bhk": 12700,
+   "three_bhk": 22000
+ },
+ {
+   "id": 20,
+   "location": "Walajabad",
+   "one_bhk": 4000,
+   "two_bhk": 5500,
+   "three_bhk": 8000
+ },
+ {
+   "id": 21,
+   "location": "Maraimalai Nagar",
+   "one_bhk": 6500,
+   "two_bhk": 13000,
+   "three_bhk": 21833
+ },
+ {
+   "id": 22,
+   "location": "Mogappair",
+   "one_bhk": 75000,
+   "two_bhk": 18750,
+   "three_bhk": 28000
+ },
+ {
+   "id": 23,
+   "location": "Siruseri",
+   "one_bhk": 12666,
+   "two_bhk": 14666,
+   "three_bhk": 17500
+ },
+ {
+   "id": 24,
+   "location": "Porur",
+   "one_bhk": 11750,
+   "two_bhk": 9000,
+   "three_bhk": 25000
+ },
+ {
+   "id": 25,
+   "location": "Pallikaranai",
+   "one_bhk": 13416,
+   "two_bhk": 13333,
+   "three_bhk": 16000
+ },
+ {
+   "id": 26,
+   "location": "ECR Road",
+   "one_bhk": 8000,
+   "two_bhk": 17500,
+   "three_bhk": 40000
+ },
+ {
+   "id": 27,
+   "location": "Thaiyur",
+   "one_bhk": 10000,
+   "two_bhk": 15000,
+   "three_bhk": 22500
+ },
+ {
+   "id": 28,
+   "location": "Nungambakkam",
+   "one_bhk": 11000,
+   "two_bhk": 15700,
+   "three_bhk": 46272
+ },
+ {
+   "id": 29,
+   "location": "Annanur",
+   "one_bhk": 6000,
+   "two_bhk": 11000,
+   "three_bhk": 16000
+ },
+ {
+   "id": 30,
+   "location": "Kandigai",
+   "one_bhk": 6000,
+   "two_bhk": 9500,
+   "three_bhk": 15000
+ },
+ {
+   "id": 31,
+   "location": "Uthandi",
+   "one_bhk": 15000,
+   "two_bhk": 18500,
+   "three_bhk": 60000
+ },
+ {
+   "id": 32,
+   "location": "Korattur",
+   "one_bhk": 15000,
+   "two_bhk": 22600,
+   "three_bhk": 35100
+ },
+ {
+   "id": 33,
+   "location": "West Tambaram",
+   "one_bhk": 8000,
+   "two_bhk": 10666,
+   "three_bhk": 14000
+ },
+ {
+   "id": 34,
+   "location": "Sithalapakkam",
+   "one_bhk": 7000,
+   "two_bhk": 10000,
+   "three_bhk": 20000
+ },
+ {
+   "id": 35,
+   "location": "Ponmar",
+   "one_bhk": 5000,
+   "two_bhk": 8000,
+   "three_bhk": 15000
+ },
+ {
+   "id": 36,
+   "location": "Koyambedu",
+   "one_bhk": 7500,
+   "two_bhk": 14000,
+   "three_bhk": 35000
+ },
+ {
+   "id": 37,
+   "location": "Kundrathur",
+   "one_bhk": 7500,
+   "two_bhk": 8500,
+   "three_bhk": 11000
+ },
+ {
+   "id": 38,
+   "location": "Thalambur",
+   "one_bhk": 9000,
+   "two_bhk": 13000,
+   "three_bhk": 21500
+ },
+ {
+   "id": 39,
+   "location": "Mahindra World City",
+   "one_bhk": 13000,
+   "two_bhk": 21000,
+   "three_bhk": 30000
+ },
+ {
+   "id": 40,
+   "location": "Valasaravakkam",
+   "one_bhk": 8500,
+   "two_bhk": 13250,
+   "three_bhk": 16000
+ },
+ {
+   "id": 41,
+   "location": "Potheri",
+   "one_bhk": 10000,
+   "two_bhk": 11000,
+   "three_bhk": 17333
+ },
+ {
+   "id": 42,
+   "location": "Perumbakkam",
+   "one_bhk": 18000,
+   "two_bhk": 20000,
+   "three_bhk": 20000
+ },
+ {
+   "id": 43,
+   "location": "Anna Nagar",
+   "one_bhk": 16000,
+   "two_bhk": 20000,
+   "three_bhk": 47500
+ },
+ {
+   "id": 44,
+   "location": "Madhavaram",
+   "one_bhk": 7000,
+   "two_bhk": 11000,
+   "three_bhk": 15000
+ },
+ {
+   "id": 45,
+   "location": "Vandalur",
+   "one_bhk": 5000,
+   "two_bhk": 12000,
+   "three_bhk": 15000
+ },
+ {
+   "id": 46,
+   "location": "Velachery",
+   "one_bhk": 9000,
+   "two_bhk": 23000,
+   "three_bhk": 23333
+ },
+ {
+   "id": 47,
+   "location": "Poonamallee",
+   "one_bhk": 12000,
+   "two_bhk": 12000,
+   "three_bhk": 20000
+ },
+ {
+   "id": 48,
+   "location": "Kanathur",
+   "one_bhk": 10000,
+   "two_bhk": 14000,
+   "three_bhk": 20000
+ },
+ {
+   "id": 49,
+   "location": "Mappedu",
+   "one_bhk": 7000,
+   "two_bhk": 8500,
+   "three_bhk": 10000
+ },
+ {
+   "id": 50,
+   "location": "Thiruninravur",
+   "one_bhk": 3000,
+   "two_bhk": 5000,
+   "three_bhk": 6900
+ },
+ {
+   "id": 51,
+   "location": "Perungudi",
+   "one_bhk": 10000,
+   "two_bhk": 13500,
+   "three_bhk": 30200
+ },
+ {
+   "id": 52,
+   "location": "Red Hills",
+   "one_bhk": 6000,
+   "two_bhk": 11500,
+   "three_bhk": 20000
+ },
+ {
+   "id": 53,
+   "location": "Egmore",
+   "one_bhk": 30000,
+   "two_bhk": 51000,
+   "three_bhk": 83392
+ },
+ {
+   "id": 54,
+   "location": "Ottiyambakkam",
+   "one_bhk": 5000,
+   "two_bhk": 8000,
+   "three_bhk": 13000
+ },
+ {
+   "id": 55,
+   "location": "Kattankulathur",
+   "one_bhk": 9000,
+   "two_bhk": 15000,
+   "three_bhk": 20000
+ },
+ {
+   "id": 56,
+   "location": "Selaiyur",
+   "one_bhk": 7500,
+   "two_bhk": 13000,
+   "three_bhk": 20000
+ },
+ {
+   "id": 57,
+   "location": "Kovur",
+   "one_bhk": 5000,
+   "two_bhk": 10000,
+   "three_bhk": 12000
+ },
+ {
+   "id": 58,
+   "location": "Thirumullaivoyal",
+   "one_bhk": 6000,
+   "two_bhk": 10500,
+   "three_bhk": 16000
+ },
+ {
+   "id": 59,
+   "location": "Perambur",
+   "one_bhk": 12000,
+   "two_bhk": 23000,
+   "three_bhk": 27000
+ },
+ {
+   "id": 60,
+   "location": "Iyappanthangal",
+   "one_bhk": 19150,
+   "two_bhk": 27583,
+   "three_bhk": 40000
+ },
+ {
+   "id": 61,
+   "location": "Adambakkam",
+   "one_bhk": 7000,
+   "two_bhk": 13000,
+   "three_bhk": 25000
+ },
+ {
+   "id": 62,
+   "location": "Adyar",
+   "one_bhk": 15000,
+   "two_bhk": 26000,
+   "three_bhk": 90000
+ },
+ {
+   "id": 63,
+   "location": "OMR Road",
+   "one_bhk": 12500,
+   "two_bhk": 18500,
+   "three_bhk": 25000
+ },
+ {
+   "id": 64,
+   "location": "Mannivakkam",
+   "one_bhk": 4000,
+   "two_bhk": 9000,
+   "three_bhk": 12000
+ },
+ {
+   "id": 65,
+   "location": "Kovilambakkam",
+   "one_bhk": 7500,
+   "two_bhk": 14000,
+   "three_bhk": 25166
+ },
+ {
+   "id": 66,
+   "location": "Kilpauk",
+   "one_bhk": 16000,
+   "two_bhk": 22500,
+   "three_bhk": 35000
+ },
+ {
+   "id": 67,
+   "location": "Rajakilpakkam",
+   "one_bhk": 8000,
+   "two_bhk": 13000,
+   "three_bhk": 16000
+ },
+ {
+   "id": 68,
+   "location": "Thiruverkadu",
+   "one_bhk": 8000,
+   "two_bhk": 13000,
+   "three_bhk": 16000
+ },
+ {
+   "id": 69,
+   "location": "Mylapore",
+   "one_bhk": 17000,
+   "two_bhk": 26000,
+   "three_bhk": 75000
+ },
+ {
+   "id": 70,
+   "location": "Kolathur",
+   "one_bhk": 8500,
+   "two_bhk": 12333,
+   "three_bhk": 15000
+ },
+ {
+   "id": 71,
+   "location": "Mahindra World City",
+   "one_bhk": 15000,
+   "two_bhk": 21000,
+   "three_bhk": 25000
+ },
+ {
+   "id": 72,
+   "location": "Ponneri",
+   "one_bhk": 5000,
+   "two_bhk": 7000,
+   "three_bhk": 13000
+ },
+ {
+   "id": 73,
+   "location": "Guduvancherry",
+   "one_bhk": 5000,
+   "two_bhk": 6500,
+   "three_bhk": 16000
+ },
+ {
+   "id": 74,
+   "location": "Thiruvanmiyur",
+   "one_bhk": 18000,
+   "two_bhk": 22833,
+   "three_bhk": 30000
+ },
+ {
+   "id": 75,
+   "location": "Sriperumbudur",
+   "one_bhk": 7700,
+   "two_bhk": 12000,
+   "three_bhk": 17500
+ },
+ {
+   "id": 76,
+   "location": "Padappai",
+   "one_bhk": 8000,
+   "two_bhk": 15000,
+   "three_bhk": 25000
+ },
+ {
+   "id": 77,
+   "location": "Alwarpet",
+   "one_bhk": 20000,
+   "two_bhk": 31888,
+   "three_bhk": 55000
+ },
+ {
+   "id": 78,
+   "location": "Veppampattu",
+   "one_bhk": 5000,
+   "two_bhk": 7500,
+   "three_bhk": 10000
+ },
+ {
+   "id": 79,
+   "location": "Neelankarai",
+   "one_bhk": 9000,
+   "two_bhk": 15000,
+   "three_bhk": 28500
+ },
+ {
+   "id": 80,
+   "location": "Mevalurkuppam",
+   "one_bhk": 7000,
+   "two_bhk": 10700,
+   "three_bhk": 18000
+ },
+ {
+   "id": 81,
+   "location": "Pudupakkam",
+   "one_bhk": 15000,
+   "two_bhk": 20000,
+   "three_bhk": 23000
+ },
+ {
+   "id": 82,
+   "location": "Injambakkam",
+   "one_bhk": 7000,
+   "two_bhk": 13000,
+   "three_bhk": 20000
+ },
+ {
+   "id": 83,
+   "location": "Vadapalani",
+   "one_bhk": 20000,
+   "two_bhk": 26000,
+   "three_bhk": 34111
+ },
+ {
+   "id": 84,
+   "location": "veppampattu",
+   "one_bhk": 4500,
+   "two_bhk": 7000,
+   "three_bhk": 9000
+ },
+ {
+   "id": 85,
+   "location": "Chromepet",
+   "one_bhk": 12000,
+   "two_bhk": 15000,
+   "three_bhk": 25000
+ },
+ {
+   "id": 86,
+   "location": "tambaram east",
+   "one_bhk": 9000,
+   "two_bhk": 13000,
+   "three_bhk": 19000
+ },
+ {
+   "id": 87,
+   "location": "Mandevelli",
+   "one_bhk": 22000,
+   "two_bhk": 37000,
+   "three_bhk": 45000
+ },
+ {
+   "id": 88,
+   "location": "Mangadu",
+   "one_bhk": 7000,
+   "two_bhk": 9000,
+   "three_bhk": 15000
+ },
+ {
+   "id": 89,
+   "location": "Mudichur",
+   "one_bhk": 6000,
+   "two_bhk": 9000,
+   "three_bhk": 12000
+ },
+ {
+   "id": 90,
+   "location": "Gopalapuram",
+   "one_bhk": 15000,
+   "two_bhk": 25000,
+   "three_bhk": 51916
+ },
+ {
+   "id": 91,
+   "location": "Virugambakkam",
+   "one_bhk": 15000,
+   "two_bhk": 23333,
+   "three_bhk": 31000
+ },
+ {
+   "id": 92,
+   "location": "Alandur",
+   "one_bhk": 15000,
+   "two_bhk": 20500,
+   "three_bhk": 33750
+ },
+ {
+   "id": 93,
+   "location": "Potheri",
+   "one_bhk": 9000,
+   "two_bhk": 15000,
+   "three_bhk": 25000
+ },
+ {
+   "id": 94,
+   "location": "Vengaivasal",
+   "one_bhk": 10000,
+   "two_bhk": 12500,
+   "three_bhk": 15000
+ },
+ {
+   "id": 95,
+   "location": "Villivakkam",
+   "one_bhk": 7000,
+   "two_bhk": 14000,
+   "three_bhk": 25000
+ },
+ {
+   "id": 96,
+   "location": "Vettuvankeni",
+   "one_bhk": 15000,
+   "two_bhk": 25000,
+   "three_bhk": 34666
+ },
+ {
+   "id": 97,
+   "location": "Kolapakkam",
+   "one_bhk": 8000,
+   "two_bhk": 11000,
+   "three_bhk": 16000
+ },
+ {
+   "id": 98,
+   "location": "Annanagar West",
+   "one_bhk": 15000,
+   "two_bhk": 20000,
+   "three_bhk": 37500
+ },
+ {
+   "id": 99,
+   "location": "Anna Nagar West Extension",
+   "one_bhk": 12750,
+   "two_bhk": 15000,
+   "three_bhk": 40000
+ },
+ {
+   "id": 100,
+   "location": "Kundrathur Main Road",
+   "one_bhk": 8000,
+   "two_bhk": 12000,
+   "three_bhk": 20000
+ },
+ {
+   "id": 101,
+   "location": "Mudichur Road",
+   "one_bhk": 6500,
+   "two_bhk": 9000,
+   "three_bhk": 16000
+ },
+ {
+   "id": 102,
+   "location": "Vinayagapuram",
+   "one_bhk": 6500,
+   "two_bhk": 10000,
+   "three_bhk": 15000
+ },
+ {
+   "id": 103,
+   "location": "Mugalivakkam",
+   "one_bhk": 9500,
+   "two_bhk": 15500,
+   "three_bhk": 25000
+ },
+ {
+   "id": 104,
+   "location": "Nanmangalam",
+   "one_bhk": 7000,
+   "two_bhk": 12500,
+   "three_bhk": 22000
+ },
+ {
+   "id": 105,
+   "location": "Arumbakkam",
+   "one_bhk": 12000,
+   "two_bhk": 18000,
+   "three_bhk": 27000
+ },
+ {
+   "id": 106,
+   "location": "Ashok Nagar",
+   "one_bhk": 13000,
+   "two_bhk": 23000,
+   "three_bhk": 38000
+ },
+ {
+   "id": 107,
+   "location": "Navalur",
+   "one_bhk": 12000,
+   "two_bhk": 20000,
+   "three_bhk": 33000
+ },
+ {
+   "id": 108,
+   "location": "Vanagaram",
+   "one_bhk": 15000,
+   "two_bhk": 20000,
+   "three_bhk": 25000
+ },
+ {
+   "id": 109,
+   "location": "West Mambalam",
+   "one_bhk": 12000,
+   "two_bhk": 15000,
+   "three_bhk": 40000
+ },
+ {
+   "id": 110,
+   "location": "Urapakkam West",
+   "one_bhk": 7000,
+   "two_bhk": 12000,
+   "three_bhk": 20000
+ },
+ {
+   "id": 111,
+   "location": "Ayanambakkam",
+   "one_bhk": 7500,
+   "two_bhk": 13000,
+   "three_bhk": 18000
+ },
+ {
+   "id": 112,
+   "location": "Chetpet",
+   "one_bhk": 11500,
+   "two_bhk": 25000,
+   "three_bhk": 40000
+ },
+ {
+   "id": 113,
+   "location": "Maduravoyal",
+   "one_bhk": 12000,
+   "two_bhk": 15000,
+   "three_bhk": 18000
+ },
+ {
+   "id": 114,
+   "location": "Karapakkam",
+   "one_bhk": 9500,
+   "two_bhk": 15000,
+   "three_bhk": 20000
+ },
+ {
+   "id": 115,
+   "location": "Gerugambakkam",
+   "one_bhk": 6500,
+   "two_bhk": 11000,
+   "three_bhk": 15000
+ },
+ {
+   "id": 116,
+   "location": "Manali New Town",
+   "one_bhk": 4500,
+   "two_bhk": 8500,
+   "three_bhk": 11500
+ },
+ {
+   "id": 117,
+   "location": "Puzhuthivakkam",
+   "one_bhk": 30000,
+   "two_bhk": 13000,
+   "three_bhk": 14750
+ },
+ {
+   "id": 118,
+   "location": "Ramapuram",
+   "one_bhk": 12500,
+   "two_bhk": 13000,
+   "three_bhk": 25000
+ },
+ {
+   "id": 119,
+   "location": "GST Road",
+   "one_bhk": 9500,
+   "two_bhk": 18000,
+   "three_bhk": 25000
+ },
+ {
+   "id": 120,
+   "location": "Hastinapuram",
+   "one_bhk": 7500,
+   "two_bhk": 9000,
+   "three_bhk": 13000
+ },
+ {
+   "id": 121,
+   "location": "Mogappair East",
+   "one_bhk": 9000,
+   "two_bhk": 13000,
+   "three_bhk": 25000
+ },
+ {
+   "id": 122,
+   "location": "Rathinamangalam",
+   "one_bhk": 4500,
+   "two_bhk": 9500,
+   "three_bhk": 13000
+ },
+ {
+   "id": 123,
+   "location": "Velappanchavadi",
+   "one_bhk": 9000,
+   "two_bhk": 12000,
+   "three_bhk": 15000
+ },
+ {
+   "id": 124,
+   "location": "Kattankolatur RF",
+   "one_bhk": 9000,
+   "two_bhk": 16000,
+   "three_bhk": 20000
+ },
+ {
+   "id": 125,
+   "location": "Keelakattalai",
+   "one_bhk": 9500,
+   "two_bhk": 15000,
+   "three_bhk": 25000
+ },
+ {
+   "id": 126,
+   "location": "Kodungaiyur",
+   "one_bhk": 6500,
+   "two_bhk": 8000,
+   "three_bhk": 10000
+ },
+ {
+   "id": 127,
+   "location": "Nelson Manickam Road",
+   "one_bhk": 16000,
+   "two_bhk": 24166,
+   "three_bhk": 36666
+ },
+ {
+   "id": 128,
+   "location": "Purasaiwakkam",
+   "one_bhk": 10500,
+   "two_bhk": 18000,
+   "three_bhk": 30000
+ },
+ {
+   "id": 129,
+   "location": "Nedumgundram",
+   "one_bhk": 8000,
+   "two_bhk": 11000,
+   "three_bhk": 15000
+ },
+ {
+   "id": 130,
+   "location": "Sembakkam",
+   "one_bhk": 9000,
+   "two_bhk": 12000,
+   "three_bhk": 15000
+ },
+ {
+   "id": 131,
+   "location": "Padi",
+   "one_bhk": 12000,
+   "two_bhk": 18000,
+   "three_bhk": 28000
+ },
+ {
+   "id": 132,
+   "location": "Anna Nagar East",
+   "one_bhk": 10000,
+   "two_bhk": 17000,
+   "three_bhk": 30000
+ },
+ {
+   "id": 133,
+   "location": "R A Puram",
+   "one_bhk": 18000,
+   "two_bhk": 37000,
+   "three_bhk": 55000
+ },
+ {
+   "id": 134,
+   "location": "K K Nagar",
+   "one_bhk": 12500,
+   "two_bhk": 15000,
+   "three_bhk": 32000
+ },
+ {
+   "id": 135,
+   "location": "Nandambakkam",
+   "one_bhk": 12000,
+   "two_bhk": 20000,
+   "three_bhk": 52750
+ },
+ {
+   "id": 136,
+   "location": "Madanandapuram",
+   "one_bhk": 7000,
+   "two_bhk": 12000,
+   "three_bhk": 18000
+ },
+ {
+   "id": 137,
+   "location": "Mouliwakkam",
+   "one_bhk": 7500,
+   "two_bhk": 10000,
+   "three_bhk": 15000
+ },
+ {
+   "id": 138,
+   "location": "MRC Nagar",
+   "one_bhk": 18000,
+   "two_bhk": 28500,
+   "three_bhk": 55000
+ },
+ {
+   "id": 139,
+   "location": "Guindy",
+   "one_bhk": 12000,
+   "two_bhk": 25000,
+   "three_bhk": 40000
+ },
+ {
+   "id": 140,
+   "location": "Anakaputhur",
+   "one_bhk": 5000,
+   "two_bhk": 8000,
+   "three_bhk": 12000
+ },
+ {
+   "id": 141,
+   "location": "Ayapakkam",
+   "one_bhk": 5600,
+   "two_bhk": 9000,
+   "three_bhk": 15000
+ },
+ {
+   "id": 142,
+   "location": "Kallikuppam",
+   "one_bhk": 9000,
+   "two_bhk": 12500,
+   "three_bhk": 15000
+ },
+ {
+   "id": 143,
+   "location": "Thoraipakkam",
+   "one_bhk": 18000,
+   "two_bhk": 25000,
+   "three_bhk": 40000
+ },
+ {
+   "id": 144,
+   "location": "Ayanavaram",
+   "one_bhk": 12000,
+   "two_bhk": 24500,
+   "three_bhk": 35000
+ },
+ {
+   "id": 145,
+   "location": "Moolakadai",
+   "one_bhk": 7000,
+   "two_bhk": 12500,
+   "three_bhk": 15000
+ },
+ {
+   "id": 146,
+   "location": "Arcot Road Valasaravakkam",
+   "one_bhk": 15000,
+   "two_bhk": 22000,
+   "three_bhk": 33000
+ }
+]

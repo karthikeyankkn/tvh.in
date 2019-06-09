@@ -556,7 +556,8 @@ ul {
   width: 50%;
   height: 100%;
   /*background-image: url(../img/banner_overlay.png);*/
-  background-image: url(../img/custom/home-banner-img.png);
+  /*background-image: url(../img/custom/home-banner-img.png);*/
+  background-image: url(../img/custom/quadrant-home-banner.png);
   background-repeat: no-repeat;
   background-size: cover;
 }

@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  
+
+
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Basic Page Needs ================================================== -->
+        
+        <link rel="icon" type="image/png" href="../../img/custom/tvh_fav_icon_logo.png">
+        <title>TVH Crossway</title>
+        <!-- <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> -->
+        <link rel="icon" type="image/png" href="../assets/images/favicon.png">
+        <link rel="canonical" href="https://www.getspini.com/"/>
+        <meta name="author" content="">
+        <!-- Mobile Specific Metas ================================================== -->
+
+  <!-- css files starts -->
+  <link rel="stylesheet" type="text/css" href="assets/css/lib/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="assets/css/font-awesome.min.css">
+  <link rel="stylesheet" type="text/css" href="assets/css/v1.18.26/style.css">
+   <!-- css files ends --> 
+</head>
+<body>
+
+<style>
+    hr{
+        border: 2px solid #84065a;
+        width: 20%;
+    }
+    h4{
+    color: #84065a;
+    }
+    .table-bordered, .table-bordered>tbody>tr>td, .table-bordered>tbody>tr>th, .table-bordered>tfoot>tr>td, .table-bordered>tfoot>tr>th, .table-bordered>thead>tr>td, .table-bordered>thead>tr>th {
+    border: 1px solid #84065a !important;
+} 
+body{
+    background-color: #fff;
+}
+.a-logo1  {
+    position: absolute;
+    top: 0.5% !important;
+    left: 1% !important;
+    z-index: 1;  
+}
+.a-logo1 img {
+    height: 80px;
+    width: 230px;
+}
+.a-logo2  {
+    position: absolute;
+    top: 0.5% !important;
+    left: 35% !important;
+    z-index: 1;  
+}
+.a-logo2 img {
+    height: 70px;
+    /*width: 200px;*/
+}
+h3{
+	font-size: 20px;
+}
+.form-type  input{
+	display: block;
+    padding-left: 20px;
+    width: 96%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #0000;
+    border: 2px solid #fff;
+    color: #fff;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+select {
+	background: #2c9593;
+    height: 44px;
+    width: 96% !important;
+    border: 2px solid #fff;
+    margin-top: 10px !important;
+    color: #fff;
+    font-weight: 100;
+    float: right !important;
+    margin-right: 5px;
+}
+.form-type{
+	/*padding: 50px;*/
+	background-color: #00000080;
+	/*margin-top: -300px;*/
+	margin-top: 100px;
+	margin-bottom: 100px;
+	width: 30%;
+	padding-top: 2px;
+    position: fixed;
+    top: 0%;
+    border: 2px solid #fff;
+    margin-left: 1%;
+}
+.form-submit{
+	border: 2px solid #fff;
+    color: #000;
+    background-color: #fff;
+    padding: 10px 60px;
+    font-size: 20px;
+    margin: auto;
+    display: block;
+    margin-top: 10px;
+}
+
+::placeholder {
+    color: #fff;
+    opacity: 1; /* Firefox */
+}
+.centered {
+    position: absolute;
+    top: 51%;
+    left: 38%;
+    transform: translate(-50%, -50%);
+    font-size: 40px;
+    color: #fff;
+    font-weight: bold;
+}
+@media screen and (max-width: 1200px) {
+    .form-type {
+    /*padding: 50px;*/
+    background-color: #00000080;
+    /*margin-top: -200px;*/
+    width: 30%;
+    padding-top: 2px;
+}
+.centered {
+    position: absolute;
+    top: 51%;
+    left: 38%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    color: #fff;
+    font-weight: bold;
+}
+.Built-Up {
+    color: #8d186d;
+    text-align: center;
+    background-color: #fff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 0px;
+    font-size: 18px !important;
+}
+}
+@media screen and (max-width: 480px) {
+    .form-type{
+	/*padding: 50px;*/
+	background-color: #f4ad33;
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
+	width: 100% !important;
+	padding-top: 2px;
+    position: unset;
+}
+.centered {
+    position: absolute;
+    top: 51%;
+    left: 38%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    color: #fff;
+    font-weight: bold;
+}
+.Built-Up{
+	color: #8d186d;;text-align: center;background-color: #fff;padding-top: 20px;padding-bottom: 20px;margin-top: 0px;font-size: 18px !important;
+}
+.a-logo1 img {
+    height: 40px;
+    width: 100px;
+}
+.a-logo2 img {
+    height: 40px;
+    width: 80px;
+}
+.villa-content h1{
+    font-size: 20px;
+}
+.villa-content h2{
+    font-size: 15px;
+}
+}
+@media screen and (max-width: 768px) {
+    .form-type {
+    /*padding: 50px;*/
+    background-color: #00000080;
+    /*margin-top: -145px;*/
+    width: 30%;
+    padding-top: 2px;
+    z-index: 1;
+}
+.centered {
+    position: absolute;
+    top: 51%;
+    left: 38%;
+    transform: translate(-50%, -50%);
+    font-size: 16px;
+    color: #fff;
+    font-weight: bold;
+}
+.banner {
+    margin-top: 5px;
+}
+.Built-Up {
+    color: #8d186d;
+    text-align: center;
+    background-color: #fff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 0px;
+    font-size: 15px !important;
+}
+}
+</style>
+
+<style type="text/css">
+input[disabled] {
+    cursor: no-drop !important;
+}
+.iti-flag{
+	margin-left: 5px !important;
+}
+.villa-content{
+	font-size: 30px;color: #8d186d;
+    background-color: #ffffffb3;margin: 10px;padding-top: 5px;padding-bottom: 5px;margin-top: 100px;margin-bottom: 100px;padding-left: 10px;
+}
+.Built-Up{
+	color: #8d186d;text-align: center;background-color: #fff;padding-top: 20px;padding-bottom: 20px;margin-top: 0px;font-size: 22px;
+}
+</style>
+
+<a class="a-logo1" href=""><img src="assets/img/logo.png" alt="tvh-crossway" ></a>
+
+<a href="http://www.tvh.in/" class="a-logo2" href=""><img src="assets/img/Logo_TTL.png" alt="tvh-crossway" ></a>
+
+
+<section class="form-section" style="background-image: url(assets/img/TVH-Crossway-karappakam-8.jpg);background-size: cover;" >
+	<div class="container ">
+		<div class="row">
+			<div class="col-md-8 col-sm-8" style="margin-top: 10%;">
+				<div class="villa-content"><h1 >Sholinganallur, Thoraipakkam, ECR Link Road, etc. which are equidistant from<strong style="color: #2c9190;"> OMR</strong> | and are priced 50-100% higher</h1> 
+                    <h2>It is one of the important stops on OMR</h2>
+                    
+			    </div>
+			 </div>
+			<div class="col-md-4 col-sm-4">
+				<div class="form-type">
+
+                    <a style="color: #fff" href="tel: +914471227122"><p class="text-center"> +91-44 7122 7122</p></a>
+                    <h3 class="Built-Up" >CROSSWAY CONTACT FORM </h3>
+                    <form action="https://formspree.io/joshuasimon94@gmail.com" method="POST">
+                        <input type="text" placeholder="Name" name="name" required>
+                        <input type="email" placeholder="Email" name="email" required>
+                        <input style="margin-left: 10px;" type="number" placeholder="Mobile" name="ph_number" required onpaste="return false" min="7">
+                       
+                        <!-- <select name="Project">
+                            <option value="Crossway">Crossway</option>
+                          </select> -->
+
+                          <select name="Convenient Time To Call You">
+                            <option value="Time to call">Convenient Time To Call You</option>
+                            <option value="8am to 9am">8am to 9am</option>
+                            <option value="8am to 9am">9am to 10am</option>
+                            <option value="8am to 9am">10am to 11am</option>
+                            <option value="8am to 9am">11am to 12pm</option>
+                            <option value="8am to 9am">12pm to 1pm</option>
+                            <option value="8am to 9am">1pm to 2pm</option>
+                            <option value="8am to 9am">2pm to 3pm</option>
+                            <option value="8am to 9am">3pm to 4pm</option>
+                            <option value="8am to 9am">4pm to 5pm</option>
+                            <option value="8am to 9am">5pm to 6pm</option>
+                            <option value="8am to 9am">6pm to 7pm</option>
+                            <option value="8am to 9am">7pm to 8pm</option>
+                          </select>
+
+                        <input style="padding-bottom: 70px;" type="text" placeholder="Comments" name="Comments"  >
+                        <input type="hidden" name="_subject" value="TVH CROSSWAY" />
+                        <input style="background-color: #fff;color: #000;width: 50%;padding: 10px;margin-top: 10px !important;margin: auto; margin-bottom: 10px;" type="submit" id=""  class="" />
+                        <!-- <button type="submit" class="form-submit">Submit</button> -->
+                        
+                    </form>
+                </div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<section>
+	<div class="container-fluid">
+		<div class="row">
+			
+			<div class="col-md-8 col-sm-8">
+				<img src="assets/img/tvh-crossway-plots-location.png" width="100%">
+			</div>
+           
+           <div class="col-md-8 text-center">
+               <h3>OVERVIEW</h3>
+               <table class="table table-bordered ">
+              <tbody>
+                
+                <tr>
+                  <td>Property Type</td>
+                  <td style="color: #84065a">Residential Plots</td>
+                </tr>
+                <tr>
+                  <td>Land Area</td>
+                  <td style="color: #84065a">3.82 Acres</td>
+                </tr>
+                <tr>
+                  <td>Construction Area</td>
+                  <td style="color: #84065a">0.16 M Sqft</td>
+                </tr>
+                <tr>
+                    <td>No of Floors</td>
+                    <td style="color: #84065a">n/a</td>
+                </tr>
+                <tr>
+                    <td>Min Unit Size</td>
+                    <td style="color: #84065a">650 sqft</td>
+                </tr>
+                <tr>
+                    <td>Max Unit Size</td>
+                    <td style="color: #84065a">2400 sqft</td>
+                </tr>
+                <tr>
+                    <td>Possession</td>
+                    <td style="color: #84065a">March 2016</td>
+                </tr>
+                <tr>
+                    <td>Location</td>
+                    <td style="color: #84065a">Sholinganallur</td>
+                </tr>
+              </tbody>
+            </table>
+           </div>
+
+           <div class="col-md-8 text-center">
+               <h3>Sholinganallur</h3>
+
+
+               <h4>Project Overview</h4>
+               <hr>
+               <p>Double Sandosham – Plots + True Value Package</p>
+               <p>Project development size – 3.82 acres</p>
+
+
+               <h4>The Plots</h4>
+               <hr>
+               <p>Plots: 650 to 2400 Sq.ft</p>
+               <p>Commercial Developments : 3000 Sq.ft onwards</p>
+
+               <h4>True Value Package</h4>
+               <hr>
+               <p>Planning and building Approvals</p>
+                <p>Architecture and Interior Design Solutions</p>
+                <p>Construction Solutions</p>
+                <p>Landscaping</p>
+                <p>Services and Supply Solutions</p>
+
+                <h4>Configuration</h4>
+                <hr>
+               <p>Approval No: LA/WDCN 15/00002/2016</p>
+               <p> Infrastructure works have started</p>
+                <p>Most of the peripheral work is completed</p>
+
+                <h4>Strategic Location</h4>
+                <hr>
+                <p>IT corridor of Chennai</p>
+                <p>Great social infrastructure</p>
+                <p>Reputed schools, colleges, hospitals and malls.</p>
+
+                <h4>Site Advantage</h4>
+                <hr>
+
+                <p>– Located just opposite to Paypal & Ebay</p>
+                <p>– Before Sholinganallur junction on OMR</p>
+                <p>– Easy connectivity</p>
+                <p>– 30 feet & 24 feet internal roads</p>
+
+                <h4>Close Proximity</h4>
+                <hr>
+                <p>Sholinganallur, Thoraipakkam, ECR Link Road, etc. which are equidistant from OMR and are priced 50-100% higher</p>
+
+                <p>It is one of the important stops on OMR</p>
+
+                <p>Karapakkam is home to a number of BPO, IT/ITES companies and other IT/ITES companies</p>
+
+                <p>Companies such as Mahindra Satyam, Pantheon, Scope International, Tata Consultancy Services, Accenture India, Cognizant Technology Solutions, Photon Infotech and Infosys are situated in the vicinity</p>
+
+                <p>McDonald’s, Pizza Hut, Hot Chips, Dhaaba, Andhra Mess, Locaccia, Baskin Robbins, Pizza Corner, Cakes and Bakes, Fortune Hotel, and Nallas Restaurant are located along this stretch of road.</p>
+
+                <h4>General amenities</h4>
+                <hr>
+                <p><img src="assets/img/garden.png" alt="tvh-crossway"> LUSH GREENERY</p>
+                <p><img src="assets/img/garden.png" alt="tvh-crossway">LANDSCAPE GARDEN</p>
+           </div>
+
+           <div class="col-md-8 text-center">
+               <h4>Floor plan</h4>
+               <hr>
+               <div class="col-md-6">
+                    <img src="assets/img/crossway-approval.png" width="100%" alt="tvh-crossway"> 
+               </div>
+               <div class="col-md-6">
+                    <img src="assets/img/tvh-crossway-plots-location.png" width="100%" alt="tvh-crossway"> 
+               </div>
+           </div>
+
+           <div class="col-md-8 text-center">
+               <h4>Property gallery</h4>
+               <hr>
+
+               <div class="col-md-12">
+                    <img src="assets/img/TVH-Crossway-karappakam-9.jpg" width="100%" alt="tvh-crossway"> 
+               </div>
+               <div class="col-md-12">
+                    <img src="assets/img/TVH-Crossway-karappakam-8.jpg" width="100%" alt="tvh-crossway"> 
+               </div>
+               <div class="col-md-12">
+                    <img src="assets/img/TVH-Crossway-karappakam-7.jpg" width="100%" alt="tvh-crossway"> 
+               </div>
+               
+               <div class="col-md-12">
+                    <img src="assets/img/TVH-Crossway-karappakam-6.jpg" width="100%" alt="tvh-crossway"> 
+               </div>
+               <div class="col-md-12">
+                    <img src="assets/img/TVH-Crossway-karappakam-5.jpg" width="100%" alt="tvh-crossway"> 
+               </div>
+               <div class="col-md-12">
+                    <img src="assets/img/TVH-Crossway-karappakam-4-150x150.jpg" width="100%" alt="tvh-crossway"> 
+               </div>
+               <div class="col-md-12">
+                    <img src="assets/img/TVH-Crossway-karappakam-3.jpg" width="100%" alt="tvh-crossway"> 
+               </div>
+               <div class="col-md-12">
+                    <img src="assets/img/TVH-Crossway-karappakam-2.jpg" width="100%" alt="tvh-crossway"> 
+               </div>
+               <div class="col-md-12">
+                    <img src="assets/img/TVH-Crossway-karappakam-1.jpg" width="100%" alt="tvh-crossway"> 
+               </div>
+           </div>
+
+           <div class="col-md-8 text-center">
+               <h4>Location in map</h4>
+               <hr>
+               <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.985281694681!2d80.2277596148213!3d12.908667390897202!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525c7d231541a9%3A0xfa94e0b550afc2b9!2sTVH+Crossway+Layout!5e0!3m2!1sen!2sin!4v1560077611539!5m2!1sen!2sin" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+           </div>
+
+           <div class="col-md-8 text-center">
+               <h4>About TVH</h4>
+               <hr>
+               <p>20 years | 7.1 Million Sq.Ft. Completed | 3000 + Happy Families | <img src="assets/img/credai.png" alt="tvh-crossway"></p>
+           </div>
+           <div class="col-md-8 text-center" style="color: #fff;background-color: #84065a">
+               <p>© 2019 - True Value Homes. All rights reserved. </p>
+           </div>
+		</div>
+	</div>
+</section>
+
+
+  <script type="text/javascript" src="assets/js/lib/jquery.min.js"></script>
+  <script type="text/javascript" src="assets/js/lib/bootstrap.min.js"></script>
+  <script type="text/javascript" src="assets/js/v1.30.63/script.js"></script>
+</body>
+</html>

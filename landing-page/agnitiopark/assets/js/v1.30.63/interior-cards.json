@@ -1,0 +1,228 @@
+{
+	"cards":[
+		{
+		"id":"",
+		"a_href":"",
+		"card_title":"",
+		"card_img": "",
+		"card_description":"",
+		"card_area":"",
+		"card_city": ""
+		},
+		{
+		"id":"23",
+		"a_href":"iq-infrastructure.html",
+		"card_title":"IQ INFRASTRUCTURE",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/IQ-Infrastructure3.jpg",
+		"card_description":"Our company give a very Best service and Excellent Project Outputs.",
+		"card_area":"Iyappanthangal",
+		"card_city": "chennai"
+		},
+		{
+		"id":"22",
+		"a_href":"aarchitectonic.html",
+		"card_title":"AARCHITECTONIC",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/aarchitectonic1.jpg",
+		"card_description":"We are unique firm , we bring Client's idealism into reality with gracious lifestyle solutions.",
+		"card_area":"Puliyakulam",
+		"card_city": "coimbatore"
+		},
+		{
+		"id":"21",
+		"a_href":"ravi-interiors.html",
+		"card_title":"RAVI INTERIORS",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/ravi-interiors.jpg",
+		"card_description":"We started at 2004 and working with good carpenters",
+		"card_area":"paid",
+		"card_city": "chennai"
+		},
+		{
+		"id":"20",
+		"a_href":"nd-studio-architects.html",
+		"card_title":"ND STUDIO ARCHITECTS",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/ndstudio.jpg",
+		"card_description":"Our company started in 2005 still have been working with good skills of carpenters.",
+		"card_area":"Ramapuram",
+		"card_city": "chennai"
+		},
+		{
+		"id":"19",
+		"a_href":"kaushik-interiors.html",
+		"card_title":"KAUSHIK INTERIORS",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/kaushik-interior.jpg",
+		"card_description":"Our company started in 2005 still have been working with good skills of carpenters. Painters.",
+		"card_area":"Ambattur",
+		"card_city": "chennai"
+		},
+		{
+		"id":"18",
+		"a_href":"akshayaa-interio.html",
+		"card_title":"AKSHAYAA INTERIO",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/akshya-int1.jpg",
+		"card_description":"We do all type of interior and architectural designs. Full house interior",
+		"card_area":"East Tambaram",
+		"card_city": "chennai"
+		},
+		{
+		"id":"17",
+		"a_href":"brahmaa-interiors.html",
+		"card_title":"BRAHMAA INTERIORS",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/bramhaa-int1.jpg",
+		"card_description":"Brahmaa Interiors is a next generation and Independent Puducherry based Interior Designing Company",
+		"card_area":"Puducherry",
+		"card_city": "Puducherry"
+		},
+		{
+		"id":"16",
+		"a_href":"gee-vee-interiors.html",
+		"card_title":"GEE VEE INTERIORS",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/interior/landing/geevee3.jpg",
+		"card_description":"Gee Vee Interiors in MGR Nagar-Nesapakkam, Chennai is a top company.",
+		"card_area":"Nesappakam",
+		"card_city": "chennai"
+		},
+		{
+		"id":"15",
+		"a_href":"jbsservve.html",
+		"card_title":"JBSSERVVE",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/interior/landing/JBSSERVVE.jpg",
+		"card_description":"Wood work worthy of the amount paid for it with timely delivery ",
+		"card_area":"chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"14",
+		"a_href":"brilliant-innovative-technologies-pvt-ltd.html",
+		"card_title":"BRILLIANT INNOVATIVE TECH.",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/interior/landing/brilliant-innovative1.jpg",
+		"card_description":"We undertake Interior Decor works for both residences & commercial",
+		"card_area":"chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"13",
+		"a_href":"ur-dream-interior.html",
+		"card_title":"UR DREAM INTERIOR",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/interior/landing/urdreaminterior1.jpg",
+		"card_description":"Ur Dream Interior in Karapakkam, Chennai is a top company.",
+		"card_area":"Karappakam",
+		"card_city": "chennai"
+		},
+		{
+		"id":"12",
+		"a_href":"dimention-decors.html",
+		"card_title":"DIMENTION DECORS",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/interior/landing/dimension-decor.jpg",
+		"card_description":"We are a one stop solution for all your interior needs.",
+		"card_area":"Porur",
+		"card_city": "chennai"
+		},
+		{
+		"id":"11",
+		"a_href":"fini-interiors.html",
+		"card_title":"FINI INTERIORS",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/interior/landing/fini1.jpg",
+		"card_description":"Interiors designer from 2010, providing quality materials...",
+		"card_area":"Kovaipudur",
+		"card_city": "coimbatore"
+		},
+		{
+		"id":"10",
+		"a_href":"sairam-enterprises.html",
+		"card_title":"SAIRAM ENTERPRIESES",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/interior/landing/sairam1.jpeg",
+		"card_description":"We are dealing with IMPORTED -INDIAN WALLPAPER...",
+		"card_area":"T Nagar",
+		"card_city": "chennai"
+		},
+		{
+		"id":"9",
+		"a_href":"surekha-interiors.html",
+		"card_title":"SUREKHA INTERIORS",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/interior/landing/surekha2.jpg",
+		"card_description":"We are doing Modular Kitchen and Wardrobes....",
+		"card_area":"Jafferkhanpet",
+		"card_city": "chennai"
+		},
+		{
+		"id":"8",
+		"a_href":"sabari-decors.html",
+		"card_title":"SABARI DECORS ",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/sabari1.jpg",
+		"card_description":"Sabari Decors is a proprietorship company.We do all types of interior decoration for commercial",
+		"card_area":"Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"7",
+		"a_href":"aadith-interiors.html",
+		"card_title":"AADITH INTERIORS",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/aadithi2.jpg",
+		"card_description":"Aadith Interiors: Interior Design Solutions” specializes in residential homes with designs that reflect our clients",
+		"card_area":"Coimbatore",
+		"card_city": "coimbatore"
+		},
+		{
+		"id":"6",
+		"a_href":"et-modularkitchen.html",
+		"card_title":"ET MODULAR KITCHEN ",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/et-mk4.jpg",
+		"card_description":"We have successfully accomplished various residential and commercial projects",
+		"card_area":"Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"5",
+		"a_href":"adorn.html",
+		"card_title":"Adorn",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/adorn1.jpg",
+		"card_description":"We sincerely hope that each and every client entering our company will find exactly what he/she is looking for.",
+		"card_area":"Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"4",
+		"a_href":"mutual-link-attractive-solutions.html",
+		"card_title":"Mutual Link Attractive Solutions",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/mutual-link-solution.jpg",
+		"card_description":"We are a boutique interior design company with Customer ecstasy as our core focus.",
+		"card_area":"Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"3",
+		"a_href":"style-well-interiors.html",
+		"card_title":"Style Well Interiors",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/int-sp-cbe-1-1.jpg",
+		"card_description":"Style Well Interiors based in Coimbatore are one of the leading Interior Decorators",
+		"card_area":"Coimbatore",
+		"card_city": "coimbatore"
+		},
+		{
+		"id":"2",
+		"a_href":"color-coat-interiors.html",
+		"card_title":"Color Coat Interiors",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/color-coat-interiors.jpg",
+		"card_description":"We are into this industry for more than a decade and we give personalized service to our clients",
+		"card_area":"Chennai",
+		"card_city": "chennai"
+		},
+		{
+		"id":"1",
+		"a_href":"genx-windoors.html",
+		"card_title":"Genx Windoors",
+		"card_img": "https://s3.ap-south-1.amazonaws.com/cloudflare.getspini.com/landing/genx-win.jpg",
+		"card_description":"GenX Windoors is a Trade Mark of Lakshmi Infraproperties (India) Pvt. Ltd., company established in 2010",
+		"card_area":"Hyderabad",
+		"card_city": "hyderabad"
+		},
+		{
+		"id":"",
+		"a_href":"",
+		"card_title":"",
+		"card_img": "",
+		"card_description":"",
+		"card_area":"",
+		"card_city": ""
+		}
+]}

@@ -1,6 +1,7 @@
 (function ($) {
   "use strict";
 
+  // header footer integration script
   $(function(){
     $("#header").load("header.html"); 
     $("#footer").load("footer.html"); 
@@ -83,6 +84,4 @@
       });
     } // End if
   });
-
-
 }(jQuery));

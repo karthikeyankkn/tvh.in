@@ -61,3 +61,6 @@ hr{
     display: inline;
     color: #fff !important;
 }
+.dropdown-menu span{
+    display: none;
+}

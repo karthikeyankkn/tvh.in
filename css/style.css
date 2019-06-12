@@ -1,8 +1,11 @@
 /**************** common css start ****************/
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:300i,300,400i,400,700|Poppins:400,500,600,700|Roboto:400,500i,700");
+/*@import url("https://fonts.googleapis.com/css?family=Open+Sans:300i,300,400i,400,700|Poppins:400,500,600,700|Roboto:400,500i,700");*/
+@import url('https://fonts.googleapis.com/css?family=Nunito:400,700&display=swap');
 /* line 3, E:/161 Real estate/161_Real_state_html/sass/_common.scss */
+@import url('https://fonts.googleapis.com/css?family=Oleo+Script:400,700&display=swap');
 body {
-  font-family: "Poppins", sans-serif;
+  /*font-family: "Poppins", sans-serif;*/
+  font-family: 'Nunito', sans-serif;
   padding: 0;
   margin: 0;
   font-size: 14px;
@@ -82,13 +85,15 @@ a:hover, a :hover {
 /* line 48, E:/161 Real estate/161_Real_state_html/sass/_common.scss */
 h1, h2, h3, h4, h5, h6 {
   color: #14303a;
-  font-family: "Poppins", sans-serif;
+  /*font-family: "Poppins", sans-serif;*/
+  font-family: 'Oleo Script', cursive;
 }
 
 /* line 52, E:/161 Real estate/161_Real_state_html/sass/_common.scss */
 a {
   color: #208eb5;
   font-family: "Poppins", sans-serif;
+  font-family: 'Nunito', sans-serif;
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
@@ -102,8 +107,9 @@ a:hover {
 
 /* line 61, E:/161 Real estate/161_Real_state_html/sass/_common.scss */
 p {
-  color: #797979;
+  color: #970e76;
   font-family: "Open Sans", sans-serif;
+  font-family: 'Nunito', sans-serif;
   line-height: 1.625;
   font-size: 14px;
   margin-bottom: 0px;
@@ -649,6 +655,7 @@ ul {
   font-size: 14px;
   text-transform: uppercase;
   font-family: "Open Sans", sans-serif;
+  font-family: 'Nunito', sans-serif;
   font-weight: 600;
   color: #666666;
 }
@@ -701,6 +708,7 @@ ul {
   font-size: 14px;
   line-height: 1.929;
   font-family: "Poppins", sans-serif;
+  font-family: 'Nunito', sans-serif;
   color: #777777;
 }
 
@@ -808,6 +816,7 @@ ul {
   color: #777777;
   font-size: 13px;
   font-family: 'Roboto', sans-serif;
+  font-family: 'Nunito', sans-serif;
 }
 
 /* line 171, E:/161 Real estate/161_Real_state_html/sass/_banner.scss */
@@ -904,7 +913,7 @@ ul {
   right: 0;
   width: 60%;
   height: 100%;
-  background-color: #F7F7F7;
+  background-color: palegoldenrod;
   z-index: -1;
 }
 
@@ -1074,6 +1083,7 @@ ul {
   margin-bottom: 15px;
   font-size: 14px;
   font-family: "Open Sans",sans-serif;
+  font-family: 'Nunito', sans-serif;
   color: #7f7f7f;
   padding-left: 33px;
 }
@@ -1164,6 +1174,7 @@ ul {
 /* line 2, E:/161 Real estate/161_Real_state_html/sass/_passion.scss */
 .passion_part {
   background-image: url("../img/passion_bg.png");
+  background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1364,7 +1375,8 @@ ul {
 
 /* line 131, E:/161 Real estate/161_Real_state_html/sass/_passion.scss */
 .passion_part .single_passion:hover .single_passion_item p {
-  color: #797979;
+  color: #970e76;
+
 }
 
 /* line 134, E:/161 Real estate/161_Real_state_html/sass/_passion.scss */
@@ -1407,7 +1419,7 @@ ul {
 
 /* line 22, E:/161 Real estate/161_Real_state_html/sass/_apartment.scss */
 .apartment_part .view_more_btn .btn_2 {
-  color: #797979;
+  color: #970e76;
   margin-top: 15px;
 }
 
@@ -1529,7 +1541,7 @@ ul {
   margin-right: 10px;
   font-size: 16px;
   font-weight: 400;
-  color: #797979;
+  color: #970e76;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
@@ -1555,7 +1567,7 @@ ul {
   height: 20px;
   width: 20px;
   margin-right: 5px;
-  color: #797979;
+  color: #970e76;
 }
 
 @media (max-width: 576px) {
@@ -1830,7 +1842,7 @@ ul {
 
 /* line 110, E:/161 Real estate/161_Real_state_html/sass/_room_part.scss */
 .room_part .container-fluid .room_1 .room_text_1 .btn_2 {
-  color: #797979;
+  color: #970e76;
   margin-left: 10px;
   margin-top: 23px;
 }
@@ -1952,7 +1964,7 @@ ul {
 
 /* line 184, E:/161 Real estate/161_Real_state_html/sass/_room_part.scss */
 .room_part .container-fluid .room_2 .room_text_2 .btn_2 {
-  color: #797979;
+  color: #970e76;
   margin-left: 10px;
   margin-top: 23px;
 }
@@ -2208,7 +2220,8 @@ ul {
 .cta_part {
   position: relative;
   z-index: 1;
-  background-image: url("../img/cta_bg.png");
+  background-image: url("../img/custom/crossway-bg1.jpg");
+  background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2535,7 +2548,7 @@ ul {
 .blog_part .single_blog .single_appartment_content .list-unstyled li {
   display: inline;
   margin-right: 17px;
-  color: #797979;
+  color: #970e76;
   cursor: pointer;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -2554,7 +2567,7 @@ ul {
 /* line 149, E:/161 Real estate/161_Real_state_html/sass/_blog_part.scss */
 .blog_part .single_blog .single_appartment_content .list-unstyled li a {
   margin-right: 8px;
-  color: #797979;
+  color: #970e76;
 }
 
 /* line 158, E:/161 Real estate/161_Real_state_html/sass/_blog_part.scss */
@@ -2664,7 +2677,7 @@ ul {
   margin-right: 10px;
   font-size: 13px;
   cursor: pointer;
-  color: #797979;
+  color: #970e76;
 }
 
 /* line 221, E:/161 Real estate/161_Real_state_html/sass/_blog_part.scss */
@@ -2680,7 +2693,7 @@ ul {
 /* line 228, E:/161 Real estate/161_Real_state_html/sass/_blog_part.scss */
 .blog_part .right_single_blog .single_blog .media-body .list-unstyled li a {
   margin-right: 6px;
-  color: #797979;
+  color: #970e76;
 }
 
 /* line 240, E:/161 Real estate/161_Real_state_html/sass/_blog_part.scss */
@@ -3557,7 +3570,7 @@ h6 {
 
 /* line 535, E:/161 Real estate/161_Real_state_html/sass/_elements.scss */
 .input-group-icon .icon i {
-  color: #797979;
+  color: #970e76;
 }
 
 /* line 540, E:/161 Real estate/161_Real_state_html/sass/_elements.scss */

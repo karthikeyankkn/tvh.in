@@ -1,5 +1,6 @@
 /**************** common css start ****************/
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300i,300,400i,400,700|Poppins:400,500,600,700|Roboto:400,500i,700");
+@import url('https://fonts.googleapis.com/css?family=Allerta+Stencil&display=swap');
 /* line 3, E:/161 Real estate/161_Real_state_html/sass/_common.scss */
 body {
   font-family: "Poppins", sans-serif;
@@ -82,7 +83,8 @@ a:hover, a :hover {
 /* line 48, E:/161 Real estate/161_Real_state_html/sass/_common.scss */
 h1, h2, h3, h4, h5, h6 {
   color: #970e76;
-  font-family: "Poppins", sans-serif;
+  /*font-family: "Poppins", sans-serif;*/
+  font-family: 'Allerta Stencil', sans-serif;
 }
 
 /* line 52, E:/161 Real estate/161_Real_state_html/sass/_common.scss */

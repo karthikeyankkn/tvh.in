@@ -25,6 +25,87 @@
    <link rel="stylesheet" href="css/style.css">
    <!-- custom styles -->
    <link rel="stylesheet" href="css/custom.css">
+
+   <style type="text/css">
+    /*flip style*/
+      .flip-card {
+        background-color: transparent;
+        width: 300px;
+        height: 320px;
+        perspective: 1000px;
+      }
+
+      .flip-card-inner {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        transition: transform 0.6s;
+        transform-style: preserve-3d;
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+      }
+
+      .flip-card:hover .flip-card-inner {
+        transform: rotateY(180deg);
+      }
+
+      .flip-card-front, .flip-card-back {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        backface-visibility: hidden;
+      }
+
+      .flip-card-front {
+        background-color: #bbb;
+        color: black;
+      }
+
+      .flip-card-front span{
+         display: block;
+         background: white;
+         padding: 10px;
+      }
+      .flip-card-front span p{
+         font-size: 18px;
+      }
+      .flip-card-front span label{
+         background: palegoldenrod;
+          padding: 2px 20px;
+          border-radius: 18px;
+          color: #14303a;
+          font-weight: bold;
+          border: 1px solid #14303a;
+          margin-top: 5px;
+          text-transform: uppercase;
+          font-size: 12px;
+      }
+      .flip-card-back {
+        background-color: #970e76;
+        color: white;
+        transform: rotateY(180deg);
+        padding: 10px;
+      }
+      .flip-card-back h1{
+         color: #fff !important;
+      }
+      .flip-card-back ul{
+
+      }
+      .flip-card-back ul li{
+         padding: 5px 0;
+      }
+      .flip-card-back a{
+         background: #eee8aa;
+         padding: 5px 18px;
+         border-radius: 30px;
+         display: inline-block;
+         margin-top: 10px;
+      }
+      .mt-20{
+         margin-top: 20px;
+      }
+  </style>
 </head>
 
 <body>
@@ -40,17 +121,17 @@
                <div class="banner_text aling-items-center">
                   <div class="banner_text_iner">
                      <div class="text-center">
-                        <h5>Beautiful investments</h5>
+                        
                      
                      <img src="img/border-logo.png" alt="tvh" width="50%" class="text-center">
-
+                     <h5 class="mt-20">Beautiful investments</h5>
                      <h2>Everyone Deserves
                         the Opportunity of
                         the Home</h2>
 
                      <img src="img/border-logo.png" alt="tvh" width="50%" class="text-center">  
                      
-                     <p>Our new identity – taking the lead towards a better future. Symbolising the human spirit. Unwavering, enlightening.  Inspiring us to conquer new frontiers and raise the bar in all that we do.</p>
+                     <p class="mt-20">Our new identity – taking the lead towards a better future. Symbolising the human spirit. Unwavering, enlightening.  Inspiring us to conquer new frontiers and raise the bar in all that we do.</p>
 
                      <a href="#tvh-list-property" class="btn_1 banner_btn">View Property</a>
                      </div>
@@ -179,188 +260,190 @@
             </div>
          </div>
          <div class="row">
-            <div class="col-md-4 col-lg-4 mb-20">
-               <div class="single_appartment_part">
-                  <div class="appartment_img">
-                     <img src="http://www.tvh.in/wp-content/uploads/2015/07/Quadrant-1.jpg" alt="">
-                     <div class="single_appartment_text">
-                        <h3>₹4.8cr (51L Discount)</h3>
-                        <p><span class="ti-location-pin"></span> Adyar</p>
-                     </div>
-                  </div>
-                  <div class="single_appartment_content">
-                     <a href="" class="love_us"> <span class="ti-heart"></span> </a>
-                     <p>Luxury Apartments</p>
-                     <a href="#">
-                        <h4>TVH QUADRANT</h4>
-                     </a>
-                     <ul class="list-unstyled">
-                        <li><a href=""><span class="ti-layout-grid3-alt"></span></a> 17</li>
-                        <li><a href=""><span class="flaticon-bed"></span></a>3/4BHK</li>
-                        <li><a href=""><span class="flaticon-frame"></span></a>2800/3600 Sqft</li>
+            <div class="col-md-4 mb-20">
+               <div class="flip-card">
+                 <div class="flip-card-inner">
+                   <div class="flip-card-front">
+                     <img src="img/custom/Quadrant-1.jpg" alt="Quadrant-1">
+                     <span>
+                        <h3>TVH QUADRANT</h3>
+                        <label>Luxury Apartments</label>
+                     </span>
+                   </div>
+                   <div class="flip-card-back">
+                     <h1>TVH QUADRANT</h1> 
+                     <ul>
+                        <li><i class="ti-location-pin"></i> Adyar</li>
+                        <li>Floors: 17</li>
+                        <li>3BHK - 2800Sqft</li>
+                        <li>4BHK - 3600Sqft</li>
+                        <li>₹4.8cr (51L Discount)</li>
+                        <li><a href="landing-page/quadrant/">Know more</a></li>
                      </ul>
-                  </div>
+                   </div>
+                 </div>
                </div>
             </div>
-            <div class="col-md-4 col-lg-4 mb-20">
-               <div class="single_appartment_part">
-                  <div class="appartment_img">
-                     <img src="http://www.tvh.in/wp-content/uploads/2016/02/tvh-titaniumcity.jpg" alt="">
-                     <div class="single_appartment_text">
-                        <h3>₹16 Lakh Onwards</h3>
-                        <p><span class="ti-location-pin"></span> Mannivakkam</p>
-                     </div>
-                  </div>
-                  <div class="single_appartment_content">
-                     <a href="" class="love_us"> <span class="ti-heart"></span> </a>
-                     <p>Premium Plots</p>
-                     <a href="#">
-                        <h4>TVH Titanium City</h4>
-                     </a>
-                     <ul class="list-unstyled">
-                        <li><a href=""><span class="ti-layout-width-full"></span></a> Phase 1</li>
-                        <li><a href=""><span class="flaticon-frame"></span></a> 600 to 3000 Sqft</li>
+            <div class="col-md-4 mb-20">
+               <div class="flip-card">
+                 <div class="flip-card-inner">
+                   <div class="flip-card-front">
+                     <img src="img/custom/tvh-titaniumcity.jpg" alt="tvh-titaniumcity.jpg">
+                     <span>
+                        <h3>TVH TITANIUM CITY</h3>
+                        <label>Premium Plots</label>
+                     </span>
+                   </div>
+                   <div class="flip-card-back">
+                     <h1>TVH TITANIUM CITY</h1> 
+                     <ul>
+                        <li><i class="ti-location-pin"></i> Mannivakkam</li>
+                        <li>600 Sqft</li>
+                        <li>2400 Sqft</li>
+                        <li>₹16 Lakh Onwards</li>
+                        <li><a href="landing-page/titanium-city/">Know more</a></li>
                      </ul>
-                  </div>
+                   </div>
+                 </div>
                </div>
             </div>
-            <div class="col-md-4 col-lg-4 mb-20">
-               <div class="single_appartment_part">
-                  <div class="appartment_img">
-                     <img src="http://www.tvh.in/wp-content/uploads/2015/06/ouranya-1.jpg" alt="">
-                     <div class="single_appartment_text">
-                        <h3>₹75Lakhs onwards</h3>
-                        <p><span class="ti-location-pin"></span> Padur</p>
-                     </div>
-                  </div>
-                  <div class="single_appartment_content">
-                     <a href="" class="love_us"> <span class="ti-heart"></span> </a>
-                     <p>Apartment</p>
-                     <a href="#">
-                        <h4>TVH OURANYA BAY</h4>
-                     </a>
-                     <ul class="list-unstyled">
-                        <li><a href=""><span class="ti-layout-grid3-alt"></span></a> 29</li>
-                        <li><a href=""><span class="flaticon-bed"></span></a>2/3BHK</li>
-                        <li><a href=""><span class="flaticon-frame"></span></a>1210/2084 Sqft</li>
+            <div class="col-md-4 mb-20">
+               <div class="flip-card">
+                 <div class="flip-card-inner">
+                   <div class="flip-card-front">
+                     <img src="img/custom/ouranya-1.jpg" alt="ouranya-1">
+                     <span>
+                        <h3>TVH OURANYA BAY</h3>
+                        <label>Apartments</label>
+                     </span>
+                   </div>
+                   <div class="flip-card-back">
+                     <h1>TVH OURANYA BAY</h1> 
+                     <ul>
+                        <li><i class="ti-location-pin"></i> Padur</li>
+                        <li>Floors: 29</li>
+                        <li>2BHK - 1210Sqft</li>
+                        <li>3BHK - 2084Sqft</li>
+                        <li>₹75Lakhs onwards</li>
+                        <li><a href="landing-page/ouranya-bay/">Know more</a></li>
                      </ul>
-                  </div>
+                   </div>
+                 </div>
                </div>
             </div>
-            <div class="col-md-4 col-lg-4 mb-20">
-               <div class="single_appartment_part">
-                  <div class="appartment_img">
-                     <img src="http://www.tvh.in/wp-content/uploads/2015/07/Taus.jpg" alt="">
-                     <div class="single_appartment_text">
-                        <h3>₹38 Lakhs onwards</h3>
-                        <p><span class="ti-location-pin"></span> Navalur</p>
-                     </div>
-                  </div>
-                  <div class="single_appartment_content">
-                     <a href="" class="love_us"> <span class="ti-heart"></span> </a>
-                     <p>Apartments</p>
-                     <a href="#">
-                        <h4>TVH TAUS</h4>
-                     </a>
-                     <ul class="list-unstyled">
-                        <li><a href=""><span class="ti-layout-grid3-alt"></span></a> 7</li>
-                        <li><a href=""><span class="flaticon-bed"></span></a>3/4BHK</li>
-                        <li><a href=""><span class="flaticon-frame"></span></a>3000/3600 Sqft</li>
+            <div class="col-md-4 mb-20">
+               <div class="flip-card">
+                 <div class="flip-card-inner">
+                   <div class="flip-card-front">
+                     <img src="img/custom/Taus.jpg" alt="Taus">
+                     <span>
+                        <h3>TVH TAUS</h3>
+                        <label>Apartments</label>
+                     </span>
+                   </div>
+                   <div class="flip-card-back">
+                     <h1>TVH TAUS</h1> 
+                     <ul>
+                        <li><i class="ti-location-pin"></i> Navalur</li>
+                        <li>Floors: 7</li>
+                        <li>3BHK - 3000Sqft</li>
+                        <li>4BHK - 3600Sqft</li>
+                        <li>₹38 Lakhs onwards</li>
+                        <li><a href="landing-page/tvh-taus/">Know more</a></li>
                      </ul>
-                  </div>
+                   </div>
+                 </div>
                </div>
             </div>
-            <div class="col-md-4 col-lg-4 mb-20">
-               <div class="single_appartment_part">
-                  <div class="appartment_img">
-                     <img src="http://www.tvh.in/wp-content/uploads/2015/07/Svaya_TVH.jpg" alt="">
-                     <div class="single_appartment_text">
-                        <h3>₹ 14.84L to ₹ 28.75L</h3>
-                        <p><span class="ti-location-pin"></span> Sriperumbudur</p>
-                     </div>
-                  </div>
-                  <div class="single_appartment_content">
-                     <a href="" class="love_us"> <span class="ti-heart"></span> </a>
-                     <p>Apartments</p>
-                     <a href="#">
-                        <h4>TVH SVAYA</h4>
-                     </a>
-                     <ul class="list-unstyled">
-                        <li><a href=""><span class="ti-layout-grid3-alt"></span></a> 4</li>
-                        <li><a href=""><span class="flaticon-bed"></span></a>1.5/2.5BHK</li>
-                        <li><a href=""><span class="flaticon-frame"></span></a>650/1085 Sqft</li>
+            <div class="col-md-4 mb-20">
+               <div class="flip-card">
+                 <div class="flip-card-inner">
+                   <div class="flip-card-front">
+                     <img src="img/custom/Svaya_TVH.jpg" alt="Svaya_TVH">
+                     <span>
+                        <h3>TVH SVAYA</h3>
+                        <label>Apartments</label>
+                     </span>
+                   </div>
+                   <div class="flip-card-back">
+                     <h1>TVH SVAYA</h1> 
+                     <ul>
+                        <li><i class="ti-location-pin"></i> Sriperumbudur</li>
+                        <li>Floors: 4</li>
+                        <li>1.5BHK - 650Sqft</li>
+                        <li>2.5BHK - 1085Sqft</li>
+                        <li>₹ 14.84L to ₹ 28.75L</li>
+                        <li><a href="http://www.tvh.in/properties/tvh-svaya/">Know more</a></li>
                      </ul>
-                  </div>
+                   </div>
+                 </div>
                </div>
             </div>
-            <div class="col-md-4 col-lg-4 mb-20">
-               <div class="single_appartment_part">
-                  <div class="appartment_img">
-                     <img src="http://www.tvh.in/wp-content/uploads/2015/07/Lumbini_tvh.jpg" alt="">
-                     <div class="single_appartment_text">
-                        <h3>₹2.47Cr</h3>
-                        <p><span class="ti-location-pin"></span> Purasawalkam</p>
-                     </div>
-                  </div>
-                  <div class="single_appartment_content">
-                     <a href="" class="love_us"> <span class="ti-heart"></span> </a>
-                     <p>Luxury Apartments</p>
-                     <a href="#">
-                        <h4>TVH LUMBINI SQUARE</h4>
-                     </a>
-                     <ul class="list-unstyled">
-                        <li><a href=""><span class="ti-layout-grid3-alt"></span></a> 18</li>
-                        <li><a href=""><span class="">PH:</span></a> 4000Sqft</li>
-                        <li><a href=""><span class="">DX:</span></a> 6000Sqft</li>
+            <div class="col-md-4 mb-20">
+               <div class="flip-card">
+                 <div class="flip-card-inner">
+                   <div class="flip-card-front">
+                     <img src="img/custom/Lumbini_tvh.jpg" alt="Lumbini_tvh">
+                     <span>
+                        <h3>TVH LUMBINI SQUARE</h3>
+                        <label>Luxury Apartments</label>
+                     </span>
+                   </div>
+                   <div class="flip-card-back">
+                     <h1>TVH LUMBINI SQUARE</h1> 
+                     <ul>
+                        <li><i class="ti-location-pin"></i> Purasawalkam</li>
+                        <li>Floors: 18</li>
+                        <li>PH - 4000Sqft</li>
+                        <li>DX - 6000Sqft</li>
+                        <li>₹2.47Cr</li>
+                        <li><a href="http://www.tvh.in/properties/tvh-svaya/">Know more</a></li>
                      </ul>
-                  </div>
+                   </div>
+                 </div>
                </div>
             </div>
-            <div class="col-md-4 col-lg-4 mb-20">
-               <div class="single_appartment_part">
-                  <div class="appartment_img">
-                     <img src="http://www.tvh.in/wp-content/uploads/2015/05/Svasti.jpg" alt="">
-                     <div class="single_appartment_text">
-                        <h3>₹84 Lac to 1.1 Crore</h3>
-                        <p><span class="ti-location-pin"></span> Thoraipakkam</p>
-                     </div>
-                  </div>
-                  <div class="single_appartment_content">
-                     <a href="" class="love_us"> <span class="ti-heart"></span> </a>
-                     <p>Apartments</p>
-                     <a href="#">
-                        <h4>TVH SVASTI</h4>
-                     </a>
-                     <ul class="list-unstyled">
-                        <li><a href=""><span class="ti-layout-grid3-alt"></span></a> G+4</li>
-                        <li><a href=""><span class="flaticon-bed"></span></a>3BHK</li>
-                        <li><a href=""><span class="flaticon-frame"></span></a>1586 Sqft</li>
+            <div class="col-md-4 mb-20">
+               <div class="flip-card">
+                 <div class="flip-card-inner">
+                   <div class="flip-card-front">
+                     <img src="img/custom/Svasti.jpg" alt="Svasti">
+                     <span>
+                        <h3>TVH SVASTI</h3>
+                        <label>Apartments</label>
+                     </span>
+                   </div>
+                   <div class="flip-card-back">
+                     <h1>TVH SVASTI</h1> 
+                     <ul>
+                        <li><i class="ti-location-pin"></i> Thoraipakkam</li>
+                        <li>Floors: G+4</li>
+                        <li>3BHK - 1586Sqft</li>
+                        <li>₹84 Lac to 1.1 Crore</li>
+                        <li><a href="http://www.tvh.in/properties/tvh-svasti/">Know more</a></li>
                      </ul>
-                  </div>
+                   </div>
+                 </div>
                </div>
             </div>
-            <div class="col-md-4 col-lg-4 mb-20">
-               <div class="single_appartment_part">
-                  <div class="appartment_img">
-                     <img src="http://www.tvh.in/wp-content/uploads/2015/07/view3.jpg" alt="">
-                     <div class="single_appartment_text">
-                        <h3>₹--</h3>
-                        <p><span class="ti-location-pin"></span> </p>
-                     </div>
-                  </div>
-                  <div class="single_appartment_content">
-                     <a href="" class="love_us"> <span class="ti-heart"></span> </a>
-                     <p>Commercial</p>
-                     <a href="#">
-                        <h4>TVH AGNITIOPARK</h4>
-                     </a>
-                     <ul class="list-unstyled">
-                        <!-- <li><a href=""><span class="ti-layout-grid3-alt"></span></a> 29</li>
-                        <li><a href=""><span class="flaticon-bed"></span></a>2/3BHK</li>
-                        <li><a href=""><span class="flaticon-frame"></span></a>1210/2084 Sqft</li> -->
-                        <li>Comming Soon</li>
+            <div class="col-md-4 mb-20">
+               <div class="flip-card">
+                 <div class="flip-card-inner">
+                   <div class="flip-card-front">
+                     <img src="img/custom/agnitiopark.jpg" alt="agnitiopark" height="225">
+                     <span>
+                        <h3>TVH AGNITIOPARK</h3>
+                        <label>Commercial</label>
+                     </span>
+                   </div>
+                   <div class="flip-card-back">
+                     <h1>TVH AGNITIOPARK</h1> 
+                     <ul>
+                        <li><i class="ti-location-pin"></i> comming soon</li>
+                        <li><a href="landing-page/agnitiopark/">Know more</a></li>
                      </ul>
-                  </div>
+                   </div>
+                 </div>
                </div>
             </div>
          </div>

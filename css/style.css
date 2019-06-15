@@ -81,7 +81,7 @@ a:hover, a :hover {
 
 /* line 48, E:/161 Real estate/161_Real_state_html/sass/_common.scss */
 h1, h2, h3, h4, h5, h6 {
-  color: #14303a;
+  color: #970e76;
   font-family: "Poppins", sans-serif;
 }
 
@@ -341,7 +341,7 @@ ul {
 .main_menu .navbar .main-menu-item .navbar-nav a {
   padding: 0px 22px;
   font-size: 14px;
-  color: #14303a;
+  color: #990f6f;
   text-transform: capitalize;
 }
 
@@ -545,6 +545,7 @@ ul {
   display: flex;
   align-items: center;
   position: relative;
+  background-image: url(../img/background.jpg);
 }
 
 /* line 7, E:/161 Real estate/161_Real_state_html/sass/_banner.scss */
@@ -650,7 +651,7 @@ ul {
   text-transform: uppercase;
   font-family: "Open Sans", sans-serif;
   font-weight: 600;
-  color: #666666;
+  color: #fff;
 }
 
 /* line 66, E:/161 Real estate/161_Real_state_html/sass/_banner.scss */
@@ -701,7 +702,7 @@ ul {
   font-size: 14px;
   line-height: 1.929;
   font-family: "Poppins", sans-serif;
-  color: #777777;
+  color: #fff;
 }
 
 /* line 99, E:/161 Real estate/161_Real_state_html/sass/_banner.scss */
@@ -904,7 +905,8 @@ ul {
   right: 0;
   width: 60%;
   height: 100%;
-  background-color: #F7F7F7;
+  /*background-color: #F7F7F7;*/
+  background-image: url(../img/background.jpg);
   z-index: -1;
 }
 
@@ -1743,7 +1745,8 @@ ul {
 /* line 59, E:/161 Real estate/161_Real_state_html/sass/_room_part.scss */
 .room_part .container-fluid .room_1 .room_text_1 {
   padding: 40px;
-  background-color: #fff;
+  /*background-color: #fff;*/
+  background-image: url(../img/background.jpg);
   box-shadow: 1px 15px 30px #14303a15;
   width: 510px;
   position: absolute;
@@ -1863,7 +1866,8 @@ ul {
 /* line 131, E:/161 Real estate/161_Real_state_html/sass/_room_part.scss */
 .room_part .container-fluid .room_2 .room_text_2 {
   padding: 40px;
-  background-color: #fff;
+  /*background-color: #fff;*/
+  background-image: url(../img/background.jpg);
   box-shadow: 1px 15px 30px #14303a15;
   width: 510px;
   position: absolute;
@@ -2087,7 +2091,7 @@ ul {
 
 /* line 84, E:/161 Real estate/161_Real_state_html/sass/_review.scss */
 .review_part .section_tittle h1 {
-  color: #14303a;
+  color: #970e76;
 }
 
 /* line 89, E:/161 Real estate/161_Real_state_html/sass/_review.scss */
@@ -2207,13 +2211,13 @@ ul {
 /* line 2, E:/161 Real estate/161_Real_state_html/sass/_cta.scss */
 .cta_part {
   position: relative;
-  z-index: 1;
-  background-image: url("../img/cta_bg.png");
+  /*z-index: 1;*/
+  background-image: url("../img/background.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
-  padding: 170px 0px;
+  padding: 100px 0px;
 }
 
 @media (max-width: 576px) {
@@ -2450,7 +2454,7 @@ ul {
 
 /* line 75, E:/161 Real estate/161_Real_state_html/sass/_blog_part.scss */
 .blog_part .section_tittle h1 {
-  color: #14303a;
+  color: #970e76;
 }
 
 /* line 80, E:/161 Real estate/161_Real_state_html/sass/_blog_part.scss */

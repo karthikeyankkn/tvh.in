@@ -50,6 +50,7 @@ hr{
     border: 2px solid #9a2c6f;
     padding: 10px 15px !important;
     border-radius: 40px;
+    background: #fff;
 }
 .tvh-home-call-button i{
     transform: rotate(90deg);

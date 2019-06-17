@@ -1167,11 +1167,12 @@ ul {
 /************passion css start***************/
 /* line 2, E:/161 Real estate/161_Real_state_html/sass/_passion.scss */
 .passion_part {
-  background-image: url("../img/passion_bg.png");
+  background-image: url("../img/custom/why-tvh.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top;
+  background-attachment: fixed;
   padding: 250px 0px 130px;
   position: relative;
   z-index: 1;
@@ -2220,6 +2221,7 @@ ul {
   background-size: cover;
   text-align: center;
   padding: 100px 0px;
+  background-attachment: fixed;
 }
 
 @media (max-width: 576px) {
